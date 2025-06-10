@@ -1,0 +1,1489 @@
+CHAMADO;ID_JIRA;UF;MUNICIPIO;TIPO_ETABELECIMENTO;CONCORRENTE;STATUS;DATA_INI;DATA_FIM
+CON-1513;2495018;SC;Atalant - SC;Ministério Público;Consignet;Ativo;24/04/2025;24/04/1930
+CON-1512;2495012;RS;Quinze de Novembro - RS;Prefeitura Municipal;Consignet;Ativo;15/05/2025;15/05/1930
+CON-1511;2494917;RS;Amaral Ferrador - RS;Prefeitura Municipal;Consignet;Ativo;09/05/2025;09/05/1930
+CON-1510;2494914;RS;Câmara dos Vereadores de Tramandaí ;Câmara Municipal;Consignet;Ativo;02/06/2025;02/06/1930
+CON-1509;2494856;PB;Caaporã - PB;Prefeitura Municipal;Infoconsig;Ativo;11/04/2025;11/04/2026
+CON-1508;2493724;RN;Tibau do Sul - RN;Prefeitura Municipal;SP Consig;Ativo;25/04/2025;25/04/1930
+CON-1507;2493708;PR;SAMAE - Jaguariaíva - PR;Autarquia;Consignet;Ativo;25/06/2025;25/06/1930
+CON-1506;2493689;PI;Avelino Lopes - PI;Prefeitura Municipal;Consignet;Ativo;09/04/2025;31/12/2025
+CON-1505;2493675;PE;Goiana - PE;Prefeitura Municipal;Consignet;Ativo;24/03/2025;24/03/1930
+CON-1504;2493671;MG;Instituto Previdência Montes Claros - PREVMOC - MG;Instituto de Previdência;Quantum;Ativo;03/06/2025;06/06/1930
+CON-1503;2489536;MG;Rio Paranaíba - MG;Prefeitura Municipal;Consignet;Ativo;29/05/2025;29/05/1930
+CON-1502;2487541;GO;Porangatu - GO;Prefeitura Municipal;VilleFort;Ativo;02/06/2025;02/06/2026
+CON-1501;2485080;SP;Instituto de Previdência Servidores - Olimpia/SP ;Instituto de Previdência;Consignet;Ativo;19/05/2025;19/05/1930
+CON-1500;2484646;AL;Santa Luizia do Norte - AL;Câmara Municipal;NewVersion;Ativo;21/01/2025;21/01/1930
+CON-1499;2477690;MT;ALTA FLORESTA - MT;Câmara Municipal;Digital Consig;Ativo;20/05/2025;20/05/1930
+CON-1498;2476624;MT;JUSCIMEIRA;Prefeitura Municipal;Digital Consig;Ativo;15/05/2025;15/05/1935
+CON-1497;2475509;SP;IPRC - INSTITUTO DE PREVIDENCIA DO MUNICIPIO DE RIO CLARO/SP;Instituto de Previdência;Consignet;Ativo;08/04/2025;08/04/1930
+CON-1496;2475493;RS;PEDRAS ALTAS/RS;Prefeitura Municipal;Consignet;Ativo;30/04/2025;30/04/1930
+CON-1495;2474913;RS;CAPÃO BONITO DO SUL;Prefeitura Municipal;Consignet;Ativo;16/05/2025;19/05/2026
+CON-1494;2474615;RN;GOIANINHA - RN;Prefeitura Municipal;Fácil;Ativo;13/05/2025;15/05/1930
+CON-1493;2474544;MA; PREFEITURA MUNICIPAL DE LAGO VERDE/MA;Prefeitura Municipal;Fácil;Ativo;02/05/2025;02/05/1930
+CON-1492;2474435;SC;INSTITUTO DE PREVIDÊNCIA DO MUNICIPIO DE MAFRA IPMM - SC;Instituto de Previdência;Safe Consig;Ativo;13/05/2025;13/05/1930
+CON-1491;2474362;PI; JULIO BORGES/PI;Prefeitura Municipal;Consignet;Ativo;10/04/2025;10/04/1930
+CON-1490;2469994;PI; BOM PRINCÍPIO DO PIAUI/PI;Prefeitura Municipal;Consignet;Ativo;29/04/2025;29/04/1930
+CON-1489;2469975;PE;FUNDO PREVIDENCIARIO DO MUNICIPIO DE SANTA FILOMENA/PE;Instituto de Previdência;Consignet;Ativo;11/04/2025;11/04/1930
+CON-1488;2469247;MT;FIGUEIRÓPOLIS D'OESTE - MT;Prefeitura Municipal;Digital Consig;Ativo;16/04/2025;16/04/1930
+CON-1487;2467865;DF;BRB CREDITO FINANCIAMENTO E INVESTIMENTO S A;Instituição Financeira;Quantum;Ativo;17/04/2025;17/04/2026
+CON-1486;2466689;MT;RIBEIRÃOZINHO - MT;Prefeitura Municipal;Digital Consig;Ativo;11/02/2025;09/02/1935
+CON-1485;2466683;MT;: MUNICÍPIO DE GUIRATINGA - MT;Prefeitura Municipal;Digital Consig;Ativo;25/04/2025;24/04/1935
+CON-1484;2466676;GO; MUNICÍPIO DE CALDAZINHA - GO;Prefeitura Municipal;Digital Consig;Ativo;24/04/2025;24/04/1930
+CON-1483;2466570;MT; Câmara Municipal de Sinop - MT;Câmara Municipal;Digital Consig;Ativo;06/05/2025;06/05/1930
+CON-1482;2465907;MS;Naviraí - MS;Prefeitura Municipal;Fasitec;Ativo;28/01/2025;28/01/1930
+CON-1481;2465898;MS;Camapuã - MS;Prefeitura Municipal;Consignet;Ativo;30/01/2025;30/01/1930
+CON-1480;2465886;RJ;Nova Iguaçu (PREVINI) - RJ;Instituto de Previdência;Gestão Consig;Ativo;06/05/2025;06/05/1930
+CON-1479;2464871;PE;Jataúba - PE;Prefeitura Municipal;Consignet;Ativo;24/03/2025;24/03/1930
+CON-1478;2464842;BA;Teixeira de Freitas - BA;Prefeitura Municipal;ConsigLog;Ativo;07/05/2025;07/05/1930
+CON-1477;2461537;RS;FUNDO DE PREVIDENCIA SOCIAL DO MUNICIPIO DE ALEGRIA - FPSM;Instituto de Previdência;ASBAN;Ativo;23/04/2025;23/04/1930
+CON-1476;2461461;RN;MUNICIPIO DE SERRA NEGRA DO NORTE/RN;Prefeitura Municipal;Consignet;Inativo;10/04/2025;10/04/1930
+CON-1475;2461455;RS;SÃO JOSÉ DE MIPIBU - RN;Prefeitura Municipal;SP Consig;Ativo;25/04/2025;25/04/1930
+CON-1474;2461423;PE;ALTINHO/PE;Prefeitura Municipal;Consignet;Ativo;15/02/2025;15/02/1930
+CON-1473;2460841;MT; CÂMARA MUNICIPAL DE ALTO ARAGUAIA - MT;Câmara Municipal;Digital Consig;Ativo;28/03/2025;28/03/1930
+CON-1472;2460836;RS;FUNDO DE APOSENTADORIA E PENSAO DO MUNICIPIO DE ALEGRETE - ALEGRETE;Instituto de Previdência;Consignet;Ativo;29/04/2025;29/04/1930
+CON-1471;2460827;PI;SÃO GONÇALO DO GURGUEIA/PI;Prefeitura Municipal;Consignet;Ativo;11/04/2025;11/04/1930
+CON-1470;2460816;PE;MUNICIPIO DE CARNAUBEIRA DA PENHA/PE;Prefeitura Municipal;Consignet;Ativo;17/01/2025;16/01/1930
+CON-1469;2455278;CE;MUNICIPIO DE GUARACIABA DO NORTE/CE;Prefeitura Municipal;Safe Consig;Ativo;03/04/2025;03/04/1930
+CON-1468;2454816;PR;IPPLAM - INSTITUTO DE PESQUISA E PLANEJAMENTO URBANO DE MARINGÁ;Autarquia;Consignet;Ativo;22/04/2025;21/04/2026
+CON-1467;2454793;MS;CAMARA MUNICIPAL DE VEREADORES DE JARDIM/MS;Câmara Municipal;Consignet;Ativo;24/04/2025;24/04/1930
+CON-1466;2454083;MG;Pitangui - MG;Prefeitura Municipal;Consignet;Ativo;02/04/2025;02/04/1930
+CON-1465;2453352;SP;Tupã/SP;Câmara Municipal;Consignet;Ativo;01/04/2025;01/04/1930
+CON-1464;2452290;MT;Câmara de Santa Rita do Trivelato - MT;Câmara Municipal;Digital Consig;Ativo;22/04/2025;22/04/1930
+CON-1463;2452114;RS;Osório - RS;Prefeitura Municipal;Consignet;Ativo;23/04/2025;23/04/1930
+CON-1462;2452107;RS;Morro Redondo - RS ;Prefeitura Municipal;Consignet;Inativo;01/04/2025;01/04/1930
+CON-1461;2451904;PR;INSTITUTO AMBIENTAL DE MARINGÁ . IAM;Autarquia;Consignet;Ativo;22/04/2025;22/04/2026
+CON-1460;2451903;PR;AGÊNCIA MARINGAENSE DE REGULAÇÃO - AMR;Autarquia;Consignet;Ativo;22/04/2025;22/04/2026
+CON-1459;2451902;PR;Maringá - PR;Prefeitura Municipal;Consignet;Ativo;22/04/2025;22/04/2026
+CON-1458;2450668;SP;Olímpia - SP;Prefeitura Municipal;Consignet;Ativo;24/04/2025;24/04/1930
+CON-1457;2449459;RS;CAMARA MUNICIPAL DOS VEREADORES DE SÃO NICOLAU/RS;Câmara Municipal;Consignet;Ativo;16/04/2025;16/04/1930
+CON-1456;2449449;RS;CORONEL BARROS - RS;Prefeitura Municipal;ASBAN;Ativo;15/04/2025;14/04/1930
+CON-1455;2449442;PE;JOÃO ALFREDO - PE ;Prefeitura Municipal;NewVersion;Ativo;15/04/2025;15/01/1930
+CON-1454;2449364;PB;Instituto de Previdência dos Servidores Municipais  de Soledade -  IPSOL ;Instituto de Previdência;SP Consig;Ativo;08/01/2025;08/01/2029
+CON-1453;2449304;PE;ARCOVERDE - PE;Prefeitura Municipal;NewVersion;Ativo;03/04/2025;03/04/1930
+CON-1452;2448887;DF;BANCO DE BRASÍLIA S/A;Instituição Financeira;NeoConsig;Ativo;28/03/2025;28/03/2028
+CON-1451;2448881;RS;São João do Polêsine - RS;Prefeitura Municipal;Consignet;Ativo;26/03/2025;26/03/1930
+CON-1450;2448176;RN;Japi;Prefeitura Municipal;SP Consig;Ativo;11/12/2024;11/12/2029
+CON-1449;2446265;RS;MARIANA PIMENTEL - RS;Prefeitura Municipal;ASBAN;Ativo;09/04/2025;09/04/1930
+CON-1448;2446254;RO;RIO CRESPO;Câmara Municipal;Consignet;Ativo;08/04/2025;09/04/1930
+CON-1447;2444207;SP;Itapetininga - SP;Prefeitura Municipal;Consignet;Ativo;31/03/2025;31/03/2026
+CON-1446;2441471;PI;Corrente - PI;Prefeitura Municipal;Consignet;Ativo;03/04/2025;03/04/1930
+CON-1445;2441466;AM;Câmara Municipal Ipixuna - AM;Câmara Municipal;Digital Consig;Ativo;26/03/2025;26/03/1930
+CON-1444;2441465;AL;Água Boa - AL;Prefeitura Municipal;Fasitec;Ativo;09/04/2025;09/04/1930
+CON-1443;2441004;RS;Derrubadas - RS;Prefeitura Municipal;Consignet;Ativo;04/04/2025;04/04/1930
+CON-1442;2440997;RS;INSTITUTO DE PREVIDENCIA DOS SERVIDORES  PUBLICOS DO MUNICIPIO DE NOVA HARTZ - RS;Instituto de Previdência;Consignet;Ativo;09/04/2025;09/04/1930
+CON-1441;2440989;RS;Santa do Livramento - RS;Prefeitura Municipal;Consignet;Ativo;09/04/2025;09/04/1930
+CON-1440;2440827;PR;Sertanópolis - PR;Prefeitura Municipal;Consignet;Ativo;19/03/2025;19/03/1930
+CON-1439;2439282;MT;Comodoro Previ - MT;Instituto de Previdência;Digital Consig;Ativo;04/04/2025;04/04/1930
+CON-1438;2438490;CE;Madalena - CE;Prefeitura Municipal;Digital Consig;Ativo;12/03/2025;12/03/1930
+CON-1437;2438480;PA;Marituba - PA;Prefeitura Municipal;NeoConsig;Ativo;25/03/2025;25/03/2026
+CON-1436;2438474;MT;Santa Rita do Trivelato - MT;Prefeitura Municipal;Digital Consig;Ativo;18/03/2025;18/03/1935
+CON-1435;2438313;SP;Itapetininga - SP;Prefeitura Municipal;Consignet;Ativo;25/03/2025;25/03/1930
+CON-1434;2437695;MS;MUNICIPIO DE BRASILANDIA/MS ;Prefeitura Municipal;Consignet;Ativo;12/03/2025;12/03/1930
+CON-1433;2436762;ES;João Neiva - ES;Prefeitura Municipal;Fasitec;Ativo;03/04/2025;03/04/1930
+CON-1432;2435604;PE;MUNICIPIO DE SALGUEIRO/PE;Prefeitura Municipal;Consignet;Ativo;31/03/2025;30/03/1930
+CON-1431;2435334;RS; Entre-Ijuís - RS;Prefeitura Municipal;Consignet;Ativo;03/04/2025;03/04/1930
+CON-1430;2435091;MG;MONTES CLAROS . MG;Prefeitura Municipal;Quantum;Ativo;31/03/2025;29/03/1930
+CON-1429;2435082;SC;IPRERIO - INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS MUNICIPAIS DE RIO NEGRINHO/SC;Instituto de Previdência;Consignet;Ativo;31/03/2025;30/03/1930
+CON-1428;2434023;PA;Paragominas - PA;Prefeitura Municipal;BRTEC;Ativo;02/04/2025;02/04/1930
+CON-1427;2433919;RS;Araricá - RS;Prefeitura Municipal;ASBAN;Ativo;01/04/2025;01/04/1930
+CON-1426;2433912;PR;INSTITUTO DE SEGURIDADE SOCIAL DO MUNICIPIO DE  LOBATO - LOBATOPREV;Instituto de Previdência;Consignet;Ativo;04/04/2025;04/04/1930
+CON-1425;2433286;RS;Arambaré - RN;Prefeitura Municipal;Consignet;Ativo;19/03/2025;19/03/1930
+CON-1424;2433263;RN;Coronel Ezequiel - RN;Prefeitura Municipal;Consignet;Ativo;17/03/2025;17/03/1930
+CON-1423;2433251;PR;São Pedro do Paraná- PR;Prefeitura Municipal;Consignet;Ativo;08/04/2025;08/04/1930
+CON-1422;2428630;MT;ARIPUANÃ - MT;Câmara Municipal;Digital Consig;Ativo;26/03/2025;26/03/1930
+CON-1421;2428567;PI;JOAQUIM PIRES - PI ;Prefeitura Municipal;Digital Consig;Ativo;26/02/2025;26/02/1930
+CON-1420;2428031;MT;CAMARA MUNICIPAL DE CONFRESA- MT ;Câmara Municipal;Digital Consig;Ativo;17/03/2025;15/03/1930
+CON-1419;2426345;RO;São Felipe D'Oeste - RO;Prefeitura Municipal;Consignet;Inativo;24/02/2025;24/03/2025
+CON-1418;2426341;PE;SAAE . SERVIÇO AUTÔNOMO DE  ÁGUA E ESGOTO DO MUNICÍPIO DA ÁGUA PRETA . PE;Autarquia;Fácil;Ativo;24/03/2025;24/03/1930
+CON-1417;2426336;PA;Novo Progresso - PA;Câmara Municipal;Digital Consig;Ativo;14/03/2025;14/03/1930
+CON-1416;2423824;RJ;Resende - RJ;Instituto de Previdência;Fácil;Ativo;14/03/2025;14/09/2025
+CON-1415;2423818;RS;Mostardas - RS;Prefeitura Municipal;Consignet;Ativo;21/03/2025;21/03/1930
+CON-1414;2423812;RS;Novo Cabrais - RS;Prefeitura Municipal;Consignet;Ativo;21/03/2025;21/03/1930
+CON-1413;2423113;GO;São Luiz do Norte - GO;Prefeitura Municipal;Digital Consig;Ativo;19/03/2025;19/03/1930
+CON-1412;2423095;RS;Barracao - RS;Prefeitura Municipal;Consignet;Ativo;19/03/2025;19/03/1930
+CON-1411;2420029;RS;São Domingos do Sul - RS;Prefeitura Municipal;Consignet;Ativo;14/03/2025;14/03/1930
+CON-1410;2420010;BA;Jacobina - BA;Prefeitura Municipal;Fasitec;Ativo;13/03/2025;31/12/2028
+CON-1409;2418547;RN;Previdência Municipal de Lajes - RN;Instituto de Previdência;SP Consig;Ativo;16/11/2023;16/11/2028
+CON-1408;2418540;SP;Vinhedo - SP;Prefeitura Municipal;ConsigLog;Ativo;13/03/2025;13/03/2029
+CON-1407;2418451;MG;INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS  DE PIRAPORA (IPSEMP;Instituto de Previdência;Consignet;Ativo;10/03/2025;10/03/1930
+CON-1406;2416704;RS;Taquari - RS;Prefeitura Municipal;Consignet;Ativo;14/03/2025;14/03/2026
+CON-1405;2415557;RS;Santa Bárbara do Sul - RS;Prefeitura Municipal;Consignet;Ativo;24/03/2025;24/03/2026
+CON-1404;2415457;SP;Guarujá - SP;Prefeitura Municipal;ConsigLog;Ativo;14/03/2025;14/03/2026
+CON-1403;2414563;RS;Cândido Godói - RS;Prefeitura Municipal;Consignet;Ativo;12/03/2025;12/03/1930
+CON-1402;2414470;PE;Instituto de Previdência Social do Município Paulista - PE;Instituto de Previdência;Consignet;Inativo;12/03/2025;12/03/2025
+CON-1401;2414427;PA;Belterra - PA;Prefeitura Municipal;Fácil;Ativo;13/03/2025;13/03/1930
+CON-1400;2414179;SP;Pereiras - SP;Prefeitura Municipal;Consignet;Ativo;10/03/2025;10/03/2026
+CON-1399;2414168;AC;Plácido de Castro - AC;Prefeitura Municipal;Consignet;Ativo;03/12/2024;03/12/2029
+CON-1398;2412115;PR;Fênix - PR;Prefeitura Municipal;Consignet;Ativo;18/02/2025;18/02/1930
+CON-1397;2409441;AC;Câmara Municipal Feijó - AC;Câmara Municipal;Consignet;Ativo;06/03/2025;06/03/1930
+CON-1396;2407557;MS;INSTITUTO DE APOSENTADORIA E PENSÕES DOS SERVIDORES MUNICIPAIS DE TERENOS - IAPESEM - MS;Instituto de Previdência;Consignet;Ativo;04/03/2025;04/03/1930
+CON-1395;2407547;AM;Borba - AM;Prefeitura Municipal;Fasitec;Ativo;01/01/2025;01/01/2026
+CON-1394;2407530;MG;Euroforte Agrociências LTDA.;Empresa Privada;Total For;Ativo;06/03/2025;04/02/1930
+CON-1393;2407525;SP;Empresa Municipal de Construções Populares - EMCOP;Empresa Privada;Quantum;Iniciando Renovação;06/03/2025;28/07/2025
+CON-1392;2407509;SC;Balneário Gaivota - SC;Prefeitura Municipal;Infoconsig;Ativo;06/03/2025;01/11/2029
+CON-1391;2403401;GO;Luziânia - GO;Câmara Municipal;Fasitec;Ativo;25/02/2025;25/02/1930
+CON-1390;2402754;PE;Ouricuri - PE;Prefeitura Municipal;Consignet;Ativo;20/03/2025;20/03/1930
+CON-1389;2402730;MA;Ribamar Fiquene - MA ;Prefeitura Municipal;Consignet;Ativo;30/01/2025;30/01/1930
+CON-1388;2401422;RS;Almirante Tamandaré do Sul - RS ;Prefeitura Municipal;ASBAN;Ativo;07/02/2025;07/02/1930
+CON-1387;2401407;GO;Aparecida do Rio Doce - GO;Prefeitura Municipal;Consignet;Ativo;17/02/2025;17/02/1930
+CON-1386;2401402;AL;Cacimbinhas - AL;Prefeitura Municipal;Fasitec;Ativo;26/02/2025;26/02/1930
+CON-1385;2400653;MA;São João do Soter - MA;Prefeitura Municipal;Fácil;Ativo;18/02/2025;18/02/1930
+CON-1384;2400645;PR;Paranavaí - PR;Prefeitura Municipal;Montreal;Ativo;25/02/2025;06/10/2028
+CON-1383;2400643;CE;Umirim - CE;Prefeitura Municipal;Fácil;Ativo;25/02/2025;01/06/2027
+CON-1382;2400344;GO;Fundo de Previdência Municipal dos Servidores de Pires do Rio - GO;Instituto de Previdência;Digital Consig;Ativo;25/02/2025;09/03/2027
+CON-1381;2400305;RS;Anta Gorda - RS;Prefeitura Municipal;Consignet;Ativo;25/02/2025;06/10/2026
+CON-1380;2400281;SE;Siriri - SE;Prefeitura Municipal;Gestão Consig;Iniciando Renovação;25/02/2025;22/07/2025
+CON-1379;2399492;MT;Porto Esperidião - MT;Prefeitura Municipal;Consignet;Ativo;19/02/2025;19/02/1930
+CON-1378;2398916;PI;Murici dos Portelas - PI;Prefeitura Municipal;NewVersion;Ativo;10/02/2025;10/02/1930
+CON-1377;2398903;SC;Ministério Público de Santa Catarina - MPSC;Ministério Público;Consignet;Ativo;08/06/2023;08/06/2028
+CON-1376;2398578;PR;Verê - PR;Prefeitura Municipal;Consignet;Ativo;06/02/2025;06/02/1930
+CON-1375;2397160;RN;Ipueira - RN;Prefeitura Municipal;Fácil;Ativo;07/02/2025;07/02/1930
+CON-1374;2397143;CE;Aracati - CE;Prefeitura Municipal;Safe Consig;Ativo;20/02/2025;21/07/2026
+CON-1373;2397135;MS;INSTITUTO DE PREVIDÊNCIA MARACAJU - PREVMMAR - MS;Instituto de Previdência;Consignet;Ativo;20/02/2025;19/12/2029
+CON-1372;2397131;GO;Iporá - GO;Prefeitura Municipal;Quantum;Ativo;20/02/2025;08/03/1930
+CON-1371;2397123;RO;Primavera de Rondônia - RO;Prefeitura Municipal;Consignet;Ativo;20/02/2025;22/08/2029
+CON-1370;2397111;SP;Itatiba - SP;Prefeitura Municipal;ConsigLog;Iniciando Renovação;20/02/2025;21/07/2025
+CON-1369;2397100;SP;Mairiporã - SP;Prefeitura Municipal;ConsigLog;Ativo;12/02/2025;12/02/1930
+CON-1368;2397010;PA;Marabá - PA;Prefeitura Municipal;Fácil;Ativo;07/01/2025;07/01/1930
+CON-1367;2394944;PE;Vertentes - PE;Prefeitura Municipal;Fácil;Ativo;18/02/2025;18/02/1930
+CON-1366;2392199;BA;Ministério Público da Bahia - MPBA;Ministério Público;ConsigLog;Ativo;14/02/2025;14/02/1930
+CON-1365;2392111;BA;Nova Fátima - BA;Prefeitura Municipal;Fasitec;Ativo;14/02/2025;09/06/2026
+CON-1364;2392093;RN;Guamaré - RN;Prefeitura Municipal;ConsigLog;Ativo;07/02/2025;07/02/1930
+CON-1363;2389787;CE;Estado do Ceará - CE;Governo de Estado;Safe Consig;Inativo;27/12/2024;11/01/2025
+CON-1362;2386722;SP;EMURB - Empresa Municipal De Urbanismo de São José do Rio Preto;Autarquia;Quantum;Iniciando Renovação;28/01/2020;28/06/2025
+CON-1361;2386585;CE;Russas - CE;Prefeitura Municipal;Fácil;Ativo;10/02/2025;10/02/1930
+CON-1360;2384825;SP;Serviço Autônomo de Água e Esgotos de Jaboticabal/SP ;Autarquia;Consignet;Ativo;27/01/2025;27/01/1930
+CON-1359;2384391;RO;Câmara de Candeias do Jamari;Câmara Municipal;Consignet;Ativo;22/01/2025;22/01/1930
+CON-1358;2384355;RO;Chupinguaia - RO;Câmara Municipal;Consignet;Ativo;20/01/2025;20/01/1930
+CON-1357;2377540;RS;MUNICIPIO DE SAO NICOLAU/RS;Prefeitura Municipal;Consignet;Ativo;15/01/2025;15/01/1930
+CON-1356;2374514;AL;Maragogi - AL;Prefeitura Municipal;Fasitec;Iniciando Renovação;17/01/2025;17/07/2025
+CON-1355;2374192;GO;Goianésia/GO;Câmara Municipal;Fácil;Ativo;17/01/2025;17/01/1930
+CON-1354;2367681;RS;Redentora - RS;Prefeitura Municipal;Consignet;Ativo;14/01/2025;14/01/2029
+CON-1353;2364320;AL;Marechal Deodoro - AL ;Prefeitura Municipal;Fasitec;Ativo;13/01/2025;13/01/2029
+CON-1352;2364312;AL;Santana do Ipanema - AL;Prefeitura Municipal;Fasitec;Ativo;10/01/2025;10/01/2029
+CON-1351;2360633;RS;ESTEIO/RS;Câmara Municipal;ASBAN;Ativo;08/01/2025;10/01/2026
+CON-1350;2360609;RS;MUNICIPIO DE CAPITÃO/RS;Prefeitura Municipal;Consignet;Ativo;07/01/2025;07/01/1930
+CON-1349;2360596;RS;TOROPI -RS ;Prefeitura Municipal;Consignet;Ativo;10/01/2025;09/01/1930
+CON-1348;2360302;PE;INST. PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE GARANHUNS- IPSG;Instituto de Previdência;Fácil;Ativo;01/01/2025;01/01/1930
+CON-1347;2360285;MT;SALTO DO CÉU/MT ;Prefeitura Municipal;Consignet;Ativo;06/01/2025;04/01/1930
+CON-1346;2356392;GO;Rio Verde (GO) ;Prefeitura Municipal;NeoConsig;Ativo;20/12/2024;06/01/2026
+CON-1345;2348615;RS;Unistalda - RS;Prefeitura Municipal;Consignet;Ativo;18/12/2024;18/12/2029
+CON-1344;2348605;PR;Alegrete - RS;Prefeitura Municipal;Consignet;Ativo;09/12/2024;09/12/2029
+CON-1343;2348586;RN;INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE SÃO VICENTE - IPSV;Instituto de Previdência;SP Consig;Ativo;12/12/2024;12/12/2029
+CON-1342;2348542;PI;Alagoinha do Piaui - PI;Prefeitura Municipal;RF1 Participações;Ativo;18/12/2024;18/12/2029
+CON-1341;2342169;RS;CRISSIUMAL;Prefeitura Municipal;Consignet;Ativo;09/12/2024;09/12/2025
+CON-1340;2342046;RN;JOÃO CÂMARA-RN;Prefeitura Municipal;Fácil;Ativo;11/12/2024;11/12/2029
+CON-1339;2342020;ES;IBITIRAMA - ES;Prefeitura Municipal;Fasitec;Ativo;10/12/2024;07/12/2029
+CON-1338;2339787;MA;Graça Aranha - MA;Prefeitura Municipal;Fasitec;Ativo;09/12/2024;09/12/2029
+CON-1337;2337749;RS;Rio dos Índios - RS;Prefeitura Municipal;Consignet;Ativo;06/12/2024;06/12/2029
+CON-1336;2337740;SC;Presidente Nereu - SC;Prefeitura Municipal;Consignet;Ativo;03/12/2024;03/12/2029
+CON-1335;2337734;PR;Cacique Doble - PR;Prefeitura Municipal;Consignet;Ativo;02/12/2024;02/12/2029
+CON-1334;2337112;MT;RIBEIRÃO CASCALHEIRA-MT;Prefeitura Municipal;RF1 Participações;Ativo;26/11/2024;23/11/2029
+CON-1333;2335694;PE;MUNICIPIO DE FEIRA NOVA/PE;Prefeitura Municipal;Consignet;Ativo;18/02/2025;18/02/1930
+CON-1332;2331157;PE;PREFEITURA DE VICÊNCIA - PE;Prefeitura Municipal;Fácil;Ativo;02/12/2024;02/12/2025
+CON-1331;2330593;PE;Floresta - PE;Prefeitura Municipal;Fácil;Ativo;08/11/2024;08/11/2029
+CON-1330;2329673;PR;PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUN. DE PALMITAL/PR;Instituto de Previdência;Consignet;Ativo;28/11/2024;29/11/2025
+CON-1329;2329655;SP;Fundação Municipal de Saúde de Rio Claro - SP;Autarquia;Consignet;Ativo;13/11/2024;13/11/2029
+CON-1328;2325263;RN;Caicó - RN;Prefeitura Municipal;Fácil;Ativo;24/11/2024;24/11/2025
+CON-1327;2325258;PR;FUNDO DE PREVIDENCIA DO MUNICIPIO DE PLANALTO - PR;Instituto de Previdência;Consignet;Ativo;27/11/2024;27/11/2029
+CON-1326;2323702;RN;Pilões - RN;Prefeitura Municipal;SP Consig;Ativo;21/11/2024;21/11/2028
+CON-1325;2323695;SP;Serviço de Assistência à Saúde dos Municipiários de Ribeirão Preto - SASSOM ;Autarquia;Unitedtech;Ativo;21/11/2024;21/11/2029
+CON-1324;2323692;MA;Balsas - MA;Prefeitura Municipal;Safe Consig;Ativo;25/11/2024;25/11/2025
+CON-1322;2321177;BA;Ilhéus - BA;Prefeitura Municipal;ConsigLog;Ativo;13/11/2024;13/11/2025
+CON-1321;2320571;SC;MUNICIPIO DE CAMPOS NOVOS - SC;Prefeitura Municipal;Montreal;Ativo;24/10/2024;24/10/2029
+CON-1320;2320569;RN;Vera Cruz - RN;Prefeitura Municipal;SP Consig;Ativo;13/11/2024;12/11/2029
+CON-1319;2318689;PR;CAMARA MUNICIPAL DE FOZ DO JORDAO/PR;Câmara Municipal;Consignet;Ativo;11/11/2024;09/11/2029
+CON-1318;2318551;SP;Jaboticabal - SP;Prefeitura Municipal;Consignet;Ativo;14/11/2024;14/11/2029
+CON-1317;2318447;RS;São José do Inhacorá - RS;Prefeitura Municipal;ASBAN;Ativo;30/10/2024;30/10/2029
+CON-1316;2318436;PB;Pombal - PB;Prefeitura Municipal;SP Consig;Ativo;25/10/2024;25/10/2028
+CON-1315;2318136;AL;INSTITUTO DE PREVIDENCIA DOS SERVIDORES MUNICIPAIS DE BRANQUINHA - AL;Instituto de Previdência;Fasitec;Ativo;12/11/2024;12/11/2029
+CON-1314;2313919;SP;Tietê - SP;Prefeitura Municipal;Montreal;Inativo;16/06/2024;17/11/2024
+CON-1313;2313541;GO;Turvelândia - GO;Prefeitura Municipal;Consignet;Ativo;07/01/2025;04/01/1930
+CON-1312;2313528;RS;Eunápolis - RS;Prefeitura Municipal;Unitedtech;Ativo;08/11/2024;08/11/2029
+CON-1311;2313034;SP;Santa Fé do Sul - SP;Prefeitura Municipal;Consignet;Ativo;25/09/2024;25/09/2029
+CON-1310;2312872;PR;Foz do Jordão - PR;Prefeitura Municipal;Consignet;Ativo;23/10/2024;23/10/2029
+CON-1309;2310041;RO;Instituto de Previdência Ariquemes/RO;Instituto de Previdência;Consignet;Ativo;04/11/2024;04/11/2029
+CON-1308;2310029;RO;Instituto de Previdência Alvorada do Oeste - RO;Instituto de Previdência;Consignet;Ativo;13/11/2024;13/11/2029
+CON-1307;2302861;RO;Vale do Anari - RO;Câmara Municipal;Consignet;Ativo;14/08/2024;14/08/2029
+CON-1306;2302838;AL;Instituto de Previdência Mar Vermelho - IMPREV - AL;Instituto de Previdência;Fasitec;Ativo;25/10/2024;25/10/2029
+CON-1305;2300933;AM;São Gabriel da Cachoeira - AM;Prefeitura Municipal;ConsigLog;Ativo;24/10/2024;24/10/2029
+CON-1304;2295199;SP;URBAM - São José dos Campos (SP);Outros;Montreal;Ativo;19/09/2024;19/09/2029
+CON-1303;2292748;PR;Reserva do Iguaçu - PR;Prefeitura Municipal;Consignet;Ativo;25/11/2024;25/11/2029
+CON-1302;2291674;SP;Franca - SP;Prefeitura Municipal;Consignet;Ativo;24/09/2024;24/09/2029
+CON-1301;2290349;PA;Novo Progresso - PA;Prefeitura Municipal;Digital Consig;Inativo;11/10/2024;28/11/2024
+CON-1300;2290343;RS;Dilermando de Aguiar - RS ;Prefeitura Municipal;Consignet;Ativo;16/12/2024;16/12/2029
+CON-1299;2289075;SP;SERVIÇO AUTONOMO DE ÁGUA, ESGOTO E MEIO AMBIENTE DE SERTÃOZINHO - SAEMAS - SP;Autarquia;Consignet;Ativo;08/10/2024;08/10/2029
+CON-1298;2288527;SP;Ad'oro SA;Empresa Privada;Consignet;Ativo;09/10/2024;20/10/2027
+CON-1297;2285434;RN;FUNDAÇÃO DE EDUCAÇÃO, TURISMO, ESPORTE E CULTURA DE BOA VISTA - RR;Autarquia;RF1 Participações;Ativo;04/10/2024;04/10/2029
+CON-1296;2285433;PE;Igarassu - PE;Prefeitura Municipal;Consignet;Ativo;03/09/2024;03/09/2029
+CON-1295;2284987;CE;Fortaleza - CE;Prefeitura Municipal;Safe Consig;Ativo;23/09/2024;23/09/2029
+CON-1294;2284024;MT;INSTITUTO MUNICIPAL DE PREVIDÊNCIA SOCIAL DOS SERVIDORES DE LUCAS DO RIO VERDE/MT;Instituto de Previdência;Consignet;Ativo;30/09/2024;30/09/2029
+CON-1293;2284019;MT;Instituto Municipal de Previdência Social dos Servidores de Lucas do Rio Verde/MT;Instituto de Previdência;Consignet;Inativo;30/09/2024;30/09/2029
+CON-1292;2276350;RO;Rio Crespo - RO;Prefeitura Municipal;Consignet;Ativo;02/10/2024;02/09/2029
+CON-1291;2275127;PR;Maringá - PR;Câmara Municipal;Consignet;Ativo;25/09/2024;28/01/2026
+CON-1290;2275124;MG;Itaú de Minas - MG;Prefeitura Municipal;Consignet;Inativo;25/09/2024;20/11/2024
+CON-1289;2274167;SP;INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO MANUEL - SP;Instituto de Previdência;Consignet;Ativo;16/09/2024;16/09/2029
+CON-1288;2274144;RS;Dona Francisca - RS;Prefeitura Municipal;Consignet;Ativo;23/09/2024;23/09/2029
+CON-1287;2273942;BA;Barra do Mendes - BA;Prefeitura Municipal;Fasitec;Ativo;24/09/2024;16/05/2028
+CON-1286;2273939;PR;SOPREMU - SOCIEDADE PREVIDENCIARIA MUNICIPAL DE LOANDA - PR;Instituto de Previdência;Consignet;Ativo;23/09/2024;23/09/2029
+CON-1285;2273330;AC;Tarauacá - AC;Prefeitura Municipal;Consignet;Ativo;04/09/2024;04/09/2029
+CON-1284;2272730;SC;INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE BALNEÁRIO CAMBORIÚ - BCPREVI/SC ;Instituto de Previdência;Consignet;Ativo;12/09/2024;12/09/2029
+CON-1283;2272724;RN;Instituto Municipal de Previdência Social dos Servidores de Mossoró - IGEPREV - RN;Instituto de Previdência;Fácil;Ativo;23/09/2024;23/09/2025
+CON-1282;2272706;PA;Ponta de Pedras - PA;Prefeitura Municipal;RF1 Participações;Ativo;10/09/2024;10/09/2029
+CON-1281;2272500;PE;Catende - PE;Prefeitura Municipal;Fácil;Ativo;20/09/2024;20/09/2029
+CON-1280;2272461;PB;Rio Tinto - PB;Prefeitura Municipal;Fácil;Inativo;23/09/2024;14/02/2025
+CON-1279;2272427;PR;Imbituva - PR;Prefeitura Municipal;Consignet;Ativo;23/09/2024;04/06/2029
+CON-1278;2272421;SP;Ferraz de Vasconcelos - SP;Prefeitura Municipal;Consignet;Inativo;23/09/2024;31/01/2025
+CON-1277;2272406;PR;FRIGORÍFICO ASTRA DO PARANÁ LTDA.;Empresa Privada;Consignet;Ativo;23/09/2024;28/09/2027
+CON-1276;2272327;PB;ALGODÃO DE JANDAIRA IPSA - PB;Instituto de Previdência;SP Consig;Ativo;23/09/2024;20/11/2028
+CON-1275;2272324;SC;SAMAE - SERVIÇO AUTONOMO MUNICIPAL DE ÁGUA E ESGOTO DE POMERODE - SC;Autarquia;Consignet;Ativo;23/09/2024;22/06/2028
+CON-1274;2272317;PR;SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE SERTANÓPOLIS - PR;Autarquia;Consignet;Ativo;23/09/2024;17/03/2027
+CON-1273;2272315;MG;Fronteira - MG;Prefeitura Municipal;Consignet;Ativo;23/09/2024;06/05/2026
+CON-1272;2272309;SP;Mongaguá - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;23/09/2024;18/06/2025
+CON-1271;2272297;PR;Atalaia - PR;Prefeitura Municipal;Consignet;Ativo;23/09/2024;26/07/2027
+CON-1270;2272291;RS; INSTITUTO MUNICIPAL DE SEGURIDADE SOCIAL DE CAPÃO DA CANOA (IMSS)/RS;Instituto de Previdência;Consignet;Ativo;23/09/2024;04/10/2026
+CON-1269;2271119;PR;CAIXA DE PREVIDÊNCIA SOCIAL DO SERVIDOR PÚBLICO DO MUNICÍPIO DE ASTORGA - PR;Instituto de Previdência;Consignet;Iniciando Renovação;22/08/2024;22/08/2025
+CON-1268;2267386;RN;Campo Redondo - RN;Prefeitura Municipal;SP Consig;Iniciando Renovação;16/09/2024;02/09/2025
+CON-1267;2266773;SC;Itapoã - SC;Prefeitura Municipal;Consignet;Ativo;16/09/2024;31/01/2029
+CON-1266;2266762;BA;Jacobina - BA;Câmara Municipal;Fasitec;Ativo;16/09/2024;18/07/2029
+CON-1265;2266752;SP;Guarujá Previdência ;Instituto de Previdência;SERPRO;Iniciando Renovação;06/09/2024;06/09/2025
+CON-1264;2266493;MA;Timon - MA;Prefeitura Municipal;Consignet;Ativo;13/09/2024;13/09/2029
+CON-1263;2264704;TO;PROCURADORIA-GERAL DE JUSTIÇA DO ESTADO DO TOCANTINS/TO ;Outros;Fácil;Ativo;12/01/2025;11/01/2026
+CON-1262;2264694;PR;TERRA RICA/PR;Instituto de Previdência;Consignet;Ativo;16/10/2024;16/10/2029
+CON-1261;2260443;SP;Avaré - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;02/09/2024;02/09/2025
+CON-1260;2249183;PB;Malta - PB;Prefeitura Municipal;PSA info;Inativo;29/08/2024;29/08/2024
+CON-1259;2248228;AC;Bujari - AC;Prefeitura Municipal;Consignet;Ativo;05/06/2024;06/06/2029
+CON-1258;2248074;RN;Lajes - RN;Prefeitura Municipal;SP Consig;Ativo;28/08/2024;28/08/2029
+CON-1257;2248047;PR;São José das Palmeiras - PR;Prefeitura Municipal;Consignet;Ativo;23/08/2024;23/08/2029
+CON-1256;2248035;PE;Jatobá - PE;Prefeitura Municipal;Fasitec;Ativo;26/08/2024;26/08/2029
+CON-1255;2244004;BA;Jaborandi - BA;Prefeitura Municipal;Consignet;Ativo;23/08/2024;03/08/2027
+CON-1254;2244003;BA;Correntina - BA;Prefeitura Municipal;Fasitec;Iniciando Renovação;23/08/2024;17/07/2025
+CON-1253;2244002;PR;INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE ARAPOTI - PR;Instituto de Previdência;Consignet;Ativo;23/08/2024;29/07/2029
+CON-1252;2243998;SP;Taubaté - SP;Prefeitura Municipal;ConsigLog;Iniciando Renovação;12/08/2022;12/08/2025
+CON-1251;2243995;RO;Seringueiras - RO ;Prefeitura Municipal;Consignet;Ativo;19/08/2024;19/08/2029
+CON-1250;2242869;GO;Inhumas - GO;Prefeitura Municipal;Quantum;Iniciando Renovação;22/08/2024;22/08/2025
+CON-1249;2242854;BA;Uauá - BA;Prefeitura Municipal;Fasitec;Ativo;22/08/2024;06/05/2027
+CON-1248;2242853;PR;Agudos do Sul - PR;Prefeitura Municipal;Consignet;Iniciando Renovação;22/08/2024;31/07/2025
+CON-1247;2242851;SP;Praia Grande - SP;Prefeitura Municipal;CIP;Ativo;22/08/2024;16/10/2028
+CON-1246;2241794;RN;Consórcio Público Intermunicipal do Rio Grande do Norte - COPIRN;Outros;Fácil;Iniciando Renovação;20/08/2024;20/08/2025
+CON-1245;2240703;RS;Formigueiro - RS;Prefeitura Municipal;Consignet;Ativo;12/08/2024;12/08/2029
+CON-1243;2234725;PB;Cajazeiras - PB;Prefeitura Municipal;Fácil;Ativo;26/07/2024;26/07/2029
+CON-1242;2234629;PR;Rolândia - PR;Prefeitura Municipal;Consignet;Ativo;03/07/2024;03/07/2029
+CON-1241;2234623;PE;Solidão - PE;Prefeitura Municipal;ConsigLog;Ativo;22/07/2024;22/07/2029
+CON-1240;2233558;SP;São Miguel Arcanjo - SP ;Prefeitura Municipal;Consignet;Ativo;31/07/2024;31/07/2029
+CON-1239;2231950;MA;Alcântara - MA;Prefeitura Municipal;Fasitec;Ativo;06/08/2024;06/08/2029
+CON-1238;2231949;PR;Santa Cruz do Monte Castelo - PR;Prefeitura Municipal;Consignet;Ativo;29/07/2024;29/08/2029
+CON-1237;2231944;MS;Jaraguari - MS;Prefeitura Municipal;Consignet;Ativo;22/06/2023;22/06/2028
+CON-1236;2230674;PR;Moreira Sales - PR;Prefeitura Municipal;Fasitec;Ativo;08/08/2024;05/09/2027
+CON-1235;2230671;RS;Serrafina Correa - RS;Prefeitura Municipal;Consignet;Ativo;08/08/2024;23/05/2027
+CON-1234;2230665;SP;Osasco - SP ;Prefeitura Municipal;ConsigLog;Ativo;08/08/2024;25/02/2027
+CON-1233;2230649;MA;Santa Inês - MA;Prefeitura Municipal;BRTEC;Iniciando Renovação;08/07/2024;08/07/2025
+CON-1232;2230208;SP;Superintendência de Água e Esgoto de Catanduva - SAEC - SP;Autarquia;Consignet;Ativo;05/08/2024;05/08/2029
+CON-1231;2229716;SP;MUNICIPIO DE TAPIRATIBA/SP;Prefeitura Municipal;Consignet;Ativo;12/07/2024;11/07/2029
+CON-1230;2229699;MT; MUNICIPIO DE SÃO JOSE DO RIO CLARO/MT;Prefeitura Municipal;Consignet;Ativo;31/07/2024;30/07/2029
+CON-1229;2228227;RS;Camara Municipal de Alegrete - RS;Câmara Municipal;Consignet;Ativo;25/11/2024;23/11/2029
+CON-1228;2226710;SP;Municipio Jahu - SP ;Prefeitura Municipal;Consignet;Inativo;01/08/2024;07/08/2024
+CON-1227;2224216;PE;Instituto Previdenciário do Município de Ribeirão/PE;Instituto de Previdência;Consignet;Ativo;18/03/2024;18/03/2029
+CON-1226;2221680;SP;SERVIÇO AUTONOMO DE ÁGUA E ESGOTO DE ITAPIRA-SAAE/SP;Autarquia;Consignet;Ativo;14/06/2024;14/06/2029
+CON-1225;2221671;PA;SANTARÉM NOVO/PA;Prefeitura Municipal;RF1 Participações;Ativo;30/07/2024;30/07/2029
+CON-1224;2221378;MT;Instituto de Previdência dos Servidores Municipais de Bonito /MT;Instituto de Previdência;Consignet;Ativo;07/08/2024;06/08/2029
+CON-1223;2220790;TO;INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS - SISPREV/TO;Instituto de Previdência;Consignet;Iniciando Renovação;05/07/2024;03/07/2025
+CON-1222;2218233;SP;INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE TAPIRATIBA - TAPIRATIBAPREV - SP;Instituto de Previdência;Consignet;Ativo;23/07/2024;23/07/2029
+CON-1221;2218230;PA;Itupiranga - PA;Prefeitura Municipal;NeoConsig;Ativo;18/07/2024;18/07/2029
+CON-1220;2217030;PR;Itaperuçu - PR;Prefeitura Municipal;Consignet;Ativo;25/07/2024;20/07/2027
+CON-1219;2217014;PE;Araripina - PE;Prefeitura Municipal;SP Consig;Inativo;25/07/2024;26/02/2025
+CON-1218;2217001;CE;Aiuaba - CE;Prefeitura Municipal;Safe Consig;Ativo;20/05/2024;20/05/2029
+CON-1217;2215856;PA;Oriximiná - PA;Prefeitura Municipal;Consignet;Ativo;03/07/2024;03/07/2029
+CON-1216;2215853;MG;Nova Resende - MG;Prefeitura Municipal;Consignet;Ativo;24/06/2024;24/06/2029
+CON-1215;2215841;MA;Defensoria Pública do Estado do Maranhão ;Governo de Estado;NeoConsig;Ativo;12/07/2024;12/07/2029
+CON-1214;2214588;RN;Barcelona - RN;Prefeitura Municipal;Consignet;Ativo;03/07/2024;03/07/2029
+CON-1213;2212484;PR;Bela Vista da Caroba - PR;Prefeitura Municipal;Consignet;Ativo;23/07/2024;23/07/2029
+CON-1212;2212476;MA;Penalva - MA;Prefeitura Municipal;Fasitec;Ativo;18/07/2024;18/07/2029
+CON-1211;2211329;SP;Pedregulho - SP;Prefeitura Municipal;SERPRO;Iniciando Renovação;21/06/2024;21/06/2025
+CON-1210;2210573;MA;Pinheiro - MA;Prefeitura Municipal;Consignet;Ativo;06/06/2024;06/06/2029
+CON-1209;2209585;AC;Cruzeiro do Sul - AC;Prefeitura Municipal;Consignet;Inativo;16/07/2024;16/07/2024
+CON-1208;2209080;BA;Botuporã - BA;Prefeitura Municipal;Fasitec;Iniciando Renovação;16/07/2024;25/08/2025
+CON-1207;2209069;BA;Quixabeira - BA;Prefeitura Municipal;Fasitec;Iniciando Renovação;16/07/2024;10/08/2025
+CON-1206;2209058;BA;PONTO NOVO - IPPN - BA;Instituto de Previdência;Fasitec;Ativo;16/07/2024;03/04/2028
+CON-1205;2209038;MG;Patos de Minas - MG;Prefeitura Municipal;SP Consig;Ativo;16/07/2024;18/04/2027
+CON-1204;2209036;MG;Capinópolis - MG;Prefeitura Municipal;Consignet;Ativo;16/07/2024;16/12/2027
+CON-1203;2209003;ES;Tribunal Regional do Trabalho da 17ª Região - TRT 17;Tribunal;Unitedtech;Ativo;16/07/2024;01/09/2026
+CON-1202;2208995;MS;Terenos - MS;Prefeitura Municipal;Consignet;Ativo;01/07/2024;01/07/2029
+CON-1201;2207974;MG;MUNICIPIO DE ESTIVA - MG;Prefeitura Municipal;Consignet;Ativo;13/06/2024;01/06/2029
+CON-1200;2206684;PI;Palmeirais - PI;Prefeitura Municipal;Digital Consig;Ativo;12/07/2024;28/10/2026
+CON-1199;2206599;SC;Arroio dos Ratos - RS;Prefeitura Municipal;Consignet;Inativo;12/07/2024;20/08/2024
+CON-1198;2205852;AL;INSTITUTO MUNICIPAL DE PREVIDENCIA DE MESSIAS - MESSIASPREV - AL;Instituto de Previdência;Fasitec;Ativo;10/07/2024;10/07/2029
+CON-1197;2205674;MA;Sítio Novo - MA;Prefeitura Municipal;Consignet;Ativo;11/07/2024;06/11/2025
+CON-1196;2205662;PR;Mandirituba - PR;Prefeitura Municipal;Consignet;Ativo;11/07/2024;11/03/2026
+CON-1195;2205649;PR;Jacarezinho - PR;Prefeitura Municipal;Fasitec;Ativo;11/07/2024;10/06/2029
+CON-1194;2205646;PR;Rio Branco do Sul - PR;Prefeitura Municipal;Consignet;Ativo;11/07/2024;30/04/2026
+CON-1193;2205640;SP;Colina - SP;Prefeitura Municipal;Consignet;Ativo;11/06/2024;11/06/2029
+CON-1192;2204420;PB;Cuitegi - PB;Prefeitura Municipal;SP Consig;Inativo;10/07/2024;20/04/2025
+CON-1191;2204322;CE;Pedra Branca - CE;Prefeitura Municipal;Digital Consig;Ativo;10/07/2024;18/01/2026
+CON-1190;2204314;RO;Instituto de Previdência do Município de Vilhena - RO;Instituto de Previdência;Consignet;Ativo;10/07/2024;06/05/2029
+CON-1189;2204309;SP;INSTITUTO MUNICIPAL DE SEGURIDADE SOCIAL DE PARAGUAÇU PAULISTA - SP;Instituto de Previdência;Consignet;Ativo;10/07/2024;04/01/2027
+CON-1188;2204303;SP;Guareí - SP;Prefeitura Municipal;Consignet;Ativo;10/07/2024;06/03/2026
+CON-1187;2204299;RS;Encantado - RS;Prefeitura Municipal;Consignet;Iniciando Renovação;10/07/2024;01/07/2025
+CON-1186;2203661;PR;Penha Papeis Vivida Ltda.;Empresa Privada;Consignet;Ativo;09/07/2024;16/06/2028
+CON-1185;2200864;RN;Macaíba - RN;Prefeitura Municipal;Safe Consig;Iniciando Renovação;03/07/2024;03/07/2025
+CON-1184;2200512;SP;Rancharia - SP;Prefeitura Municipal;Consignet;Inativo;05/07/2024;02/02/2025
+CON-1183;2200465;MT;Hospital Beneficente Santa Helena;Outros;Digital Consig;Ativo;05/07/2024;22/04/2027
+CON-1182;2200349;MT;Conquista D'Oeste - MT;Prefeitura Municipal;Consignet;Ativo;18/06/2024;18/06/2029
+CON-1181;2200335;SC;Laguna - SC;Prefeitura Municipal;Infoconsig;Ativo;05/07/2024;15/04/2026
+CON-1180;2200323;PR;Candido de Abreu - PR;Prefeitura Municipal;Consignet;Ativo;05/07/2024;15/09/2027
+CON-1179;2200320;SP;Bocaina - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;05/07/2024;22/06/2025
+CON-1178;2200318;SC;Navegantes - SC;Prefeitura Municipal;Consignet;Inativo;05/07/2024;03/10/2024
+CON-1177;2200317;PR;Instituto de Previdência do Município de Piraquara - PR;Instituto de Previdência;Consignet;Inativo;05/07/2024;08/05/2025
+CON-1176;2200313;SP;Lavínia - SP;Prefeitura Municipal;Consignet;Inativo;05/07/2024;21/11/2024
+CON-1175;2200304;RN;Instituto de Previdência dos Servidores do Município de Macaíba - RN;Instituto de Previdência;Safe Consig;Iniciando Renovação;03/07/2024;03/07/2025
+CON-1174;2199143;RN;Montanhas/RN;Prefeitura Municipal;SP Consig;Ativo;15/05/2024;15/05/2029
+CON-1173;2199116;RN;Lagoa Nova - RN;Prefeitura Municipal;Fasitec;Ativo;03/07/2024;03/07/2029
+CON-1172;2199084;PE;FUNPRESJE - Fundo Previdenciário do Município de São José do Egito - PE;Instituto de Previdência;SP Consig;Ativo;02/07/2024;02/07/2029
+CON-1171;2197712;SC;Florianópolis - SC;Câmara Municipal;All Consig;Ativo;17/07/2024;17/07/2029
+CON-1170;2197694;RR;Governo de Roraima ;Governo de Estado;GRID;Ativo;01/07/2024;01/07/2029
+CON-1169;2197097;AP;Macapá - AP;Prefeitura Municipal;ConsigLog;Ativo;10/12/2024;10/12/2028
+CON-1168;2195723;RJ;Maricá - RJ;Prefeitura Municipal;Consignet;Iniciando Renovação;27/06/2024;26/06/2025
+CON-1167;2195086;RS;Panambi - RS;Prefeitura Municipal;Consignet;Inativo;01/07/2024;04/05/2025
+CON-1166;2195068;MT;Rondonópolis - MT;Prefeitura Municipal;Digital Consig;Inativo;01/07/2024;02/10/2024
+CON-1165;2195064;RS;PREVIDENCIA DE SANTANA DO LIVRAMENTO - SISPREM - RS;Instituto de Previdência;Consignet;Iniciando Renovação;13/03/2025;13/03/1930
+CON-1164;2195057;MT;São José dos Quatro Marcos - MT;Prefeitura Municipal;Digital Consig;Ativo;01/07/2024;08/04/2029
+CON-1163;2193198;MS;Bonito - MS;Prefeitura Municipal;Consignet;Ativo;11/06/2024;11/06/2029
+CON-1162;2191801;SC;Presidente Venceslau - SP;Prefeitura Municipal;Consignet;Ativo;27/06/2024;17/04/2028
+CON-1161;2191759;RO;Costa Marques - RO;Prefeitura Municipal;Consignet;Ativo;09/07/2024;09/07/2029
+CON-1160;2191753;PR;INSTITUTO PREVIDÊNCIA E ASSISÊNCIA DO MUNICÍPIO DE QUERÊNCIA DO NORTE - PR;Instituto de Previdência;Consignet;Ativo;27/06/2025;27/07/2029
+CON-1159;2191750;PB;Monte Horebe - PB;Prefeitura Municipal;SP Consig;Ativo;13/01/2023;13/01/2028
+CON-1158;2190460;RJ;Instituto Servidores Cabo Frio - RJ  - IBASCAF ;Instituto de Previdência;Safe Consig;Iniciando Renovação;26/06/2024;26/06/2025
+CON-1157;2188814;CE;INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE BOA VIAGEM - CE;Instituto de Previdência;Fácil;Ativo;25/06/2024;27/04/2028
+CON-1156;2188807;CE;Tabuleiro do Norte - CE;Prefeitura Municipal;Digital Consig;Ativo;25/06/2024;02/02/2028
+CON-1155;2188280;PA;Tomé-Açu - PA;Prefeitura Municipal;ConsigLog;Ativo;24/06/2024;27/10/2025
+CON-1154;2188273;BA;CAMPO FORMOSO IPCF - BA;Instituto de Previdência;Fasitec;Inativo;24/06/2024;25/01/2025
+CON-1153;2186421;PR;Querência do Norte - PR;Prefeitura Municipal;Consignet;Ativo;05/06/2024;05/06/2029
+CON-1152;2185236;BA;Serra Ramalho - BA;Prefeitura Municipal;Fasitec;Ativo;20/06/2024;14/04/2028
+CON-1151;2185118;SP;Lins - SP;Prefeitura Municipal;Consignet;Ativo;02/05/2024;02/05/2029
+CON-1150;2185076;MA;Rosário - MA;Prefeitura Municipal;Safe Consig;Ativo;18/06/2024;18/06/2029
+CON-1149;2184654;CE;Granjeiro - CE;Prefeitura Municipal;Safe Consig;Ativo;19/06/2024;10/08/2026
+CON-1148;2184646;SC;Samae (Serviço Autônomo Municipal de Água e Esgoto) de Gaspar - SC;Outros;Infoconsig;Inativo;19/06/2024;06/04/2025
+CON-1147;2184640;PR;FUNDO DE PENSÕES DOS SERVIDORES MUNICIPAIS DE JANIOPOLIS - PR;Instituto de Previdência;Consignet;Ativo;19/06/2024;21/12/2026
+CON-1146;2184618;RS;Hospital Bom Pastor Ijuí - RS;Outros;Lucas/Siga TI;Ativo;19/06/2024;13/12/2029
+CON-1145;2184528;GO;Cocalzinho de Goiás - GO;Prefeitura Municipal;Consignet;Ativo;19/06/2024;25/11/2025
+CON-1144;2184518;SP;Embu-Guaçu - SP;Prefeitura Municipal;ConsigLog;Ativo;19/06/2024;02/02/2026
+CON-1143;2184506;SC;Laurentino - SC;Prefeitura Municipal;Consignet;Ativo;19/06/2024;10/02/2028
+CON-1142;2184497;SP;Mococa - SP;Prefeitura Municipal;Consignet;Ativo;19/06/2024;24/05/2026
+CON-1141;2184496;PB;São José da Lagoa Tapada - PB;Prefeitura Municipal;SP Consig;Inativo;19/06/2024;04/06/2025
+CON-1140;2184491;SP;Rosana - SP;Prefeitura Municipal;Unitedtech;Ativo;19/06/2024;09/04/2029
+CON-1139;2184095;RN;Riacho da Cruz - RN;Prefeitura Municipal;SP Consig;Ativo;19/06/2024;19/06/2029
+CON-1138;2182633;PE;Serra Talhada - PE;Prefeitura Municipal;Fácil;Ativo;18/06/2024;18/06/2029
+CON-1137;2182564;RN;Maxaranguape - RN;Prefeitura Municipal;SP Consig;Ativo;17/06/2024;17/06/2029
+CON-1136;2182553;RN;Jaçanã - RN;Prefeitura Municipal;Consignet;Ativo;12/06/2024;12/06/2029
+CON-1134;2181742;SP;Previ Guapiaçu - SP;Instituto de Previdência;Consignet;Inativo;17/06/2024;24/04/2025
+CON-1133;2181737;BA;Serra Preta - BA ;Prefeitura Municipal;Fasitec;Ativo;17/06/2024;10/09/2026
+CON-1132;2181725;SP;Barra de Santa Rosa - PB;Prefeitura Municipal;SP Consig;Ativo;17/06/2024;19/08/2026
+CON-1131;2181721;GO;Águas Frias - GO;Prefeitura Municipal;Digital Consig;Inativo;17/06/2024;23/12/2024
+CON-1130;2181719;BA;Macaúbas - BA;Prefeitura Municipal;NewVersion;Ativo;17/06/2024;16/03/2026
+CON-1129;2181662;SP;FUNDO DE PREVIDÊNCIA DO MUNICIPIO DE ITAPEVI - ITAPEVIPREV/SP;Instituto de Previdência;Consignet;Ativo;10/06/2024;10/06/2029
+CON-1128;2181254;RJ;Tribunal de Justiça do Rio de Janeiro - TJRJ;Tribunal;Fácil;Iniciando Renovação;17/06/2024;21/08/2025
+CON-1127;2178677;MA;Tuntum - MA;Prefeitura Municipal;Safe Consig;Ativo;13/06/2024;16/03/2027
+CON-1126;2178674;SP;Cabrália Paulista - SP;Prefeitura Municipal;Consignet;Inativo;13/06/2024;24/04/2025
+CON-1125;2178671;MT;Chapada dos Guimarães - MT;Prefeitura Municipal;Digital Consig;Ativo;13/06/2024;19/03/2029
+CON-1124;2178661;MS;INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES MUNICIPAIS DE ELDORADO - MS;Instituto de Previdência;Fasitec;Ativo;12/06/2024;12/06/2029
+CON-1123;2178650;MG;Governador Valadares - MG;Prefeitura Municipal;NeoConsig;Inativo;12/06/2024;13/06/2024
+CON-1122;2178641;PR;Itambaracá - PR;Prefeitura Municipal;Fasitec;Ativo;11/06/2024;11/06/2029
+CON-1121;2178639;AL;Rio Largo - AL;Prefeitura Municipal;Fasitec;Ativo;11/06/2024;11/06/2029
+CON-1120;2177736;PR;Ventania - PR;Prefeitura Municipal;Consignet;Inativo;12/06/2024;17/04/2025
+CON-1119;2177734;MS;FUNDAÇÃO DE PREVIDÊNCIA DOS SERVIDORES PUBLICOS MUNICIPAIS DE MUNDO NOVO/MS - FUNPREMN;Instituto de Previdência;Consignet;Ativo;12/06/2024;26/01/2027
+CON-1118;2177730;MA;Vargem Grande - MA;Prefeitura Municipal;ASBAN;Inativo;12/06/2024;23/05/2025
+CON-1117;2176655;PR;FUNDO DE PREVIDÊNCIA MUNICIPAL DE IVATUBA - FPMI - PR;Instituto de Previdência;Consignet;Ativo;13/04/2024;13/04/2029
+CON-1116;2176646;PR;Ivatuba/PR;Prefeitura Municipal;Consignet;Ativo;13/04/2024;13/04/2029
+CON-1115;2176629;PR;Salgado Filho - PR;Prefeitura Municipal;Consignet;Ativo;23/04/2024;23/04/2029
+CON-1114;2176606;PE;Bezerros - PE;Prefeitura Municipal;SP Consig;Inativo;11/06/2024;12/01/2025
+CON-1113;2176599;SE;Nossa Senhora do Socorro - SE;Prefeitura Municipal;NewVersion;Ativo;11/06/2024;10/02/2026
+CON-1112;2176540;RS;Nonoai - RS;Prefeitura Municipal;BRTEC;Ativo;08/04/2024;08/04/2029
+CON-1111;2176516;MA;Anapurus - MA;Prefeitura Municipal;Konéxia;Ativo;18/06/2024;18/06/2029
+CON-1110;2175513;PE;Secretaria de Estado de Saúde de Pernambuco;Autarquia;Montreal;Iniciando Renovação;10/06/2024;09/06/2025
+CON-1109;2175457;MT;Nova Guarita - MT;Prefeitura Municipal;Consignet;Ativo;03/06/2024;03/06/2029
+CON-1108;2175448;PI;Miguel Leão - PI;Prefeitura Municipal;Consignet;Ativo;13/03/2024;13/03/2029
+CON-1107;2173970;PI;Regeneração - PI;Prefeitura Municipal;Consignet;Ativo;24/05/2024;24/05/2029
+CON-1106;2171163;RO;SAAE - Município Alto Alegre dos Parecis - RO;Outros;Consignet;Ativo;20/05/2024;20/05/2029
+CON-1105;2171158;MT;Regime Proprio de Previdência de Novo Mundo - MT;Instituto de Previdência;Consignet;Inativo;05/06/2024;05/06/2025
+CON-1104;2168653;RN;Arez - RN;Prefeitura Municipal;SP Consig;Ativo;21/05/2024;21/05/2029
+CON-1103;2165649;SP;Municipio Itapevi - SP ;Prefeitura Municipal;Consignet;Ativo;22/05/2024;22/05/2029
+CON-1102;2165646;PR;Terra Rica - PR;Prefeitura Municipal;Consignet;Ativo;20/06/2024;20/06/2029
+CON-1101;2165629;MS;DE ANTONIO JOAO-IMPS - MS;Instituição Financeira;Fasitec;Ativo;29/05/2024;29/05/2029
+CON-1100;2162520;MA;Santa Filomena do Maranhão - MA ;Prefeitura Municipal;Safe Consig;Inativo;23/05/2024;31/12/2024
+CON-1099;2161419;ES;BANCO DO ESTADO DO ESPÍRITO SANTO - BANESTES;Instituição Financeira;Quantum;Inativo;27/05/2024;27/05/2024
+CON-1098;2161198;MT;Jauru - MT;Câmara Municipal;Consignet;Ativo;15/05/2024;15/05/2029
+CON-1097;2159974;BA;SEMGE - Prefeitura Municipal de Salvador;Prefeitura Municipal;ConsigLog;Inativo;24/05/2024;24/05/2024
+CON-1096;2159944;MT;MUNICIPIO DE JAURU/MT;Prefeitura Municipal;Consignet;Ativo;02/04/2024;02/04/2029
+CON-1095;2159627;RO;Ministro Andreazza - RO ;Prefeitura Municipal;Consignet;Ativo;31/05/2024;31/05/2029
+CON-1094;2158907;GO;Camara Municipal de Serranópolis - GO;Câmara Municipal;Consignet;Ativo;21/05/2024;21/05/2029
+CON-1093;2157551;PR;Instituto de Previdência Terra Roxa - Previsterra -PR;Instituto de Previdência;Consignet;Ativo;30/04/2024;30/04/2029
+CON-1092;2157541;MA;São Domingos do Maranhão - MA;Prefeitura Municipal;Safe Consig;Inativo;22/05/2024;22/05/2025
+CON-1091;2156899;PR;Cafeara - PR;Prefeitura Municipal;Consignet;Ativo;19/03/2024;19/03/2029
+CON-1090;2156000;GO;Instituto de Previdência Aparecida de Goiânia - GO;Instituto de Previdência;Consignet;Ativo;17/05/2024;17/05/2029
+CON-1089;2152464;GO;Instituto de Previdência Gouvelândia/GO;Instituto de Previdência;Consignet;Ativo;08/05/2024;08/05/2029
+CON-1088;2151301;MG;Nepomuceno - MG;Prefeitura Municipal;Consignet;Ativo;02/05/2024;02/05/2029
+CON-1087;2151292;MG;Braúnas - MG;Prefeitura Municipal;Unitedtech;Ativo;02/05/2024;02/05/2027
+CON-1086;2151289;GO;Inaciolândia - GO;Prefeitura Municipal;Consignet;Ativo;03/05/2024;03/05/2029
+CON-1085;2150619;BA;Casa Nova - BA;Prefeitura Municipal;Fasitec;Ativo;15/05/2024;08/01/2026
+CON-1084;2149429;MS;Chapadão do Sul - MS;Prefeitura Municipal;Consignet;Ativo;06/05/2024;05/05/2029
+CON-1083;2149208;MS;Figueirão - MS;Câmara Municipal;Consignet;Ativo;09/05/2024;09/05/2029
+CON-1082;2145875;RO;IPSM - Município de Ouro Preto do Oeste - RO;Instituto de Previdência;Consignet;Ativo;07/05/2024;07/05/2029
+CON-1081;2145439;PR;Jussara - JussaraPrev;Instituto de Previdência;Consignet;Ativo;09/05/2024;26/05/2028
+CON-1080;2145427;PE;Nazaré da Mata - PE;Prefeitura Municipal;Consignet;Ativo;09/05/2024;17/02/2026
+CON-1079;2145410;AL;Pão de Açúcar - AL;Prefeitura Municipal;Fasitec;Ativo;09/05/2024;30/10/2025
+CON-1078;2144915;MT;Campos de Júlio - MT;Prefeitura Municipal;Consignet;Ativo;17/05/2024;17/05/2029
+CON-1077;2144793;PR;Santa Maria do Oeste - PR;Prefeitura Municipal;Consignet;Ativo;15/03/2024;14/03/2029
+CON-1076;2141924;RN;Vila Flor - RN;Prefeitura Municipal;SP Consig;Ativo;12/04/2024;12/04/2029
+CON-1075;2141816;SC;Concórdia - SC;Prefeitura Municipal;Infoconsig;Ativo;06/05/2024;23/03/2026
+CON-1074;2141596;PE;Fundo Previdenciário do Município de Granito - PE ;Instituto de Previdência;Fasitec;Ativo;30/04/2024;30/04/2029
+CON-1073;2141159;SC;Criciúma - SC;Prefeitura Municipal;Infoconsig;Inativo;06/05/2024;23/02/2025
+CON-1072;2141151;MA;Bom Jesus das Selvas - MA;Prefeitura Municipal;Consignet;Ativo;06/05/2024;27/04/2028
+CON-1071;2134888;PR;GODOY MOREIRA - PR;Instituto de Previdência;Consignet;Ativo;29/04/2024;18/04/2026
+CON-1070;2134882;SC;Papanduva - SC;Prefeitura Municipal;Consignet;Iniciando Renovação;29/04/2024;03/09/2025
+CON-1069;2134811;PE;IATI - PE;Instituto de Previdência;NewVersion;Ativo;18/04/2024;18/04/2029
+CON-1068;2133487;BA;Cabaceiras do Paraguaçu - BA;Prefeitura Municipal;Fasitec;Ativo;26/04/2024;27/01/2026
+CON-1067;2133482;RN;Cerro Corá - RN;Prefeitura Municipal;Fácil;Iniciando Renovação;26/04/2024;23/07/2025
+CON-1066;2133477;BA;Capim Grosso - BA;Prefeitura Municipal;Fasitec;Ativo;26/04/2024;07/04/2026
+CON-1065;2133428;MA;Coroatá - MA;Prefeitura Municipal;Consignet;Inativo;10/04/2024;10/04/2025
+CON-1064;2132300;BA;São Felix - BA;Prefeitura Municipal;ConsigLog;Ativo;25/04/2024;23/04/2026
+CON-1063;2130970;PR;Paulo Frontin - PR;Prefeitura Municipal;Consignet;Ativo;14/03/2024;14/03/2029
+CON-1062;2129731;SC;Imbituba - SC;Prefeitura Municipal;Consignet;Ativo;10/10/2024;10/10/2025
+CON-1061;2129729;PR;Peabiru - PR;Prefeitura Municipal;Consignet;Ativo;23/04/2024;02/10/2028
+CON-1060;2129722;RJ;SECRETARIA DE SAÚDE DE PETRÓPOLIS - RJ;Autarquia;BRTEC;Ativo;23/04/2024;08/10/2026
+CON-1059;2129706;PE;São Caetano - PE;Prefeitura Municipal;Consignet;Ativo;22/02/2024;22/04/2029
+CON-1058;2129023;PR;Marumbi - PR;Prefeitura Municipal;Consignet;Ativo;22/04/2024;05/10/2026
+CON-1057;2128967;CE;Frecheirinha - CE;Prefeitura Municipal;Digital Consig;Ativo;22/04/2024;16/02/2029
+CON-1056;2128959;SP;Itobi - SP;Prefeitura Municipal;Consignet;Ativo;22/04/2024;24/09/2025
+CON-1055;2128935;MA;Governador Nunes Freire - MA;Prefeitura Municipal;Safe Consig;Inativo;14/05/2026;22/04/2024
+CON-1054;2128919;TO;Porto Nacional - TO;Prefeitura Municipal;BRTEC;Ativo;11/10/2024;07/03/2029
+CON-1053;2128852;SP;Cardoso - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;22/04/2024;25/06/2025
+CON-1052;2128847;PE;FUNDO DE PREVIDÊNCIA PARA OS SERVIDORES PÚBLICOS DE PARNAMIRIM/PE - PARNAMIRIM PREV;Instituto de Previdência;Consignet;Inativo;22/04/2024;14/05/2025
+CON-1051;2127341;RO;Guajará-Mirim - RO;Prefeitura Municipal;Consignet;Ativo;19/04/2024;14/04/2026
+CON-1050;2127311;PI;José de Freitas - PI ;Prefeitura Municipal;LINE IT;Inativo;19/04/2024;29/12/2024
+CON-1049;2126089;PE;Iati - PE;Prefeitura Municipal;NewVersion;Ativo;17/04/2024;17/04/2029
+CON-1048;2126087;PE;FUNDO MUNICIPAL DE PREVIDENCIA DE ANGELIM . PE;Instituto de Previdência;Fasitec;Inativo;16/04/2024;22/04/2024
+CON-1047;2124911;PE;Angelim - PE;Prefeitura Municipal;Fasitec;Inativo;16/04/2024;22/04/2024
+CON-1046;2124899;PE;Ribeirão - PE ;Prefeitura Municipal;Consignet;Ativo;08/04/2024;08/04/2029
+CON-1045;2124775;SE;Lagarto - SE;Prefeitura Municipal;Gestão Consig;Inativo;04/04/2024;26/02/2025
+CON-1044;2124774;CE;Jardim - CE;Prefeitura Municipal;Digital Consig;Ativo;16/04/2024;23/06/2027
+CON-1043;2124772;RN;Bento Fernandes - RN;Prefeitura Municipal;SP Consig;Ativo;16/04/2024;20/10/2027
+CON-1042;2124771;MT;Gaúcha do Norte - MT;Prefeitura Municipal;Digital Consig;Ativo;16/04/2024;23/11/2025
+CON-1041;2124769;SP;Santo Antônio de Posse - SP;Prefeitura Municipal;Consignet;Inativo;16/04/2024;04/03/2025
+CON-1040;2124749;SP;São José dos Campos - SP;Prefeitura Municipal;NeoConsig;Inativo;16/04/2024;17/10/2024
+CON-1039;2124748;BA;Campo Formoso - BA;Prefeitura Municipal;Fasitec;Ativo;16/04/2024;22/02/2029
+CON-1038;2124747;MT;FUNDO MUNICIPAL E PREVIDÊNCIA SOCIAL DOS SERVIDORES DE SÃO JOSÉ DOS QUATRO MARCOS - MT;Instituto de Previdência;Digital Consig;Ativo;16/04/2024;09/02/2029
+CON-1037;2124746;SP;Barra Bonita - SP;Prefeitura Municipal;Consignet;Ativo;16/04/2024;15/10/2025
+CON-1036;2124740;CE;Acopiara - CE ;Prefeitura Municipal;Fácil;Ativo;02/04/2024;02/04/2029
+CON-1035;2123827;MS;Bodoquena - MS;Prefeitura Municipal;Consignet;Ativo;07/04/2025;05/04/1930
+CON-1034;2123031;SC;Fundação Inst. de Previdência Social dos Servidores de São Francisco do Sul - IPRESF/SC;Instituto de Previdência;Consignet;Ativo;06/03/2024;05/03/2029
+CON-1033;2122759;MA;Pedreiras - MA;Prefeitura Municipal;Digital Consig;Ativo;15/04/2024;05/01/2027
+CON-1032;2121235;PB;Granja Cascavel - PB;Empresa Privada;SP Consig;Ativo;12/04/2024;04/05/2026
+CON-1031;2121227;PR;Santana do Itararé - AL;Prefeitura Municipal;Consignet;Ativo;12/04/2024;10/05/2028
+CON-1030;2121221;MT;Mirassol Previ - MT;Instituto de Previdência;Digital Consig;Ativo;12/04/2024;03/11/2028
+CON-1029;2121214;BA;Morro do Chapéu - BA;Prefeitura Municipal;ConsigLog;Ativo;12/04/2024;17/01/2026
+CON-1028;2120067;RN;Fernando Pedroza - RN;Prefeitura Municipal;SP Consig;Ativo;15/09/2022;15/09/2027
+CON-1027;2120057;MS;Botoquena - MS;Prefeitura Municipal;Fasitec;Ativo;10/04/2024;10/04/2029
+CON-1026;2118894;PE;Buenos Aires - PE;Prefeitura Municipal;Consignet;Ativo;21/02/2024;21/02/2029
+CON-1025;2116392;CE;Baturité - CE;Prefeitura Municipal;Digital Consig;Ativo;08/04/2024;23/11/2028
+CON-1024;2116388;CE;INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DE SÃO GONÇALO DO AMARANTE - CE;Instituto de Previdência;Safe Consig;Inativo;08/04/2024;22/03/2024
+CON-1023;2116383;PB;Algodão de Jandaíra - PB;Prefeitura Municipal;SP Consig;Ativo;08/04/2024;28/04/2026
+CON-1022;2116378;MS;INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES MUNICIPAIS DE JARDIM . MS - IPJ;Instituto de Previdência;Consignet;Ativo;05/04/2024;05/04/2029
+CON-1021;2115006;PE;Pesqueira - PE;Prefeitura Municipal;NewVersion;Ativo;26/03/2025;26/03/1930
+CON-1020;2114997;RJ;BARRA MANSA/RJ - PREVIBAM;Instituto de Previdência;Infoconsig;Inativo;05/04/2024;11/05/2025
+CON-1019;2114988;SP;Santa Adélia - SP;Prefeitura Municipal;Fasitec;Ativo;05/04/2024;20/01/2026
+CON-1018;2114981;SP;Américo Brasiliense - SP;Prefeitura Municipal;Consignet;Inativo;05/04/2024;22/04/2025
+CON-1017;2114979;MG;Auditar Contabilidade Consultiva S/S;Empresa Privada;Consignet;Ativo;05/04/2024;20/11/2028
+CON-1015;2114384;PR;Miraselva - PR;Prefeitura Municipal;Consignet;Ativo;04/04/2024;04/04/2029
+CON-1014;2114377;PA;Dom Eliseu - PA;Instituto de Previdência;Fácil;Ativo;04/04/2024;04/04/2029
+CON-1013;2113698;MS;IGUATEMI - MS;Prefeitura Municipal;Consignet;Ativo;05/03/2024;05/03/2029
+CON-1012;2111565;PE;Granito - PE;Prefeitura Municipal;Fasitec;Ativo;01/04/2024;01/04/2029
+CON-1011;2108600;PR;Fundo dos Servidores Públicos do Município de Altônia - FAPESPAL - PR;Prefeitura Municipal;Consignet;Ativo;01/04/2024;13/11/2028
+CON-1010;2107042;SP;Sumaré - SP;Prefeitura Municipal;ConsigLog;Iniciando Renovação;24/06/2023;24/06/2025
+CON-1009;2107004;CE;Boa Viagem - CE;Prefeitura Municipal;Fácil;Ativo;28/03/2024;15/09/2025
+CON-1008;2107002;PR;Figueira - PR;Prefeitura Municipal;Consignet;Iniciando Renovação;28/03/2024;01/09/2025
+CON-1007;2106852;SP;Potim - SP ;Prefeitura Municipal;Consignet;Ativo;27/03/2024;21/02/2027
+CON-1006;2106851;BA;Jeremoabo - BA;Prefeitura Municipal;Fasitec;Ativo;27/03/2024;02/10/2028
+CON-1005;2106850;SP;Tribunal de Justiça do Estado de São Paulo - TJSP;Tribunal;CIP;Ativo;27/03/2024;06/06/2027
+CON-1004;2105834;MA;Olho D'agua das Cunhãs - MA;Prefeitura Municipal;Consignet;Inativo;26/03/2024;26/03/2025
+CON-1003;2105655;CE;Barro ;Prefeitura Municipal;Safe Consig;Ativo;26/03/2024;26/03/2029
+CON-1002;2105618;SC;Fundação Cultural de Balneário Camboriú - SC;Outros;Consignet;Inativo;26/03/2024;26/03/2025
+CON-1001;2104079;PB;Parari - PB;Câmara Municipal;SP Consig;Ativo;26/03/2024;20/07/2028
+CON-1000;2104073;AL;INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE CRAÍBAS - CRAÍBAS PREV;Instituto de Previdência;Fasitec;Ativo;25/03/2024;25/03/2029
+CON-999;2102794;PA;ALTAPREV - Instituto de Previdência Social dos Servidores Públicos do Município de Altamira - PA;Prefeitura Municipal;Digital Consig;Ativo;25/03/2024;05/07/2027
+CON-998;2102789;PI;Oeiras - PI;Prefeitura Municipal;LINE IT;Ativo;25/03/2024;19/10/2026
+CON-997;2102781;SE;Simão Dias - SE;Prefeitura Municipal;NewVersion;Inativo;25/03/2024;25/03/2024
+CON-996;2102767;RO;Instituto Municipal de Previdência de Machadinho D´Oeste - RO ;Instituto de Previdência;Consignet;Inativo;21/05/2024;21/05/2025
+CON-995;2102739;SC;Paranduva - SC;Prefeitura Municipal;Consignet;Ativo;23/01/2024;23/01/2029
+CON-994;2102718;MT;Fundo Municipal de Previdência Social dos Servidores do Município de Santa Terezinha - PREVIST;Instituto de Previdência;Consignet;Inativo;25/03/2024;25/03/2025
+CON-993;2102704;MS;Batayporã - MS;Prefeitura Municipal;Consignet;Ativo;25/03/2024;25/03/2029
+CON-992;2102179;CE;Aquiraz - CE;Prefeitura Municipal;Safe Consig;Inativo;22/03/2024;01/09/2024
+CON-991;2102171;PI;Esperantina - PI;Prefeitura Municipal;Digital Consig;Ativo;22/03/2024;09/08/2026
+CON-990;2102161;PR;Lupionópolis - PR;Prefeitura Municipal;Consignet;Ativo;27/02/2024;27/02/2029
+CON-989;2101565;SP;Santa Mercedes - SP;Prefeitura Municipal;Consignet;Inativo;22/03/2024;29/07/2024
+CON-988;2101564;MT;ROSARIO PREVI - FUNDO MUNICIPAL DE PREVIDENCIA SOCIAL DOS SERVIDORES DE ROSARIO OESTE/MT;Instituto de Previdência;Digital Consig;Inativo;22/03/2024;01/10/2024
+CON-987;2101553;RJ;Barra Mansa - RJ;Prefeitura Municipal;Infoconsig;Inativo;22/03/2024;11/05/2024
+CON-986;2101547;RJ;SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE BARRA MANSA - SAAE RJ;Autarquia;Infoconsig;Inativo;22/03/2024;11/05/2024
+CON-985;2100542;RN;Angicos - RN;Prefeitura Municipal;SP Consig;Ativo;20/03/2024;20/03/1934
+CON-984;2099245;MT;Juruena - MT ;Prefeitura Municipal;Digital Consig;Ativo;20/03/2024;26/03/2026
+CON-983;2099184;BA;Pilão Arcado - BA;Prefeitura Municipal;ConsigLog;Ativo;20/03/2024;02/12/2025
+CON-982;2099182;BA;Cariranhanha - BA;Prefeitura Municipal;Fasitec;Iniciando Renovação;20/03/2024;11/08/2025
+CON-981;2099179;CE;Cascavel - CE;Prefeitura Municipal;Safe Consig;Inativo;20/03/2024;10/12/2024
+CON-980;2099178;PR;Assis Chateaubriand - PR  ;Prefeitura Municipal;Consignet;Ativo;20/03/2024;07/06/2026
+CON-979;2096883;MA;COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO - CAEMA;Autarquia;Fácil;Ativo;12/03/2024;12/03/2026
+CON-978;2096880;PB;Serra Redonda - PB;Prefeitura Municipal;Metaconsig;Ativo;11/03/2024;11/03/2029
+CON-977;2095927;MG;CORONEL FABRICIANO - PREVCEL - MG;Instituto de Previdência;Unitedtech;Ativo;08/05/2024;08/03/2027
+CON-976;2095894;PI;Fundo Previdenciário do Município de Floriano - PI;Instituto de Previdência;Consignet;Ativo;15/03/2024;27/04/2028
+CON-975;2095890;SP;SERVIÇO DE ÁGUA, ESGOTO DO MUNICÍPIO DE ARARAS -  SAEMA;Autarquia;Infoconsig;Ativo;15/03/2024;29/09/2026
+CON-974;2095887;SP;Estância Balneária de Ubatuba - SP;Prefeitura Municipal;NeoConsig;Ativo;04/10/2024;03/10/2029
+CON-973;2095831;PR;São Mateus do Sul - PR;Prefeitura Municipal;Montreal;Inativo;15/03/2024;15/03/2025
+CON-972;2095734;SP;HBA HUTCHINSON BRASIL AUTOMOTIVE LTDA.;Empresa Privada;Consignet;Ativo;15/03/2024;22/11/2026
+CON-971;2091872;MS;Paranhos - MS;Prefeitura Municipal;Consignet;Ativo;13/03/2024;13/03/2029
+CON-970;2090307;RS;Nova Prata - RS;Prefeitura Municipal;Consignet;Ativo;14/04/2025;12/04/1930
+CON-969;2090296;PB;Hospital e Maternidade Flávio Ribeiro Coutinho - PB;Outros;Fácil;Ativo;11/03/2024;13/09/2027
+CON-968;2090261;PR;Campina da Lagoa - PR;Prefeitura Municipal;Consignet;Ativo;11/03/2024;11/07/2028
+CON-967;2090251;SC;Assembleia Legislativa do Estado de Santa Catarina - ALESC;Assembléia;Safe Consig;Inativo;11/03/2024;11/03/2024
+CON-966;2090171;TO;Governo do Tocantins;Governo de Estado;SiConsig;Ativo;14/03/2024;14/03/2026
+CON-965;2090154;RS;Porto Alegre - RS;Prefeitura Municipal;NeoConsig;Ativo;07/03/2024;07/03/2029
+CON-964;2090132;PI;Governo do Piauí;Governo de Estado;Fácil;Inativo;06/03/2024;06/03/2025
+CON-963;2088910;BA;Luís Eduardo Magalhães - BA;Prefeitura Municipal;ConsigLog;Ativo;29/01/2024;29/01/2028
+CON-962;2088886;BA;Cafarnaum - BA;Prefeitura Municipal;Fasitec;Ativo;08/03/2024;22/04/2026
+CON-961;2088880;MT;Tribunal de Justiça do Estado de Mato Grosso - TJMT;Tribunal;SERPRO;Inativo;08/03/2024;15/12/2024
+CON-960;2088878;TO;Sampaio - TO;Câmara Municipal;Consignet;Ativo;08/03/2024;07/08/2028
+CON-959;2088876;PI;Fundo Previdenciário do Município de Regeneração - PI;Instituto de Previdência;Consignet;Iniciando Renovação;08/03/2024;31/08/2025
+CON-958;2088859;RJ;Petrópolis - RJ;Prefeitura Municipal;BRTEC;Ativo;22/02/2024;22/02/2029
+CON-957;2088833;PR;Lidianópolis - PR;Prefeitura Municipal;Consignet;Ativo;08/03/2024;01/08/2028
+CON-956;2088810;PR;Sabáudia - PR;Prefeitura Municipal;Consignet;Ativo;08/03/2024;09/10/2028
+CON-955;2088588;RO;Vale do Paraíso / RO;Prefeitura Municipal;Consignet;Ativo;29/02/2024;28/02/2029
+CON-954;2088175;CE;Mauriti - CE;Prefeitura Municipal;Digital Consig;Ativo;07/03/2024;30/06/2026
+CON-953;2088168;PA;Ananindeua - PA;Prefeitura Municipal;RF1 Participações;Inativo;07/03/2024;06/12/2024
+CON-952;2088142;RO;Alto Alegre dos Parecis - RO;Prefeitura Municipal;Consignet;Ativo;06/03/2024;06/03/2029
+CON-951;2087819;SP;Indiaporã - SP;Prefeitura Municipal;Fasitec;Iniciando Renovação;07/03/2024;20/07/2025
+CON-950;2087620;RS;Instituto de Previdência dos Servidores Públicos - Previjuí ;Instituto de Previdência;Lucas/Siga TI;Inativo;07/03/2024;07/05/2025
+CON-949;2087495;MG;Moema - MG;Prefeitura Municipal;Consignet;Ativo;06/03/2024;06/03/2029
+CON-948;2087200;RS;Caseiros - RS;Prefeitura Municipal;Consignet;Inativo;05/03/2024;05/03/2025
+CON-947;2087199;RJ;Mangaratiba - RJ ;Prefeitura Municipal;ConsigLog;Ativo;06/12/2023;28/12/2028
+CON-946;2087197;SP;DEPARTAMENTO AUTÔNOMO DE ÁGUA E ESGOTO DE RIO CLARO/SP (DAAE);Autarquia;Consignet;Ativo;06/03/2024;21/12/2026
+CON-945;2087195;PR;Umuarama - PR;Prefeitura Municipal;Consignet;Ativo;06/03/2024;17/01/2027
+CON-944;2087192;PI;Lagoa Alegre - PI;Prefeitura Municipal;Digital Consig;Iniciando Renovação;06/03/2024;23/07/2025
+CON-943;2087191;PR;Almirante Tamandaré - PR;Prefeitura Municipal;Fasitec;Ativo;24/03/2025;23/03/1930
+CON-942;2087190;BA;São Desidério - BA;Prefeitura Municipal;Fasitec;Ativo;06/03/2024;10/03/2027
+CON-941;2087140;AM;Tefé - AM;Prefeitura Municipal;RF1 Participações;Inativo;22/08/2023;22/08/2024
+CON-940;2087139;PA;Abaetuba - PA;Prefeitura Municipal;RF1 Participações;Ativo;30/11/2023;30/11/2028
+CON-939;2087138;PA;Portel - PA;Prefeitura Municipal;RF1 Participações;Ativo;05/04/2023;05/03/2028
+CON-938;2087136;PA;Juriti - PA ;Prefeitura Municipal;RF1 Participações;Ativo;27/03/2023;27/03/2028
+CON-937;2087135;PA;Óbidos - PA;Prefeitura Municipal;RF1 Participações;Ativo;23/08/2023;23/08/2028
+CON-936;2083057;PI;Instituto de Previdência do Município de Parnaíba - PI;Instituto de Previdência;Consignet;Inativo;04/03/2024;10/12/2024
+CON-935;2083052;PR;Nova América da Colina - PR;Prefeitura Municipal;Consignet;Ativo;04/03/2024;25/01/2026
+CON-934;2083028;SP;Pederneiras - SP;Prefeitura Municipal;Montreal;Ativo;04/03/2024;16/09/2025
+CON-933;2083021;CE;Potengi - CE;Prefeitura Municipal;Fácil;Ativo;04/03/2024;07/11/2027
+CON-932;2083011;RO;INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS MUNICIPAIS DE SERINGUEIRAS - RO;Instituto de Previdência;Consignet;Ativo;04/03/2024;24/08/2026
+CON-931;2083002;PB;INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS MUNICIPAIS DE CAMPINA GRANDE - IPSEM;Instituto de Previdência;Fácil;Inativo;04/03/2024;01/10/2024
+CON-930;2082998;SP;Elias Fausto -SP;Prefeitura Municipal;ConsigLog;Iniciando Renovação;04/03/2024;09/07/2025
+CON-929;2082993;AL;Passo de Camaragibe - AL;Prefeitura Municipal;Fasitec;Ativo;04/03/2024;03/08/2027
+CON-928;2082991;BA;Adustina - BA;Prefeitura Municipal;Fasitec;Ativo;04/03/2024;30/10/2028
+CON-927;2074345;SP;DAE Bauru - SP;Outros;Consignet;Ativo;16/02/2024;16/02/2026
+CON-926;2073962;SC;Instituto de Previdência do Município de Tijucas - SC - PREVISERTI;Instituto de Previdência;Consignet;Inativo;21/02/2024;21/02/2025
+CON-925;2073034;PR;General Carneiro - PR;Prefeitura Municipal;Mconsig;Inativo;22/02/2024;03/03/2025
+CON-924;2072961;MT;Várzea Grande - MT;Prefeitura Municipal;ASBAN;Iniciando Renovação;11/04/2025;10/10/2025
+CON-923;2072926;RJ;Instituto de Previdência Social de Macaé - MACAEPREV - RJ;Instituto de Previdência;SP Consig;Ativo;19/05/2025;19/05/2026
+CON-922;2072916;MS;Angélica - MS;Prefeitura Municipal;Consignet;Inativo;22/02/2024;21/05/2025
+CON-921;2072914;MA;Brejo - MA;Prefeitura Municipal;Digital Consig;Ativo;22/02/2024;01/10/2025
+CON-920;2072904;SP;Departamento de Esgoto e Água de Guaíra (DEAGUA) - SP;Autarquia;Consignet;Ativo;22/02/2024;22/11/2028
+CON-919;2072887;PR;Guaratuba - GUARAPREV - PR;Instituto de Previdência;Consignet;Ativo;22/02/2024;04/01/2026
+CON-918;2072460;CE;Barbalha - CE;Prefeitura Municipal;Fácil;Inativo;21/02/2024;21/09/2024
+CON-917;2072452;PR;Arapongas e Instituto de Previdência - PR;Prefeitura Municipal;Consignet;Ativo;21/02/2024;31/07/2028
+CON-916;2072446;RS;Santa Maria - RS;Prefeitura Municipal;Consignet;Inativo;21/02/2024;06/12/2024
+CON-915;2072435;CE;Deputado Irapuan Pinheiro - CE;Prefeitura Municipal;Safe Consig;Inativo;21/02/2024;11/02/2025
+CON-914;2071738;AL;Palestina - AL;Prefeitura Municipal;Fasitec;Ativo;20/02/2024;20/02/2029
+CON-913;2069497;SC;Joinville e IPREVILLE - SC ;Instituto de Previdência;SERPRO;Ativo;19/02/2024;19/02/2026
+CON-912;2069486;AM;Autazes - AM;Prefeitura Municipal;Fênixsoft;Ativo;19/01/2024;19/01/2028
+CON-911;2069216;MS;Alcinópolis - MS;Prefeitura Municipal;Fasitec;Iniciando Renovação;19/02/2024;23/06/2025
+CON-910;2069203;PR;São Carlos do Ivaí - PR;Prefeitura Municipal;Fasitec;Ativo;19/02/2024;29/10/2025
+CON-909;2069196;MG;Machado - MG;Prefeitura Municipal;Unitedtech;Inativo;19/02/2024;20/03/2025
+CON-908;2063724;SP;Fundação de Saúde Pública de São Sebastião - SP;Outros;ConsigLog;Ativo;09/02/2024;30/10/2028
+CON-907;2063713;RO;do Vale do Anari - RO;Prefeitura Municipal;Consignet;Ativo;09/02/2024;07/11/2028
+CON-906;2063694;SP;Fundação de Apoio ao Ensino, Pesquisa e Assistência do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - USP;Outros;Consignet;Inativo;09/02/2024;28/11/2024
+CON-905;2063687;BA;Itaparica - BA;Prefeitura Municipal;ConsigLog;Inativo;09/02/2024;20/07/2024
+CON-904;2063673;MS;Rio Verde do Mato Grosso - MS;Prefeitura Municipal;Fasitec;Ativo;09/02/2024;04/05/2028
+CON-903;2063375;BA;Aurelino Leal - BA;Prefeitura Municipal;ConsigLog;Inativo;09/02/2024;11/03/2025
+CON-902;2063349;SP;Novo Horizonte - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;09/02/2024;26/06/2025
+CON-901;2063306;PA;Anapu - PA;Prefeitura Municipal;Digital Consig;Ativo;09/02/2024;05/09/2027
+CON-900;2063272;PE;Fundo Municipal de Saúde de Cabo de Santo Agostinho - PE;Outros;ICM Soluções;Iniciando Renovação;09/02/2024;17/06/2025
+CON-899;2063258;CE;Serviço Autônomo de Água e Esgoto - SAAE Iguatu - CE;Autarquia;Fácil;Ativo;09/02/2024;10/05/2028
+CON-898;2063249;SP;Pirapozinho - SP ;Prefeitura Municipal;Consignet;Inativo;09/02/2024;05/11/2024
+CON-897;2063240;SP;Arandu - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;09/02/2024;17/07/2025
+CON-896;2063227;MT;Feliz Natal - MT ;Prefeitura Municipal;NewVersion;Inativo;09/02/2024;25/03/2025
+CON-895;2063213;PR;Companhia Municipal de Trânsito e Urbanização de Londrina (CMTU-LD) - PR;Outros;Consignet;Ativo;23/12/2023;23/12/2028
+CON-894;2063198;PE;Carnaíba - PE;Prefeitura Municipal;SP Consig;Ativo;05/01/2024;05/01/2029
+CON-893;2063163;AM;Manacapuru - AM;Prefeitura Municipal;Fênixsoft;Inativo;13/01/2024;13/01/2025
+CON-892;2062778;SP;Pedranópolis - SP;Prefeitura Municipal;Fasitec;Iniciando Renovação;08/02/2024;01/07/2025
+CON-891;2062773;BA;Poções - BA;Prefeitura Municipal;Fasitec;Ativo;14/11/2024;14/11/2029
+CON-890;2062770;CE;Itapiúna - CE;Prefeitura Municipal;Digital Consig;Ativo;08/02/2024;06/01/2027
+CON-889;2062761;SP;Tarumã - SP;Prefeitura Municipal;Consignet;Ativo;08/02/2024;16/11/2028
+CON-888;2052519;AC;Rio Branco - AC;Prefeitura Municipal;ConsigLog;Ativo;15/01/2024;15/01/2029
+CON-887;2050726;RN;Fundo de Previdência Social do Município de Lajes . PREVLAJES;Instituto de Previdência;SP Consig;Ativo;26/01/2024;26/01/2029
+CON-886;2047836;PR;Pinhais - PR;Prefeitura Municipal;Consignet;Ativo;24/01/2024;08/02/2028
+CON-885;2045790;SC;Tijucas - SC;Prefeitura Municipal;Consignet;Ativo;23/01/2024;28/09/2025
+CON-884;2045050;RN;Bento Fernandes - AL;Prefeitura Municipal;SP Consig;Ativo;20/10/2022;20/10/2026
+CON-883;2043490;SP;Promissão - SP;Prefeitura Municipal;Consignet;Ativo;19/01/2024;03/01/2026
+CON-882;2043476;PR;Santo Inácio - PR;Prefeitura Municipal;Consignet;Inativo;19/01/2024;15/10/2024
+CON-881;2043470;SP;Pardindo - SP;Prefeitura Municipal;Consignet;Inativo;19/01/2024;08/06/2025
+CON-880;2043464;SE;Poço Verde - SE;Prefeitura Municipal;Green Consig;Ativo;19/01/2024;17/08/2028
+CON-879;2042331;RO;Nova Brasilândia D' Oeste - RO;Prefeitura Municipal;Consignet;Ativo;22/12/2023;22/12/2028
+CON-878;2042320;AL;IAPREV - Instituto de Aposentadoria, Previdência e Pensões de Pão de Açucar;Instituto de Previdência;Fasitec;Ativo;17/01/2024;17/01/2029
+CON-877;2041294;PR;Icaraíma - PR ;Prefeitura Municipal;Fasitec;Inativo;17/01/2024;05/09/2024
+CON-876;2041275;MS;Bela Vista - MS;Prefeitura Municipal;Consignet;Inativo;17/01/2024;16/05/2024
+CON-875;2041253;SP;Serviço de Previdência Social do Município de Araras - ARAPREV - SP;Instituto de Previdência;Fasitec;Inativo;17/01/2024;05/04/2025
+CON-874;2041187;AM;Estado do Amazonas - TCE AM;Tribunal;Fênixsoft;Ativo;08/01/2025;07/01/2026
+CON-873;2040464;GO;Aparecida de Goiânia - GO;Prefeitura Municipal;ConsigLog;Ativo;27/12/2023;27/01/2028
+CON-872;2040456;AL;Coité do Nóia - AL;Prefeitura Municipal;Fasitec;Ativo;12/01/2024;12/01/2029
+CON-871;2040061;SC;Rio das Antas - SC;Prefeitura Municipal;Consignet;Inativo;13/12/2019;13/12/2024
+CON-870;2040025;SC;Gaspar - SC;Prefeitura Municipal;Consignet;Inativo;02/09/2019;02/09/2024
+CON-869;2039984;SC;SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO . SAMAE BRUSQUE - SC;Outros;Consignet;Ativo;21/05/2024;21/05/2029
+CON-868;2039977;RS;Xaxim - SC;Prefeitura Municipal;Consignet;Inativo;30/04/2019;30/04/2024
+CON-867;2039954;RS;Salto do Jacuí - RS;Prefeitura Municipal;Consignet;Ativo;04/01/2022;04/01/2027
+CON-866;2039108;AL;Taquarana - AL ;Prefeitura Municipal;Fasitec;Ativo;09/01/2024;09/01/2029
+CON-865;2039104;DF;Ministério de Minas e Energia/Indústrias Nucleares do Brasil S/A;Outros;SERPRO;Inativo;21/12/2023;21/12/2024
+CON-864;2039048;MS;Miranda - MS;Prefeitura Municipal;Fasitec;Inativo;15/01/2024;03/06/2025
+CON-863;2039036;PR;Fundo de Previdência dos Servidores Públicos do Município de Amaporã . AMAPORÃPREV;Instituto de Previdência;Consignet;Ativo;13/12/2023;13/12/2028
+CON-862;2039030;PA;Instituto de Previdência Social dos Servidores Públicos do Município de Marabá . IPASEMAR;Instituto de Previdência;Consignet;Inativo;22/12/2023;22/12/2024
+CON-861;2039022;PR;Rio Negro - PR;Prefeitura Municipal;Consignet;Ativo;17/04/2025;16/04/1930
+CON-860;2039018;BA;Wenceslau Guimarães - BA;Prefeitura Municipal;Fasitec;Ativo;15/01/2024;24/02/2026
+CON-859;2039006;SP;Piratininga - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;15/01/2024;04/08/2025
+CON-858;2038988;PR;Pérola - PR;Prefeitura Municipal;Consignet;Ativo;15/01/2024;06/11/2028
+CON-857;2026662;CE;Trairi - CE;Prefeitura Municipal;Consignet;Ativo;21/12/2023;21/12/2028
+CON-856;2025528;MA;Tutóia - MA ;Prefeitura Municipal;Safe Consig;Ativo;22/12/2023;22/12/2027
+CON-855;2025015;AP;Agência de Fomento do Amapá - AP;Outros;ConsigLog;Ativo;30/10/2024;30/12/2029
+CON-854;2024095;CE;Ubajara - CE;Prefeitura Municipal;Digital Consig;Ativo;26/12/2023;26/09/2028
+CON-853;2023436;AM;Procuradoria Geral do Estado do Amazonas - PGE/AM;Outros;ConsigLog;Ativo;19/12/2024;18/12/2025
+CON-852;2022829;RS;Jaguari - RS;Prefeitura Municipal;Consignet;Ativo;14/12/2023;14/12/2028
+CON-851;2022762;BA;Ibicuí - BA;Prefeitura Municipal;ConsigLog;Ativo;22/12/2023;01/10/2025
+CON-850;2022696;PR;Brasilândia do Sul - PR;Prefeitura Municipal;Fasitec;Inativo;22/12/2023;25/11/2024
+CON-849;2022692;PR;Santa Casa de Paranavaí - PR;Empresa Privada;Consignet;Ativo;22/12/2023;10/05/2027
+CON-848;2022414;CE;Iguatu - CE;Prefeitura Municipal;Safe Consig;Ativo;12/03/2025;12/03/1930
+CON-847;2022412;PR;IPMAT - INTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE ALMIRANTE TAMANDARÉ - PR;Instituto de Previdência;Infoconsig;Ativo;21/12/2023;25/01/2028
+CON-846;2021686;RN;Natal - RN;Prefeitura Municipal;Fácil;Ativo;07/04/2025;07/04/1930
+CON-845;2021493;GO;INSTITUTO DE SEGURIDADE SOCIAL DOS SERVIDORES MUNICIPAIS DE ANÁPOLIS - ISSA;Instituto de Previdência;ASBAN;Inativo;01/01/2024;30/12/2024
+CON-844;2019273;GO;Montividiu - GO;Prefeitura Municipal;Consignet;Ativo;18/12/2023;18/12/2028
+CON-843;2018864;SP;Governo de São Paulo;Governo de Estado;CIP;Inativo;28/12/2018;28/12/2023
+CON-842;2018777;BA;Mansidão - BA;Prefeitura Municipal;Fasitec;Ativo;18/12/2023;15/06/2028
+CON-841;2018761;MG;Sete Lagoas - MG;Prefeitura Municipal;NeoConsig;Iniciando Renovação;15/05/2025;15/05/2026
+CON-840;2018722;PR;Nova Londrina PREV - PR;Instituto de Previdência;Consignet;Inativo;18/12/2023;28/10/2024
+CON-839;2018716;BA;Tapiramutá - BA;Prefeitura Municipal;ConsigLog;Iniciando Renovação;18/12/2023;14/07/2025
+CON-838;2018687;BA;FUNDO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE TAPIRAMUTÁ . FUNTAP;Instituto de Previdência;ConsigLog;Ativo;18/12/2023;22/05/2028
+CON-837;2018679;BA;Itabela - BA;Prefeitura Municipal;ConsigLog;Ativo;18/12/2023;23/01/2028
+CON-836;2018673;PR;Ribeirão do Pinhal - PR;Prefeitura Municipal;Consignet;Inativo;18/12/2023;16/08/2024
+CON-835;2018253;CE;Senador Pompéu - CE;Prefeitura Municipal;Fácil;Ativo;01/06/2023;01/06/2028
+CON-834;2017559;RO;Novo Horizonte do Oeste - RO;Prefeitura Municipal;Consignet;Ativo;10/11/2023;10/11/2028
+CON-833;2017549;AL;São Miguel dos Milagres - AL;Prefeitura Municipal;Fasitec;Ativo;14/12/2023;15/12/2028
+CON-831;2015452;RJ;Campos dos Goytacazes - RJ;Prefeitura Municipal;Safe Consig;Ativo;13/12/2023;30/06/2026
+CON-830;2014839;AM;Fundação Fundo Previdenciário do Estado do Amazonas . AMAZONPREV;Instituto de Previdência;Fênixsoft;Iniciando Renovação;13/12/2023;05/08/2025
+CON-829;2014817;RO;Itapuã do Oeste - RO;Prefeitura Municipal;Consignet;Ativo;27/11/2023;27/11/2028
+CON-828;2014403;SP;SANASA - Campinas;Empresa Privada;DB1;Inativo;12/12/2023;03/03/2025
+CON-827;2014376;PR;Alto Paraná - PR ;Prefeitura Municipal;Consignet;Ativo;12/12/2023;06/04/2027
+CON-826;2014367;SP;Instituto de Previdência Municipal de Zacarias - IPREMZAC - SP;Instituto de Previdência;Consignet;Ativo;12/12/2023;12/07/2027
+CON-825;2014342;SC;Fundo Municipal de Previdência Social dos Servidores de Pomerode - SC;Instituto de Previdência;Consignet;Ativo;12/12/2023;22/06/2028
+CON-824;2014339;PR;Coamo Agroindustrial Cooperativa - PR;Empresa Privada;Consignet;Inativo;12/12/2023;05/09/2024
+CON-823;2014269;MA;João Lisboa - MA;Prefeitura Municipal;Consignet;Iniciando Renovação;12/12/2023;27/07/2025
+CON-822;2014265;MA;Grajaú - MA;Prefeitura Municipal;Consignet;Ativo;12/12/2023;16/09/2027
+CON-821;2013771;PE;Previdência Social de Altinho/PE;Instituto de Previdência;Consignet;Ativo;08/12/2023;08/12/2028
+CON-820;2012528;PE;Câmara de Afogados da Ingazeira - PE;Câmara Municipal;Consignet;Inativo;07/12/2023;07/12/2024
+CON-819;2012522;DF;Indústrias Nucleares Brasileiras SA - INB;Empresa Privada;SERPRO;Inativo;04/12/2023;04/12/2024
+CON-818;2012147;BA;São Gonçalo dos Campos - BA;Prefeitura Municipal;ConsigLog;Inativo;08/12/2023;12/09/2024
+CON-817;2012146;MG;Caeté - MG;Prefeitura Municipal;Safe Consig;Iniciando Renovação;08/12/2023;01/07/2025
+CON-816;2011012;SP;Fundo Municipal de Seguridade Social de Macaubal - SP;Instituto de Previdência;Consignet;Ativo;07/12/2023;07/04/2026
+CON-815;2011004;MT;Canabrava do Norte - MT;Prefeitura Municipal;Consignet;Ativo;05/12/2023;05/12/2028
+CON-814;2008068;MT;Jaciara - MT;Prefeitura Municipal;Digital Consig;Iniciando Renovação;05/12/2023;17/06/2025
+CON-813;2008065;MT;Rondonópolis - MT;Instituto de Previdência;Digital Consig;Inativo;05/12/2023;28/06/2024
+CON-812;2008064;CE;Banabuiu - CE;Prefeitura Municipal;Digital Consig;Ativo;05/12/2023;11/09/2028
+CON-811;2006983;PB;Esperança - PB;Prefeitura Municipal;Fácil;Inativo;04/12/2023;26/03/2025
+CON-810;2006968;MA;Caxias - MA;Prefeitura Municipal;Fácil;Ativo;04/12/2023;31/05/2028
+CON-809;2006945;GO;Cristalina - GO;Prefeitura Municipal;Fasitec;Ativo;04/12/2023;14/07/2026
+CON-808;2005405;SC;Florianópolis - SC;Prefeitura Municipal;INEF;Ativo;19/12/2022;19/12/2027
+CON-807;2002491;BA;Iuiu - BA;Prefeitura Municipal;NewVersion;Ativo;29/11/2023;21/12/2026
+CON-806;2002458;AC;Governo do Acre ;Governo de Estado;Fênixsoft;Ativo;29/06/2020;30/06/2028
+CON-805;2002430;AL;Feira Grande - AL ;Prefeitura Municipal;Fasitec;Ativo;28/11/2023;28/11/2028
+CON-804;2001811;PR;Instituto de Previdência dos Servidores do Município de Iretama - PR;Instituto de Previdência;Consignet;Ativo;28/11/2023;29/06/2028
+CON-803;2000630;SP;Ituverava - SP;Prefeitura Municipal;Consignet;Inativo;27/11/2023;03/06/2023
+CON-802;1999950;RO;Colorado do Oeste - RO;Prefeitura Municipal;Consignet;Ativo;23/11/2023;13/01/2026
+CON-800;1998186;SE;Ita Bolos LTDA.;Empresa Privada;NewVersion;Ativo;24/11/2023;13/04/2027
+CON-799;1998173;PE;Sirinhaém - PE;Prefeitura Municipal;Fácil;Ativo;28/03/2025;28/03/1930
+CON-798;1998167;PE;Afogados da Ingazeira - PE ;Prefeitura Municipal;Consignet;Ativo;20/11/2023;20/11/2028
+CON-797;1997254;ES;Marilândia - ES;Prefeitura Municipal;Consignet;Ativo;23/11/2023;18/11/2025
+CON-796;1997239;BA;Mucuri - BA;Prefeitura Municipal;Quantum;Inativo;23/11/2023;31/12/2024
+CON-795;1996369;PR;Presidente Castelo Branco - PR;Prefeitura Municipal;Consignet;Ativo;22/11/2023;02/07/2028
+CON-794;1996364;SC;Três Barras - SC;Prefeitura Municipal;Infoconsig;Ativo;22/11/2023;28/04/2026
+CON-793;1996359;PR;Bela Vista do Paraíso - PR;Prefeitura Municipal;Consignet;Inativo;21/11/2023;21/03/2024
+CON-792;1996353;PE;Fundo de Previdência do Município de Santa Cruz - PE;Instituto de Previdência;Consignet;Ativo;22/11/2023;26/11/2026
+CON-791;1996335;MS;Nova Andradina - MS;Prefeitura Municipal;Fasitec;Ativo;22/11/2023;19/11/2025
+CON-790;1996326;CE;Tururu - CE;Prefeitura Municipal;Safe Consig;Ativo;22/11/2023;01/04/2026
+CON-789;1996323;AP;Ministério Público do Amapá - MPAP;Outros;Infoconsig;Ativo;22/11/2023;29/09/2025
+CON-788;1995858;PR;Apucarana - PR;Prefeitura Municipal;ConsigBr;Inativo;22/11/2023;11/03/2024
+CON-787;1995852;MG;Ituiutaba - MG;Prefeitura Municipal;Consignet;Inativo;22/11/2023;29/08/2024
+CON-786;1993837;BA;Ouriçangas - BA ;Prefeitura Municipal;Fasitec;Inativo;20/11/2023;19/09/2024
+CON-785;1993827;BA;Uibaí - BA;Prefeitura Municipal;Fasitec;Ativo;20/11/2023;10/09/2026
+CON-784;1993824;PA;Igarapé-Miri - PA;Prefeitura Municipal;RF1 Participações;Ativo;23/12/2024;22/12/2025
+CON-783;1992560;SP;São Vicente - SP;Prefeitura Municipal;Quantum;Iniciando Renovação;17/11/2023;12/09/2025
+CON-782;1992547;RS;Bruning Tecnometal S/A;Empresa Privada;Consignet;Ativo;17/11/2023;30/11/2025
+CON-781;1992541;AL;Fundo de Aposentadoria e Pensão - FAPEN - Cajueiro - AL;Instituto de Previdência;Fasitec;Ativo;16/11/2023;16/11/2028
+CON-780;1992538;RN;Currais Novos - RN;Prefeitura Municipal;Fácil;Ativo;01/12/2023;01/12/2028
+CON-779;1992181;RJ;Instituto de Previdência dos Servidores Públicos Municipais de Teresópolis - TEREPREV - RJ;Instituto de Previdência;Quantum;Ativo;16/11/2023;28/01/2026
+CON-778;1990760;BA;Jacobina - JACOPREV - BA;Instituto de Previdência;Fasitec;Ativo;11/10/2023;11/10/2028
+CON-777;1990716;BA;Gandu - BA;Prefeitura Municipal;ConsigLog;Ativo;27/10/2023;27/10/2028
+CON-776;1990680;MG;Itajubá - MG ;Prefeitura Municipal;Unitedtech;Inativo;14/11/2023;06/09/2024
+CON-775;1990604;MS;Deodápolis - MS;Prefeitura Municipal;Fasitec;Inativo;21/11/2023;28/10/2024
+CON-774;1990532;PR;Guamiranga - PR;Prefeitura Municipal;Consignet;Ativo;14/11/2023;01/06/2028
+CON-773;1989937;PI;Instituto de Previdência do Município de Campo Maior - PI;Instituto de Previdência;Fácil;Ativo;14/11/2023;04/08/2027
+CON-772;1989169;RN;São Bento do Trairí - RN;Prefeitura Municipal;SP Consig;Inativo;13/11/2023;13/11/2024
+CON-771;1988850;RJ;Belford Roxo - RJ;Prefeitura Municipal;ConsigLog;Ativo;30/10/2023;30/10/2028
+CON-770;1988006;PR;Juranda - PR;Prefeitura Municipal;Consignet;Iniciando Renovação;10/11/2023;01/09/2025
+CON-769;1987999;BA;Coração de Maria - BA;Prefeitura Municipal;Fasitec;Inativo;10/11/2023;04/01/2024
+CON-768;1987997;RS;Instituto de Previdência dos Servidores Municipais de Gravataí - RS;Instituto de Previdência;BRTEC;Ativo;10/11/2023;01/09/2027
+CON-767;1987994;BA;Antônio Gonçalves - BA;Prefeitura Municipal;ConsigLog;Ativo;10/11/2023;26/01/2026
+CON-766;1987975;PR;Mangueirinha - PR;Prefeitura Municipal;Consignet;Ativo;10/11/2023;01/09/2028
+CON-765;1987704;AL;Instituto de Previdência Própria dos Servidores do Município de Batalha - AL;Instituto de Previdência;Fasitec;Ativo;09/11/2023;09/11/2028
+CON-764;1987703;PI;Teresina - PI;Prefeitura Municipal;Fácil;Ativo;30/08/2024;30/08/2029
+CON-763;1987689;PR;Assembleia Legislativa do do Estado do Paraná - PR;Assembléia;Consignet;Inativo;10/11/2023;24/08/2024
+CON-762;1986720;PE;Instituto de Previdência do Município de Venturosa - PE;Instituto de Previdência;SP Consig;Ativo;01/09/2023;01/09/2028
+CON-761;1986716;MA;Fernando Falcão - MA ;Prefeitura Municipal;Consignet;Ativo;08/11/2023;08/11/2025
+CON-760;1986708;PR;Capitão Leonidas Marques - PR;Prefeitura Municipal;Consignet;Ativo;21/11/2023;21/11/2028
+CON-759;1986606;GO;Gouvelândia - GO;Prefeitura Municipal;Consignet;Ativo;30/10/2023;30/10/2028
+CON-758;1985443;MG;Uberaba - MG;Instituto de Previdência;Unitedtech;Inativo;08/11/2023;28/08/2024
+CON-757;1985391;GO;Goiânia e Goiânia PREV - GO;Prefeitura Municipal;ConsigLog;Inativo;08/11/2023;23/10/2024
+CON-756;1985371;SP;Valentim Gentil - SP;Prefeitura Municipal;Fasitec;Inativo;08/11/2023;15/06/2024
+CON-755;1985367;GO;Uruaçu - GO;Câmara Municipal;Digital Consig;Ativo;08/11/2023;02/02/2026
+CON-754;1985362;PE;Quixelô - PE;Prefeitura Municipal;Digital Consig;Ativo;08/11/2023;28/04/2026
+CON-753;1985294;SP;Fundação de Previdência dos Servidores Públicos Municipais Efetivos de Bauru - FUNPREV ;Instituto de Previdência;DB1;Inativo;08/11/2023;06/11/2024
+CON-752;1985275;PE;Panelas e Panelas PREV - SC;Prefeitura Municipal;Consignet;Iniciando Renovação;08/11/2023;20/08/2025
+CON-751;1984117;RO;Cabixi - RO;Prefeitura Municipal;Consignet;Ativo;21/11/2023;21/11/2028
+CON-750;1984004;PE;Brejão - PE;Prefeitura Municipal;Fácil;Ativo;01/11/2023;01/11/2028
+CON-749;1983866;SP;Mogi das Cruzes - SP;Prefeitura Municipal;ConsigLog;Ativo;24/10/2023;24/10/2027
+CON-748;1983806;RO;Cacaulândia - RO;Prefeitura Municipal;Consignet;Ativo;06/11/2023;06/11/2028
+CON-747;1983072;RS;Ijuí - RS;Instituto de Previdência;Lucas/Siga TI;Inativo;06/11/2023;07/05/2025
+CON-746;1983067;RS;Ijuí - RS;Prefeitura Municipal;Lucas/Siga TI;Inativo;06/11/2023;07/05/2025
+CON-745;1983058;CE;Instituto de Previdência do Município de Amontada - CE;Instituto de Previdência;Safe Consig;Ativo;06/11/2023;03/07/2028
+CON-744;1983045;AM;Iranduba - AM;Instituto de Previdência;LINE IT;Inativo;06/11/2023;20/05/2024
+CON-743;1983043;RO;Cujubim - RO;Prefeitura Municipal;Consignet;Inativo;06/11/2023;30/04/2024
+CON-742;1983030;RS;Novo Hamburgo - RS;Prefeitura Municipal;ASBAN;Inativo;06/11/2023;04/09/2024
+CON-741;1982995;SP;Colombia - SP;Prefeitura Municipal;Consignet;Ativo;06/11/2023;31/07/2028
+CON-740;1982639;SP;Tabatinga - SP;Prefeitura Municipal;Consignet;Inativo;01/01/2025;01/01/1930
+CON-739;1982591;PR;Marialva - PR;Prefeitura Municipal;Consignet;Ativo;06/11/2023;10/02/2027
+CON-738;1982578;RO;Cerejeiras - RO;Prefeitura Municipal;Consignet;Ativo;06/11/2023;24/01/2028
+CON-737;1982563;PE;Itapissuma - PE;Prefeitura Municipal;Consignet;Iniciando Renovação;06/11/2023;09/06/2025
+CON-736;1982542;SE;Maruim - SE;Prefeitura Municipal;Fasitec;Ativo;06/11/2023;29/03/2026
+CON-735;1982533;AM;Tribunal de Justiça do Amazonas - TJAM;Tribunal;PRODAM;Inativo;06/11/2023;11/07/2024
+CON-734;1981803;PI;Previdência de Paulistana - PI;Instituto de Previdência;Consignet;Ativo;29/06/2023;29/06/2028
+CON-733;1981789;SP;São José do Rio Preto SP;Prefeitura Municipal;Quantum;Inativo;27/09/2023;28/04/2025
+CON-732;1981774;SP;Regime Próprio de Previdência Social de São José do Rio Preto - SP - RIOPRETOPREV;Instituto de Previdência;Quantum;Ativo;27/09/2023;27/09/2027
+CON-731;1981767;PE;Recife ;Câmara Municipal;Fácil;Ativo;15/01/2025;18/01/2026
+CON-730;1976241;PE;Fundo Previdenciário de Bodocó - FUNPREBO;Instituto de Previdência;Fasitec;Inativo;27/10/2023;13/09/2024
+CON-729;1976239;PR;Fundação Universidade Estadual de Maringá - FUEM ;Outros;Consignet;Iniciando Renovação;27/10/2023;08/07/2025
+CON-728;1976165;PE;Chã de Alegria;Prefeitura Municipal;Consignet;Ativo;20/10/2023;20/10/2028
+CON-727;1976023;PI;Instituto de Previdência do Município de Água Branca - PI;Instituto de Previdência;Consignet;Ativo;27/10/2023;27/10/2028
+CON-726;1976014;PI;Paulistana/PI;Prefeitura Municipal;Consignet;Inativo;27/10/2023;27/10/2024
+CON-725;1975969;CE;Redenção - CE;Prefeitura Municipal;Safe Consig;Ativo;27/10/2023;11/01/2026
+CON-724;1975942;PE;Chã de Alegria - PE;Prefeitura Municipal;Consignet;Ativo;20/10/2023;20/10/2028
+CON-723;1975905;PB;Defensoria Pública do Estado da Paraíba - PB;Outros;Fácil;Inativo;27/10/2023;30/12/2024
+CON-722;1975902;PI;Altos - PI;Prefeitura Municipal;Fácil;Inativo;27/10/2023;14/04/2025
+CON-721;1973329;RJ;Instituto de Previdência do Município de Vassouras - FUPREVAS - RPPS;Instituto de Previdência;Consignet;Ativo;23/10/2023;22/11/2026
+CON-720;1973213;AP;Macapá Previdência - MACAPAPREV;Instituto de Previdência;ConsigLog;Inativo;20/10/2023;20/10/2024
+CON-719;1972662;SP;Pedrinhas Paulista - SP;Prefeitura Municipal;Consignet;Ativo;23/10/2023;23/10/2028
+CON-718;1972654;CE;Beberibe - CE;Prefeitura Municipal;Safe Consig;Inativo;24/10/2023;03/10/2024
+CON-717;1971768;AL;Instituto de Previdência do Município de Viçosa/AL - IPASMV;Instituto de Previdência;Fasitec;Ativo;20/10/2023;20/10/2028
+CON-716;1971757;RO;Governador Jorge Teixeira - RO;Prefeitura Municipal;Consignet;Ativo;18/10/2023;18/10/2028
+CON-714;1971033;MS;Ladário - MS;Prefeitura Municipal;Consignet;Ativo;10/03/2022;10/03/2027
+CON-713;1971027;MS;Sonora - MS;Prefeitura Municipal;Consignet;Ativo;08/03/2022;08/03/2027
+CON-712;1970932;SC;Palhoça - IPPA - SC;Instituto de Previdência;Consignet;Ativo;16/08/2023;16/08/2028
+CON-711;1970926;SC;Palhoça - SC;Prefeitura Municipal;Consignet;Ativo;16/10/2023;16/10/2028
+CON-710;1970822;SP;Serviços Técnicos Gerais - SETEC - Autarquia de Campinas ;Autarquia;ConsigLog;Ativo;07/05/2021;07/05/2026
+CON-709;1970809;PR;Ponta Grossa - PR;Prefeitura Municipal;NeoConsig;Inativo;06/06/2024;06/06/2025
+CON-708;1970346;MS;Instituto de Previdência do Município de Aparecida do Taboado - IPAMAT;Instituto de Previdência;Consignet;Inativo;20/10/2023;20/10/2024
+CON-707;1967004;PR;Lobato - PR;Prefeitura Municipal;Consignet;Ativo;28/09/2023;28/09/2028
+CON-706;1965698;RS;Horizontina - RS;Prefeitura Municipal;Consignet;Inativo;16/10/2023;22/04/2024
+CON-705;1965694;BA;Santana - BA;Prefeitura Municipal;Fasitec;Ativo;16/10/2023;06/05/2026
+CON-704;1965689;PR;Porto Vitória - PR;Prefeitura Municipal;Consignet;Inativo;16/10/2023;03/03/2025
+CON-703;1965683;CE;Várzea Alegre - CE;Prefeitura Municipal;Fácil;Ativo;16/10/2023;27/12/2026
+CON-702;1965678;RS;Lajeado - RS;Prefeitura Municipal;Consignet;Ativo;16/10/2023;25/09/2026
+CON-701;1965664;CE;Mulungu - CE;Prefeitura Municipal;Safe Consig;Ativo;16/10/2023;11/01/2027
+CON-700;1963428;PR;Cidade Gaúcha - PR;Prefeitura Municipal;Consignet;Ativo;11/10/2023;08/01/2026
+CON-699;1963423;PR;Fundo de Previdência do Município de Cruzeiro do Oeste - PR;Instituto de Previdência;Consignet;Inativo;11/10/2023;28/05/2025
+CON-698;1963378;PE;Joaquim Nabuco - PE;Prefeitura Municipal;Consignet;Ativo;06/09/2023;06/09/2028
+CON-697;1961120;BA;Itamaraju - BA;Prefeitura Municipal;ConsigLog;Ativo;20/09/2023;20/09/2028
+CON-696;1959627;PE;Camocim - PE;Prefeitura Municipal;Safe Consig;Inativo;03/10/2023;03/10/2024
+CON-695;1959477;PA;Instituto de Previdência do Município de Ananindeua - IPMA;Instituto de Previdência;ConsigLog;Ativo;06/10/2023;10/02/2026
+CON-694;1959435;PE;Abreu e Lima - PE ;Prefeitura Municipal;Consignet;Ativo;17/08/2022;17/08/2027
+CON-693;1959417;MS;Paranaíba - MS;Câmara Municipal;Consignet;Ativo;25/09/2023;25/10/2028
+CON-692;1958444;RS;Sobradinho - RS;Prefeitura Municipal;Consignet;Ativo;05/10/2023;10/05/2026
+CON-691;1958432;PR;Jussara - PR;Prefeitura Municipal;Consignet;Inativo;05/10/2023;27/11/2028
+CON-690;1958421;MG;Insetimax Industria Química Ltda.;Outros;Consignet;Ativo;05/10/2023;10/08/2027
+CON-689;1958414;SP;Juquiá - SP;Prefeitura Municipal;NewVersion;Iniciando Renovação;05/10/2023;08/07/2025
+CON-688;1958318;BA;Governo da Bahia ;Governo de Estado;ConsigLog;Ativo;27/09/2023;27/09/2027
+CON-687;1958282;GO;Formosa - GO ;Prefeitura Municipal;Quantum;Ativo;15/09/2023;15/09/2027
+CON-686;1958211;PR;Terra Roxa - PR;Prefeitura Municipal;Consignet;Ativo;27/10/2023;27/10/2028
+CON-685;1958204;PE;Betânia - PE;Prefeitura Municipal;Consignet;Ativo;20/09/2023;20/09/2028
+CON-684;1958081;SP;Pereira Barreto - SP;Prefeitura Municipal;Consignet;Ativo;05/10/2023;19/09/2027
+CON-683;1958079;RS;Cachoeirinha - RS;Prefeitura Municipal;ASBAN;Inativo;05/10/2023;29/05/2024
+CON-682;1957444;MT;Assembleia Legislativa do Mato Grosso - ALMT;Assembléia;Montreal;Inativo;11/10/2023;24/05/2025
+CON-681;1957321;PE;Câmara Municipal Vereadores de Flores - PE ;Câmara Municipal;Montreal;Inativo;02/10/2023;02/10/2024
+CON-680;1957315;PE;São Bento do Una - PE;Prefeitura Municipal;NewVersion;Ativo;08/12/2023;17/12/2026
+CON-679;1957148;PR;Andirá - PR;Prefeitura Municipal;Consignet;Ativo;12/12/2023;11/12/2025
+CON-678;1953093;SP;Cajati - SP;Prefeitura Municipal;Consignet;Ativo;29/09/2023;06/04/2028
+CON-677;1953062;PE;Instituto de Previdência dos Servidores Municipais de Belém do São Francisco PE - IPSEB;Instituto de Previdência;Consignet;Ativo;29/09/2023;11/06/2026
+CON-676;1953051;SC;SAMAE de Rio Negrinho;Autarquia;Consignet;Ativo;29/09/2023;07/04/2026
+CON-675;1953032;SP;Nuporanga - SP;Prefeitura Municipal;Consignet;Ativo;29/09/2023;27/09/2026
+CON-674;1953013;MG;Serviço Nacional de Aprendizagem Industrial (SENAI/DRMG) - Serviço Social da Indústria (SESI/DRMG) - Instituto Euvaldo Lodi (IEL/NRMG);Outros;ConsigLog;Ativo;29/09/2023;30/09/2027
+CON-673;1952818;SP;Tanabi - SP;Prefeitura Municipal;Consignet;Ativo;29/09/2023;23/10/2025
+CON-672;1952810;PR;da Lapa - PR;Prefeitura Municipal;Consignet;Ativo;29/01/2024;28/01/2029
+CON-671;1952804;PR;Quitandinha - PR;Prefeitura Municipal;Consignet;Ativo;29/09/2023;11/05/2028
+CON-670;1952520;RJ;Procuradoria Geral do Estado do Rio de Janeiro - PGE RJ;Outros;Quantum;Ativo;26/09/2023;29/09/2025
+CON-669;1952381;MG;Estado de Minas Gerais - TCE MG;Tribunal;SERPRO;Inativo;27/09/2023;27/09/2024
+CON-668;1950517;CE;Quixeré - CE;Prefeitura Municipal;Digital Consig;Ativo;27/09/2023;31/05/2026
+CON-667;1950501;PB;Aracoiaba ;Instituto de Previdência;Digital Consig;Ativo;27/09/2023;22/02/2027
+CON-666;1950490;PB;São Mamede - PB;Prefeitura Municipal;Fácil;Ativo;27/09/2023;30/08/2027
+CON-665;1950476;RS;Uruguaiana - RS;Prefeitura Municipal;ASBAN;Inativo;27/09/2023;19/05/2024
+CON-664;1950471;RS;Carazinho - RS;Prefeitura Municipal;Consignet;Inativo;27/09/2023;19/05/2025
+CON-663;1948765;AM;Manaus Previdência - MANAUSPREV;Instituto de Previdência;Fênixsoft;Ativo;20/09/2023;20/09/2025
+CON-662;1948710;PR;Consamu - Consórcio de Saúde dos municípios do Oeste - PR;Outros;Fasitec;Iniciando Renovação;26/09/2023;20/07/2025
+CON-661;1948707;SC;Taió - TAIOPREV;Instituto de Previdência;Safe Consig;Inativo;26/09/2023;05/05/2024
+CON-660;1948697;PA;Santarém - PA;Prefeitura Municipal;Fácil;Ativo;27/01/2025;27/01/1930
+CON-659;1948159;MS;Três Lagoas - MS;Prefeitura Municipal;Consignet;Ativo;02/08/2023;02/08/2028
+CON-658;1945274;SC;Capivari de Baixo - SC;Prefeitura Municipal;Easy Consig;Ativo;21/09/2023;10/02/2026
+CON-657;1945242;BA;Alagoinhas - BA;Prefeitura Municipal;NewVersion;Ativo;24/03/2025;24/03/2026
+CON-656;1945239;RS;Lagoa Vermelha - RS;Prefeitura Municipal;Consignet;Inativo;21/09/2023;18/06/2024
+CON-655;1945229;SP;Guararapes - SP;Prefeitura Municipal;Consignet;Inativo;21/09/2023;13/02/2024
+CON-654;1945224;CE;Santa Quitéria - CE;Prefeitura Municipal;Safe Consig;Ativo;15/08/2023;15/08/2028
+CON-653;1944100;PE;FUNDO DE PREVIDÊNCIA DE BREJÃO - PE . FUPREB;Instituto de Previdência;Fácil;Ativo;13/09/2023;13/09/2028
+CON-652;1943290;PR;Mariluz - PR;Prefeitura Municipal;Consignet;Ativo;19/09/2023;10/05/2028
+CON-651;1943269;RN;Nova Cruz - RN;Prefeitura Municipal;Fácil;Inativo;19/09/2023;01/10/2024
+CON-650;1943248;SP;São Paulo - SP;Prefeitura Municipal;CIP;Ativo;29/04/2023;29/01/2026
+CON-649;1943078;PA;Dom Eliseu - PA;Prefeitura Municipal;Fácil;Ativo;31/08/2023;31/08/2028
+CON-648;1942939;CE;Morada Nova - CE;Prefeitura Municipal;Fácil;Ativo;17/12/2024;17/12/2029
+CON-647;1942175;MS;Itaquiraí - MS;Prefeitura Municipal;Consignet;Ativo;18/09/2023;19/07/2026
+CON-646;1942171;PI;Pedro II - PI;Prefeitura Municipal;Digital Consig;Ativo;18/09/2023;29/06/2026
+CON-645;1942167;SP;Irmandade da Santa Casa de Misericórdia de Guariba - SP;Outros;Consignet;Ativo;18/09/2023;14/03/2028
+CON-644;1942148;RO;Pimenta Bueno - RO;Câmara Municipal;Consignet;Ativo;18/09/2023;02/03/2026
+CON-643;1942082;PB;Fundação Governador Flávio Ribeiro Coutinho - PB;Outros;Fácil;Ativo;01/09/2023;01/09/2028
+CON-642;1941664;PE;Sanharó - PE;Prefeitura Municipal;NewVersion;Ativo;15/09/2023;15/09/2028
+CON-641;1940992;RO;Cujubim - RO ;Prefeitura Municipal;Consignet;Ativo;15/09/2023;15/09/2028
+CON-640;1940988;RN;São Paulo do Potengi - RN;Prefeitura Municipal;SP Consig;Inativo;15/09/2023;15/09/2024
+CON-639;1940984;CE;Campos Sales - CE;Prefeitura Municipal;Fácil;Ativo;07/04/2025;05/04/1930
+CON-638;1940946;PE;Cupira - PE ;Prefeitura Municipal;Fasitec;Ativo;13/09/2023;13/09/2028
+CON-637;1940942;PE;Fundo Municipal de Saúde de Cupira - PE;Autarquia;Fasitec;Ativo;13/09/2023;13/09/2028
+CON-636;1940918;BA;João Dourado - BA;Prefeitura Municipal;Fasitec;Ativo;15/09/2023;07/01/2027
+CON-635;1937961;SC;Urupema - SC;Prefeitura Municipal;ConsigLog;Ativo;13/09/2023;24/10/2025
+CON-634;1937953;SP;Guaíra - SP;Prefeitura Municipal;Consignet;Ativo;13/09/2023;12/05/2028
+CON-633;1937175;MS;TRÊS LAGOAS;Instituto de Previdência;Consignet;Inativo;04/09/2023;03/09/2024
+CON-632;1936689;CE;Jaguaruana - CE;Prefeitura Municipal;Digital Consig;Ativo;12/09/2023;04/03/2026
+CON-631;1935583;RS;Viamão - IPREV;Instituto de Previdência;Módulo Consignado;Inativo;11/09/2023;12/09/2024
+CON-630;1935482;MT;Campinápolis - MT;Prefeitura Municipal;Digital Consig;Inativo;11/09/2023;24/04/2025
+CON-629;1934158;CE;Itapipoca - CE;Instituto de Previdência;Safe Consig;Ativo;08/09/2023;13/07/2026
+CON-628;1934150;PB;Cacimbas - PB;Prefeitura Municipal;SP Consig;Ativo;08/09/2023;25/07/2027
+CON-627;1932860;SP;Carapicuíba - SP ;Prefeitura Municipal;Fasitec;Iniciando Renovação;04/09/2024;04/09/2025
+CON-626;1932857;PR;Rancho Alegre - PR ;Prefeitura Municipal;Consignet;Inativo;06/09/2023;25/07/2024
+CON-625;1932808;PE;Ibimirim - PE ;Prefeitura Municipal;Consignet;Ativo;26/08/2023;26/08/2028
+CON-624;1932804;CE;Chorozinho - CE ;Prefeitura Municipal;Fácil;Ativo;09/09/2024;09/09/2029
+CON-623;1931782;SP;Instituto de Previdência Social dos Servidores Municipais de Itu - ItuPrev;Instituto de Previdência;ConsigLog;Iniciando Renovação;01/09/2023;31/08/2025
+CON-622;1930408;GO;Leopoldo de Bulhões - GO;Instituto de Previdência;Metaconsig;Ativo;04/09/2023;13/06/2028
+CON-621;1930402;SP;Araras - SP;Autarquia;Fasitec;Ativo;04/09/2023;30/05/2028
+CON-620;1928304;PR;Autarquia Cambé Previdência dos Servidores Públicos Municipais - PR;Autarquia;Consignet;Inativo;01/09/2023;12/11/2023
+CON-619;1928296;RJ;Itatiaia - IPREVI - RJ;Instituto de Previdência;Fácil;Inativo;01/09/2023;13/05/2025
+CON-618;1928286;BA;Santa Bárbara - BA;Prefeitura Municipal;Fasitec;Ativo;01/09/2023;21/03/2028
+CON-617;1928279;CE;Paracuru - CE;Prefeitura Municipal;Digital Consig;Inativo;01/09/2023;28/06/2024
+CON-616;1928238;RS;Nova Hartz - RS;Prefeitura Municipal;Consignet;Ativo;10/09/2023;10/09/2028
+CON-615;1927536;PE;Belo Jardim;Prefeitura Municipal;NewVersion;Ativo;25/08/2023;25/08/2028
+CON-614;1927530;PB;Instituto de Previdência dos Servidores Municipais de Belo Jardim - PE;Instituto de Previdência;NewVersion;Ativo;25/08/2023;25/08/2028
+CON-613;1927513;PB;Juripiranga - PB;Prefeitura Municipal;Metaconsig;Ativo;06/06/2023;13/10/2025
+CON-612;1927182;GO;Tribunal Regional do Trabalho da 18ª Região - TRT 18;Tribunal;Quantum;Ativo;31/08/2023;30/06/2026
+CON-611;1927136;PB;Instituto Municipal de Previdência dos Servidores Públicos de Dona Inês PB - IMPRESP ;Instituto de Previdência;Metaconsig;Inativo;31/08/2023;20/04/2025
+CON-610;1927120;SP;Charqueada - SP;Prefeitura Municipal;Consignet;Inativo;31/08/2023;31/08/2024
+CON-609;1926890;RS;Salvador do Sul - RS;Prefeitura Municipal;Consignet;Ativo;31/08/2023;23/05/2027
+CON-608;1926887;BA;Filadélfia - BA;Prefeitura Municipal;Fasitec;Ativo;31/08/2023;07/01/2026
+CON-607;1926877;SP;Instituto de Previdência Social dos Servidores Públicos de Botucatu - BOTUPREV;Instituto de Previdência;Consignet;Inativo;25/08/2023;25/08/2024
+CON-606;1926873;SP;Boituva - SP;Prefeitura Municipal;Consignet;Ativo;19/09/2023;19/09/2028
+CON-605;1925150;PR;Diamante D'oeste - PR;Prefeitura Municipal;Consignet;Ativo;12/09/2023;12/09/2028
+CON-604;1924208;MT;Confresa - MT;Prefeitura Municipal;Digital Consig;Inativo;29/08/2023;31/07/2024
+CON-603;1924116;SP;São Pedro - SP;Prefeitura Municipal;Consignet;Inativo;29/08/2023;24/05/2024
+CON-602;1922591;RO;Machadinho D'Oeste - RO;Prefeitura Municipal;Consignet;Ativo;23/08/2023;23/08/2028
+CON-601;1922584;RN;Felipe Guerra - RN;Prefeitura Municipal;SP Consig;Ativo;22/08/2023;22/08/2028
+CON-600;1921614;SP;Caixa de Previdência Social Municipal de Itaí - SP;Instituto de Previdência;Consignet;Iniciando Renovação;25/08/2023;19/06/2025
+CON-599;1921596;BA;Candeias - BA;Prefeitura Municipal;ConsigLog;Iniciando Renovação;22/08/2024;22/08/2025
+CON-598;1920351;PE;Bodoco - PE;Prefeitura Municipal;Fasitec;Inativo;24/08/2023;13/09/2024
+CON-597;1920347;CE;Carire - CE;Prefeitura Municipal;Digital Consig;Ativo;24/08/2023;26/05/2028
+CON-596;1920311;AL;Lagoa da Canoa - AL;Prefeitura Municipal;Fasitec;Ativo;24/08/2023;23/08/2028
+CON-595;1918969;SP;Itanhaém - SP;Instituto de Previdência;Consignet;Inativo;14/08/2023;14/08/2024
+CON-594;1918958;RO;Alvorada do Oeste - RO;Prefeitura Municipal;Consignet;Ativo;14/09/2023;14/09/2028
+CON-593;1918955;PR;Instituto de Previdência dos Servidores Públicos Municipais de Pato Branco - PR;Instituto de Previdência;Consignet;Ativo;02/11/2023;02/11/2028
+CON-592;1918952;CE;Ocara - CE;Prefeitura Municipal;Digital Consig;Ativo;23/08/2023;08/06/2027
+CON-591;1918949;PE;Sistema Previdenciário Próprio do Município de Correntes - PE ;Instituto de Previdência;Fasitec;Ativo;23/08/2023;15/01/2026
+CON-590;1918340;PA;Jacundá - PA;Prefeitura Municipal;Fácil;Inativo;22/08/2023;22/08/2024
+CON-589;1917774;RN;Lajes Pintadas - RN;Prefeitura Municipal;Consignet;Ativo;02/07/2024;02/07/2029
+CON-588;1917733;PE;Quixaba - PE;Prefeitura Municipal;SP Consig;Ativo;17/07/2023;17/07/2027
+CON-587;1917710;PE;Instituto de Previdência dos Servidores Municipais de Chã Grande - CHÃPREV;Instituto de Previdência;Consignet;Ativo;18/08/2023;18/08/2028
+CON-586;1917702;PE;Chã Grande - PE;Prefeitura Municipal;Consignet;Ativo;16/08/2023;16/08/2028
+CON-585;1917604;GO;Planaltina - GO;Prefeitura Municipal;Konéxia;Ativo;17/07/2023;17/07/2026
+CON-584;1916212;PR;Bocaiúva do Sul - PR ;Prefeitura Municipal;Consignet;Ativo;17/08/2023;17/08/2028
+CON-583;1916208;PR;Altamira do Paraná - PR ;Prefeitura Municipal;Consignet;Ativo;17/08/2023;17/08/2028
+CON-582;1914028;BA;Caldeirão Grande - BA;Prefeitura Municipal;Fasitec;Ativo;17/08/2023;18/02/2026
+CON-581;1914025;PR;Anahy - PR;Prefeitura Municipal;Fasitec;Ativo;17/08/2023;27/05/2026
+CON-580;1914002;CE;Pacoti - CE;Prefeitura Municipal;Digital Consig;Ativo;17/08/2023;28/10/2026
+CON-579;1913894;RN;Instituto de Previdência Própria dos Servidores Municipais do Município de São Paulo do Potengi - RN;Instituto de Previdência;SP Consig;Ativo;28/07/2023;28/07/2028
+CON-578;1913872;PR;Regime Próprio de Previdência Social do Município de Pitanga;Instituto de Previdência;Consignet;Ativo;13/07/2023;13/07/2028
+CON-577;1913494;PE;Autarquia Educacional do Araripe - AEDA ;Autarquia;Fasitec;Ativo;16/08/2023;11/02/2026
+CON-576;1913488;PR;Palmeira - PR;Prefeitura Municipal;Consignet;Inativo;16/08/2023;16/08/2024
+CON-575;1913479;MG;Ponte Nova - MG;Prefeitura Municipal;Consignet;Inativo;20/08/2023;20/08/2024
+CON-574;1909921;MT;Paranatinga - MT;Prefeitura Municipal;Digital Consig;Inativo;11/08/2023;20/12/2024
+CON-573;1909918;SE;Carmópolis - SE;Prefeitura Municipal;Green Consig;Ativo;11/08/2023;11/06/2027
+CON-572;1909913;PR;Ampére - PR;Instituto de Previdência;Consignet;Ativo;11/08/2023;14/06/2027
+CON-571;1909467;AL;Major Isidoro - AL ;Prefeitura Municipal;MegaTec;Ativo;04/06/2025;04/06/1930
+CON-570;1909466;AL;Roteiro - AL;Prefeitura Municipal;Fasitec;Inativo;08/11/2018;31/12/2024
+CON-569;1909461;AL;Barra de São Miguel - AL;Prefeitura Municipal;Fasitec;Ativo;14/08/2023;14/08/2028
+CON-568;1909450;AL;Autarquia Municipal de Previdência de Passo de Camaragibe - AMPREV - AL;Instituto de Previdência;Fasitec;Inativo;01/08/2019;01/08/2024
+CON-567;1909447;AL;Tanque D'Arca - AL;Prefeitura Municipal;Fasitec;Inativo;15/08/2019;15/08/2024
+CON-566;1909424;AL;Marinbondo - AL;Câmara Municipal;Fasitec;Iniciando Renovação;31/07/2020;31/07/2025
+CON-565;1909417;AL;Tanque D'Arca - AL;Câmara Municipal;Fasitec;Iniciando Renovação;28/07/2020;28/07/2025
+CON-564;1908987;RS;Regime de Previdência Social dos Servidores Públicos de São Francisco de Assis - RS (ASSISPREV);Instituto de Previdência;Lucas/Siga TI;Iniciando Renovação;10/08/2023;19/06/2025
+CON-563;1908944;RJ;Itatiaia - RJ;Prefeitura Municipal;Fácil;Inativo;10/08/2023;18/05/2025
+CON-562;1908927;BA;Dom Basílio - BA;Prefeitura Municipal;Fasitec;Ativo;10/08/2023;24/09/2025
+CON-561;1908850;AL;União dos Palmares - AL;Prefeitura Municipal;Fasitec;Ativo;10/08/2023;02/12/2025
+CON-560;1908842;CE;Guaramiranga - CE;Prefeitura Municipal;Digital Consig;Ativo;10/08/2023;04/11/2026
+CON-559;1908825;MT;São Félix do Araguaia - MT;Prefeitura Municipal;Digital Consig;Ativo;10/08/2023;02/10/2025
+CON-558;1908810;PR;Terra Boa - PR;Prefeitura Municipal;Consignet;Ativo;25/10/2023;25/10/2028
+CON-557;1908104;BA;Santa Inês - BA;Prefeitura Municipal;Fasitec;Ativo;09/08/2023;28/04/2028
+CON-556;1908102;SE;Indiaroba - SE;Prefeitura Municipal;Green Consig;Inativo;09/08/2023;21/05/2025
+CON-555;1907967;SP;Bofete;Prefeitura Municipal;Consignet;Inativo;09/08/2023;30/04/2025
+CON-554;1907880;PR;Ampere - PR;Prefeitura Municipal;Consignet;Ativo;07/08/2023;07/08/2028
+CON-553;1906584;BA;Xique-Xique - BA;Prefeitura Municipal;Fasitec;Inativo;02/10/2019;02/10/2024
+CON-551;1905543;AM;Defensoria Pública do Amazonas;Outros;PRODAM;Inativo;07/08/2023;01/04/2024
+CON-550;1905519;MG;João Pinheiro - MG;Prefeitura Municipal;Quantum;Inativo;07/08/2023;16/07/2024
+CON-549;1905500;BA;Ponto Novo - BA;Prefeitura Municipal;Fasitec;Ativo;07/08/2023;14/06/2028
+CON-548;1904918;SP;Casa Branca;Prefeitura Municipal;Consignet;Ativo;27/06/2025;27/06/1930
+CON-547;1904896;BA;Sobradinho - BA;Prefeitura Municipal;Fasitec;Inativo;04/08/2023;03/01/2026
+CON-546;1904856;RN;Santana do Seridó;Prefeitura Municipal;Consignet;Iniciando Renovação;05/08/2024;04/08/2025
+CON-545;1903227;SP;Fundação Educacional Guaçuana;Autarquia;Consignet;Ativo;01/09/2021;01/09/2026
+CON-544;1903193;RS;São Francisco de Assis;Prefeitura Municipal;Consignet;Iniciando Renovação;03/08/2023;19/06/2025
+CON-543;1903188;SP;Fundo Municipal de Seguridade Município de Itajobi;Prefeitura Municipal;Consignet;Ativo;15/04/2021;15/04/2026
+CON-542;1903181;SP;Itajobi - SP;Prefeitura Municipal;Consignet;Ativo;15/04/2021;15/04/2026
+CON-541;1903172;SP;Pedro de Toledo - PR;Prefeitura Municipal;Consignet;Ativo;01/09/2021;01/09/2026
+CON-540;1903152;SP;São Carlos;Prefeitura Municipal;Consignet;Ativo;24/09/2021;24/09/2026
+CON-539;1903147;SP;Ribeirão Grande;Prefeitura Municipal;Consignet;Ativo;18/01/2023;18/01/2028
+CON-538;1903141;SP;Angatuba - SP;Prefeitura Municipal;Consignet;Ativo;18/07/2023;18/07/2028
+CON-537;1903136;SP;Serviço Autônomo de Água e Esgoto de Bebedouro - SAAEB AMBIENTAL;Autarquia;Consignet;Ativo;20/06/2023;20/06/2028
+CON-535;1902009;RO;São Francisco do Guaporé - RO;Prefeitura Municipal;Consignet;Ativo;27/07/2023;27/07/2028
+CON-534;1901855;PR;Instituto de Previdência Municipal de Rolândia - PR;Instituto de Previdência;Consignet;Ativo;30/09/2023;30/09/2028
+CON-533;1901782;SC;Jaraguá do Sul;Prefeitura Municipal;Consignet;Ativo;19/03/2023;18/03/2026
+CON-532;1901777;SC;Vitor Meireles;Prefeitura Municipal;Consignet;Ativo;14/02/2023;14/02/2028
+CON-531;1901771;SC;Santa Terezinha - SC;Prefeitura Municipal;Consignet;Ativo;26/01/2023;26/01/2028
+CON-530;1901756;SC;Rio do Campo - SC;Prefeitura Municipal;Consignet;Ativo;22/06/2023;22/06/2028
+CON-529;1900574;GO;Senador Canedo;Prefeitura Municipal;BRTEC;Inativo;13/07/2023;31/10/2024
+CON-528;1899946;BA;Tribunal de Contas dos Municípios do Estado da Bahia - TCM BA;Tribunal;ConsigLog;Iniciando Renovação;31/07/2023;12/06/2025
+CON-527;1899939;SC;Biguaçu;Prefeitura Municipal;ConsigLog;Ativo;02/04/2023;02/04/2028
+CON-526;1899900;AL;Batalha - AL;Prefeitura Municipal;Fasitec;Ativo;09/11/2023;09/11/2028
+CON-525;1899874;PR;Jussara;Câmara Municipal;Consignet;Inativo;31/07/2023;14/01/2024
+CON-524;1899861;PR;Jussaraprev;Instituto de Previdência;Consignet;Inativo;31/07/2023;14/01/2024
+CON-523;1899851;BA;Glória;Prefeitura Municipal;Safe Consig;Inativo;31/07/2023;31/12/2024
+CON-522;1899821;PR;Primeiro de Maio;Prefeitura Municipal;Consignet;Inativo;31/07/2023;11/11/2024
+CON-521;1899798;MT;Cuiabá e Cuiabá-Prev;Prefeitura Municipal;Fácil;Inativo;03/06/2024;03/06/2025
+CON-520;1899787;BA;Igaporã;Prefeitura Municipal;Fasitec;Inativo;31/07/2023;12/05/2025
+CON-519;1897743;SE;Capela - SE;Prefeitura Municipal;Fasitec;Inativo;28/07/2023;08/02/2025
+CON-518;1897736;SP;Monções;Prefeitura Municipal;Consignet;Iniciando Renovação;28/07/2023;24/08/2025
+CON-517;1897719;RO;Alto Paraíso - RO;Prefeitura Municipal;Consignet;Ativo;20/05/2025;20/05/1930
+CON-516;1896785;PR;Doutor Camargo ;Prefeitura Municipal;Consignet;Inativo;27/07/2023;30/09/2024
+CON-515;1896782;PA;Marabá - PA;Prefeitura Municipal;Fácil;Inativo;27/07/2023;29/05/2024
+CON-514;1896778;SP;Superintendência Autônoma de Água e Esgoto de São José do Rio Pardo - SAERP;Autarquia;Consignet;Ativo;27/07/2023;06/09/2026
+CON-513;1896774;SC;Caçador - SC;Prefeitura Municipal;Safe Consig;Iniciando Renovação;21/08/2024;21/08/2025
+CON-512;1896764;CE;Caucaia;Prefeitura Municipal;Safe Consig;Inativo;27/07/2023;23/07/2024
+CON-511;1895982;MT;Sapezal;Prefeitura Municipal;Digital Consig;Iniciando Renovação;26/07/2023;16/07/2025
+CON-510;1895924;SP;Santo André;Prefeitura Municipal;Fasitec;Ativo;26/07/2023;20/12/2025
+CON-509;1895893;RO;Nova Mamoré;Prefeitura Municipal;Fasitec;Ativo;26/07/2023;15/06/2026
+CON-508;1895873;AL;Senador Rui Palmeira;Prefeitura Municipal;Fasitec;Ativo;26/07/2023;13/01/2027
+CON-507;1895748;MG;Contagem;Prefeitura Municipal;Nobe Software;Inativo;26/07/2023;01/10/2024
+CON-506;1894335;PR;Três Barras do Paraná - PR;Prefeitura Municipal;Consignet;Ativo;14/08/2023;14/08/2028
+CON-505;1893825;MG;Juatuba - MG;Prefeitura Municipal;Infoconsig;Ativo;24/07/2023;23/05/2028
+CON-504;1893599;MT;Poconé - MT;Prefeitura Municipal;Digital Consig;Iniciando Renovação;24/07/2023;04/07/2025
+CON-503;1891211;PB;Alagoa Nova;Prefeitura Municipal;SP Consig;Ativo;20/07/2023;22/11/2026
+CON-502;1889226;SP;Osasco;Instituto de Previdência;ConsigLog;Inativo;18/07/2023;10/12/2024
+CON-501;1889223;PR;Prudentópolis;Instituto de Previdência;Consignet;Ativo;18/07/2023;13/04/2028
+CON-500;1889191;MA;Santa Rita ;Prefeitura Municipal;Fasitec;Ativo;15/07/2023;15/07/2028
+CON-499;1889180;PE;Santa Filomena - PE;Prefeitura Municipal;Consignet;Ativo;11/04/2025;11/04/1930
+CON-498;1884369;PR;Amaporã - PR;Câmara Municipal;Consignet;Ativo;11/07/2023;11/05/2026
+CON-497;1884338;CE;São Gonçalo do Amarante - CE;Prefeitura Municipal;Fácil;Iniciando Renovação;14/06/2023;14/06/2025
+CON-496;1883868;AL;Governo de Alagoas ;Governo de Estado;NeoConsig;Ativo;05/07/2023;05/07/2028
+CON-495;1883481;RS;Restinga Seca - RS;Prefeitura Municipal;Consignet;Inativo;10/07/2023;13/05/2025
+CON-494;1883473;PR;Fundo Especial de Previdência do Município de Guaraci;Instituto de Previdência;Consignet;Ativo;10/07/2023;21/06/2026
+CON-493;1883450;PR;Cambé;Prefeitura Municipal;Consignet;Ativo;10/07/2023;04/01/2028
+CON-492;1883447;RS;Departamento Autônomo de Estradas de Rodagem - DER;Outros;Numeria Informática;Inativo;06/07/2023;06/07/2024
+CON-491;1883403;DF;Tribunal Superior do Trabalho - TST;Tribunal;Fácil;Ativo;07/03/2023;07/03/2028
+CON-490;1883348;SP;Limeira;Prefeitura Municipal;NeoConsig;Inativo;10/07/2023;08/02/2024
+CON-489;1882285;PR;Goioere;Prefeitura Municipal;Consignet;Ativo;14/09/2023;14/09/2028
+CON-488;1880070;MS;Novo Horizonte do Sul;Prefeitura Municipal;Consignet;Ativo;05/07/2023;22/08/2027
+CON-487;1879912;MA;Vila Nova dos Martírios;Prefeitura Municipal;Consignet;Ativo;05/07/2023;01/11/2027
+CON-486;1879492;PR;Sertaneja;Prefeitura Municipal;Consignet;Ativo;04/07/2023;28/01/2026
+CON-485;1879484;PR;Barbosa Ferraz;Prefeitura Municipal;Consignet;Inativo;04/07/2023;08/08/2024
+CON-484;1879473;PR;Palmital - PR;Prefeitura Municipal;Consignet;Ativo;18/11/2024;18/11/2029
+CON-483;1879027;SP;Santo André;Instituto de Previdência;ConsigLog;Inativo;04/07/2023;29/05/2024
+CON-482;1879015;RO;Serviço Autônomo de Água e Esgoto de Cacoal/RO - SAAE;Outros;Consignet;Ativo;04/07/2023;04/07/2028
+CON-481;1878828;RO;SAAE Cacoal . Serviço Autônomo de Água e Esgoto de Cacoal - RO;Outros;Consignet;Ativo;29/06/2023;29/06/2028
+CON-480;1877505;PR;Paraíso do Norte;Prefeitura Municipal;Consignet;Ativo;03/07/2023;18/04/2028
+CON-479;1877497;RO;Pimenteiras do Oeste - RO;Prefeitura Municipal;Consignet;Ativo;31/01/2025;31/01/1930
+CON-478;1877470;PR;Farol;Prefeitura Municipal;Consignet;Inativo;03/07/2023;07/04/2025
+CON-477;1877455;SP;Iperó - SP;Prefeitura Municipal;ConsigLog;Inativo;03/07/2023;05/03/2025
+CON-476;1877449;SP;Serviço Funerário do Município de Santo André;Autarquia;ConsigLog;Iniciando Renovação;03/07/2023;02/09/2025
+CON-475;1877412;RN;Apodi - RN;Prefeitura Municipal;Fácil;Iniciando Renovação;30/06/2023;09/07/2025
+CON-474;1877390;SC;Pomerode;Prefeitura Municipal;Consignet;Ativo;22/06/2023;22/06/2028
+CON-473;1875834;PR;Luiziana;Prefeitura Municipal;Consignet;Ativo;07/02/2023;07/02/2028
+CON-472;1875831;PR;Cruzeiro do Oeste - PR;Prefeitura Municipal;Consignet;Inativo;30/06/2023;28/05/2025
+CON-470;1874931;PE;Toritama - PE;Prefeitura Municipal;Fácil;Ativo;25/06/2024;25/06/2029
+CON-469;1874914;PR;Altônia;Prefeitura Municipal;Consignet;Inativo;29/06/2023;08/08/2024
+CON-468;1874854;PE;Fundo de Previdência Social do Município de Inajá;Instituto de Previdência;NewVersion;Ativo;27/06/2023;27/06/2028
+CON-467;1874837;SC;Witmarsum ;Prefeitura Municipal;Consignet;Ativo;27/06/2023;27/06/2028
+CON-466;1874025;MG;Uberaba;Prefeitura Municipal;Unitedtech;Inativo;29/08/2022;28/08/2024
+CON-465;1874022;MG;Coronel Fabriciano - MG;Prefeitura Municipal;Unitedtech;Ativo;22/02/2024;22/02/2027
+CON-464;1874019;PA;Tribunal Regional do Trabalho da 8ª Região - TRT 8;Tribunal;Unitedtech;Inativo;24/01/2023;24/01/2025
+CON-463;1874015;SP;Suzano - SP;Prefeitura Municipal;ConsigLog;Ativo;21/11/2023;21/11/2028
+CON-462;1874008;MG;Ministério Público do Estado de Minas Gerais;Outros;Quantum;Inativo;09/03/2023;05/09/2023
+CON-461;1874006;SP;Ribeirão Preto;Instituto de Previdência;Quantum;Ativo;03/04/2023;03/04/2028
+CON-460;1874003;SP;Guarda Civil de Ribeirão Preto;Outros;Quantum;Ativo;22/02/2023;22/02/2027
+CON-459;1874000;RJ;Teresópolis - RJ;Prefeitura Municipal;Cotar;Ativo;08/05/2024;08/05/1934
+CON-458;1873997;RS;Grupo Hospitalar Conceição - GHC - RS;Empresa Privada;Quantum;Inativo;04/04/2023;04/04/2025
+CON-457;1873993;SP;Hospital das Clínicas de Ribeirão Preto;Autarquia;Consignet;Ativo;25/06/2021;24/06/2026
+CON-456;1873991;MG;Juiz de Fora;Prefeitura Municipal;Quantum;Inativo;07/05/2024;06/05/2026
+CON-455;1873989;MG;Manhuaçu - MG;Prefeitura Municipal;Quantum;Ativo;01/07/2024;01/07/2029
+CON-454;1873988;MG;Vespasiano - MG;Prefeitura Municipal;Quantum;Inativo;17/02/2023;06/03/2025
+CON-453;1873987;MG;Conselheiro Lafaiete - MG;Prefeitura Municipal;Quantum;Ativo;04/01/2023;16/11/2025
+CON-452;1873986;MG;Transmontes de Monte Claros;Empresa Privada;Quantum;Inativo;17/02/2023;17/02/2025
+CON-451;1873983;MG;Departamento Municipal de Limpeza Urbana de Juiz de Fora - DEMLURB;Autarquia;Quantum;Inativo;24/05/2022;22/10/2024
+CON-450;1873977;RJ;Defensoria Publica do Estado do Rio de Janeiro;Outros;Quantum;Inativo;07/03/2023;07/03/2025
+CON-449;1873963;CE;Capistrano;Prefeitura Municipal;Safe Consig;Ativo;20/03/2023;20/03/2028
+CON-448;1873961;SC;PLASSMA - Plano de Assistência a Saúde dos Servidores do Município de Mafra;Prefeitura Municipal;Safe Consig;Ativo;23/10/2023;22/10/2025
+CON-447;1873959;CE;Tauá;Prefeitura Municipal;Safe Consig;Inativo;19/05/2022;15/02/2024
+CON-446;1873956;CE;Jijoca de Jericoacoara;Prefeitura Municipal;Safe Consig;Ativo;06/02/2023;06/02/2028
+CON-445;1873951;SP;Cubatão;Instituto de Previdência;SERPRO;Inativo;21/06/2022;21/06/2023
+CON-444;1873949;GO;Tribunal de Justiça da Goiás - TJGO;Tribunal;SERPRO;Ativo;06/02/2023;06/02/2026
+CON-443;1873945;MG;Formiga;Prefeitura Municipal;VilleFort;Inativo;15/06/2022;15/06/2023
+CON-442;1873939;PE;Inaja;Prefeitura Municipal;NewVersion;Ativo;30/05/2023;30/05/2028
+CON-441;1873938;PB;Itabaiana - PB;Prefeitura Municipal;NewVersion;Iniciando Renovação;22/11/2022;16/09/2025
+CON-440;1873935;PE;Autarquia Municipal de Defesa Social, Trânsito e Transportes de Caruaru - Destra;Autarquia;NewVersion;Ativo;04/04/2023;04/04/2027
+CON-439;1873662;PR;Alvorada do Sulc- PR;Prefeitura Municipal;Consignet;Ativo;28/06/2023;01/03/2026
+CON-438;1873645;PR;PREVLUZ - Previdência Social dos Servidores Públicos Municipais de Luiziana;Instituto de Previdência;Consignet;Ativo;28/06/2023;04/05/2026
+CON-437;1873629;MG;Ouro Preto - MG;Prefeitura Municipal;Quantum;Inativo;16/05/2023;03/06/2025
+CON-436;1873611;SP;Guarulhos;Prefeitura Municipal;NeoConsig;Inativo;07/06/2023;07/06/2024
+CON-435;1873588;SP;Bauru - SP;Prefeitura Municipal;Consignet;Inativo;27/05/2021;27/05/2025
+CON-434;1873361;PI;Teresina;Câmara Municipal;SP Consig;Ativo;10/03/2023;10/03/2028
+CON-433;1873359;RN;Senador Georgino Avelino - RN;Prefeitura Municipal;SP Consig;Ativo;25/01/2023;25/01/2028
+CON-432;1873356;RN;Riachuelo - RN;Prefeitura Municipal;SP Consig;Ativo;12/04/2023;12/04/2028
+CON-431;1873355;PB;Serra Branca;Prefeitura Municipal;SP Consig;Inativo;10/11/2022;10/11/2023
+CON-430;1873353;SP;Fundação dos Servidores de Votorantim;Outros;SP Consig;Inativo;26/09/2022;26/09/2023
+CON-429;1873351;SP;Jundiaí - SP;Prefeitura Municipal;SP Consig;Inativo;29/07/2022;27/09/2024
+CON-428;1873350;SP;Socorro - SP;Prefeitura Municipal;SP Consig;Inativo;04/06/2022;29/01/2025
+CON-427;1873347;RN;Passa e Fica;Prefeitura Municipal;SP Consig;Iniciando Renovação;01/09/2022;01/09/2025
+CON-426;1873344;MA;Tribunal de Justiça do Maranhão - TJMA;Tribunal;SP Consig;Ativo;11/11/2024;11/11/2029
+CON-425;1873339;RN;Tribunal de Justiça do Rio Grande do Norte - TJRN;Tribunal;Fácil;Iniciando Renovação;04/07/2023;04/07/2025
+CON-424;1873337;SP;São Sebastião;Instituto de Previdência;SP Consig;Inativo;10/02/2023;10/02/2024
+CON-423;1873335;RN;Acari;Prefeitura Municipal;SP Consig;Ativo;13/01/2023;13/01/2026
+CON-421;1873332;SP;Santa Rita do Passa Quatro - SP;Prefeitura Municipal;SP Consig;Inativo;08/11/2022;09/11/2024
+CON-420;1873327;BA;Serrinha;Prefeitura Municipal;SP Consig;Ativo;30/08/2022;30/08/2026
+CON-419;1873324;PB;Fundação Assistencial da Paraíba - FAP;Outros;SP Consig;Ativo;02/09/2022;02/09/2027
+CON-418;1873322;PB;Princesa Isabel - PB;Prefeitura Municipal;SP Consig;Inativo;25/01/2023;29/08/2024
+CON-417;1873321;PB;Cachoeira dos Índios;Prefeitura Municipal;SP Consig;Inativo;10/01/2023;10/01/2025
+CON-416;1873315;PB;Riachão Bacamarte;Prefeitura Municipal;SP Consig;Inativo;24/09/2022;24/09/2024
+CON-415;1873313;PE;Venturosa - PE;Prefeitura Municipal;SP Consig;Ativo;12/12/2022;12/12/2027
+CON-414;1873312;PE;Itambé - PE;Instituto de Previdência;SP Consig;Ativo;07/11/2023;07/11/2027
+CON-413;1873311;PE;Itambé - PE;Prefeitura Municipal;SP Consig;Ativo;07/11/2023;07/11/2028
+CON-412;1873307;RN;Fundo de Previdência de Vera Cruz - RN;Instituto de Previdência;SP Consig;Ativo;13/12/2022;13/12/2027
+CON-411;1873304;RN;Triunfo Potiguar;Prefeitura Municipal;SP Consig;Ativo;27/12/2022;27/12/2027
+CON-410;1873303;RN;Carnaubais;Prefeitura Municipal;SP Consig;Iniciando Renovação;10/08/2022;10/08/2025
+CON-409;1873269;GO;Abadia de Goiás;Prefeitura Municipal;Digital Consig;Inativo;03/02/2023;03/02/2025
+CON-408;1873268;MT;Poxoreo;Prefeitura Municipal;Digital Consig;Iniciando Renovação;18/08/2022;18/08/2025
+CON-407;1873265;MT;Marcelândia ;Prefeitura Municipal;Digital Consig;Ativo;03/04/2023;03/04/2028
+CON-406;1873264;GO;Aloandia;Prefeitura Municipal;Digital Consig;Inativo;03/12/2022;03/12/2024
+CON-405;1873262;MT;Colniza;Prefeitura Municipal;Digital Consig;Inativo;26/08/2022;26/08/2024
+CON-404;1873261;GO;Mineiros;Prefeitura Municipal;Digital Consig;Inativo;08/04/2023;08/04/2025
+CON-403;1873258;GO;Crixás;Instituto de Previdência;Digital Consig;Ativo;15/02/2023;15/02/2028
+CON-402;1873257;MT;Pontal do Araguaia;Prefeitura Municipal;Digital Consig;Inativo;24/04/2023;24/04/2025
+CON-401;1873256;MT;Nova Mutum;Prefeitura Municipal;Digital Consig;Inativo;20/04/2023;20/04/2025
+CON-400;1873253;MT;Barra do Garças;Prefeitura Municipal;Digital Consig;Inativo;08/08/2022;24/04/2025
+CON-399;1873252;CE;Itaiçaba;Prefeitura Municipal;Digital Consig;Ativo;14/09/2022;14/09/2026
+CON-398;1873250;CE;Araçoiaba - PE;Prefeitura Municipal;Consignet;Ativo;07/05/2025;07/05/1930
+CON-397;1873249;MT;Diamantino;Prefeitura Municipal;Digital Consig;Inativo;06/02/2023;06/02/2025
+CON-396;1873248;MT;Colider - Prev Líder;Instituto de Previdência;Digital Consig;Ativo;11/08/2022;11/08/2026
+CON-395;1873240;TO;Abreulândia;Prefeitura Municipal;Digital Consig;Ativo;28/04/2023;28/04/2026
+CON-394;1873238;GO;Pontalina;Prefeitura Municipal;Digital Consig;Inativo;26/11/2022;26/11/2024
+CON-393;1873236;GO;Jussara - GO;Prefeitura Municipal;Digital Consig;Ativo;20/01/2023;20/01/2027
+CON-392;1873234;GO;Goiatuba;Prefeitura Municipal;ConsigLog;Ativo;12/05/2025;15/05/1930
+CON-391;1873232;GO;Posse;Prefeitura Municipal;Digital Consig;Ativo;26/09/2022;25/09/2027
+CON-390;1873231;MT;Nova Olímpia - MT;Prefeitura Municipal;Digital Consig;Ativo;14/03/2024;12/03/2026
+CON-389;1873229;MT;Tangara da Serra;Prefeitura Municipal;Digital Consig;Inativo;07/06/2022;07/06/2023
+CON-388;1873227;DF;Serviço Social do Comércio do Distrito Federal - SESC;Empresa Privada;Digital Consig;Ativo;06/09/2022;06/09/2027
+CON-387;1873225;GO;Nova Crixás ;Prefeitura Municipal;Digital Consig;Inativo;02/04/2023;02/04/2025
+CON-386;1873221;MT;Canarana - MT;Prefeitura Municipal;Digital Consig;Inativo;26/08/2022;01/12/2027
+CON-385;1873218;MT;Mirassol d' Oeste;Prefeitura Municipal;Digital Consig;Ativo;03/11/2022;03/11/2027
+CON-384;1873216;MT;Cáceres - MT;Prefeitura Municipal;Digital Consig;Inativo;18/06/2022;13/05/2025
+CON-383;1873215;PA;FMS de Augusto Correa ;Outros;Digital Consig;Ativo;18/08/2022;18/08/2026
+CON-382;1873199;MA;Assembleia Legislativa do Maranhão ;Assembléia;Safe Consig;Ativo;08/03/2024;08/03/2029
+CON-381;1873197;AL;Maceió - AL;Prefeitura Municipal;Safe Consig;Ativo;20/06/2024;20/06/2029
+CON-380;1873195;PA;Marituba;Prefeitura Municipal;NeoConsig;Inativo;12/05/2023;12/05/2024
+CON-379;1873193;RJ;Rio de Janeiro;Prefeitura Municipal;NeoConsig;Ativo;30/09/2022;30/09/2025
+CON-378;1873190;SP;Sorocaba - SP;Prefeitura Municipal;NeoConsig;Iniciando Renovação;05/03/2022;07/09/2025
+CON-377;1873188;AL;Agência Municipal de Regulação de Serviços Delegados - Arser ;Autarquia;NeoConsig;Inativo;04/04/2023;04/10/2023
+CON-376;1873173;MA;São Luís;Prefeitura Municipal;NeoConsig;Ativo;05/01/2023;05/01/2028
+CON-375;1873170;GO;Governo de Goiás;Governo de Estado;NeoConsig;Ativo;15/03/2024;15/09/2026
+CON-374;1873166;PA;Benevides;Prefeitura Municipal;NeoConsig;Ativo;24/10/2023;20/09/2026
+CON-373;1873164;MG;Serviço Autônomo de Água e Esgoto de Sete Lagoas - SAAE;Autarquia;Montreal;Inativo;16/01/2023;16/01/2025
+CON-372;1873161;AL;São José da Tapera;Instituto de Previdência;MegaTec;Ativo;31/03/2023;31/03/2026
+CON-371;1873158;BA;Santo Amaro - BA;Prefeitura Municipal;MC Tecnologia;Iniciando Renovação;17/03/2023;15/07/2025
+CON-370;1873153;PB;João Pessoa - PB;Prefeitura Municipal;Fácil;Ativo;29/10/2022;01/12/2025
+CON-369;1873150;BA;Itabaianinha;Prefeitura Municipal;Green Consig;Inativo;09/02/2023;09/02/2025
+CON-368;1873146;RJ;Cabo Frio - RJ;Prefeitura Municipal;Safe Consig;Inativo;09/01/2024;09/01/2025
+CON-367;1873144;AM;Manaus - AM;Prefeitura Municipal;Fênixsoft;Inativo;12/12/2022;12/12/2024
+CON-366;1873142;RR;Boa Vista - RR;Prefeitura Municipal;RF1 Participações;Iniciando Renovação;22/11/2023;22/11/2028
+CON-364;1873109;GO;SÃO MIGUEL DO ARAGUAIA - GO;Prefeitura Municipal;Consignet;Ativo;08/11/2024;26/08/2029
+CON-363;1873104;PR;Ortigueira - PR;Prefeitura Municipal;DB1;Inativo;06/01/2023;06/01/2025
+CON-362;1873096;RJ;Barra do Piraí;Prefeitura Municipal;Cotar;Inativo;29/05/2023;29/05/2025
+CON-361;1873095;RJ;Duque de Caxias - RJ;Prefeitura Municipal;ConsigLog;Inativo;13/10/2023;01/06/2025
+CON-360;1873090;RJ;Duque de Caxias - RJ;Instituto de Previdência;Cotar;Inativo;01/06/2022;01/06/2025
+CON-359;1873087;PB;Governo de Paraíba;Governo de Estado;Codata;Ativo;21/10/2022;16/11/2025
+CON-358;1873079;RO;Nova Mamoré;Prefeitura Municipal;Fasitec;Ativo;09/06/2023;09/06/2028
+CON-357;1873078;AL;Jequiá da Praia;Prefeitura Municipal;Fasitec;Ativo;15/06/2023;15/06/2028
+CON-356;1873077;AL;Colônia Leopoldina;Prefeitura Municipal;Fasitec;Ativo;15/06/2023;15/06/2028
+CON-355;1873074;BA;Cansanção;Prefeitura Municipal;Fasitec;Ativo;15/03/2023;15/03/2026
+CON-354;1873073;BA;Canudos;Prefeitura Municipal;Fasitec;Ativo;14/02/2023;14/02/2027
+CON-353;1873070;BA;Sarrolândia;Prefeitura Municipal;Fasitec;Inativo;31/12/2022;31/12/2024
+CON-352;1873069;MA;Chapadinha;Instituto de Previdência;Fasitec;Ativo;24/02/2023;24/02/2026
+CON-351;1873068;AL;Viçosa - IPASMV - AL;Instituto de Previdência;Fasitec;Ativo;20/10/2023;20/10/2028
+CON-350;1873065;MA;Chapadinha;Prefeitura Municipal;Fasitec;Inativo;31/05/2023;31/05/2024
+CON-348;1873061;AL;Campestre;Prefeitura Municipal;Fasitec;Ativo;28/01/2023;28/01/2027
+CON-347;1873060;AL;Boca da Mata;Prefeitura Municipal;Fasitec;Ativo;30/06/2022;30/06/2027
+CON-346;1873058;AL;Capela;Prefeitura Municipal;Fasitec;Inativo;08/04/2023;28/04/2025
+CON-345;1873054;MS;Eldorado - MS;Prefeitura Municipal;Fasitec;Ativo;24/05/2023;24/05/2028
+CON-344;1873052;BA;Valença - BA;Prefeitura Municipal;Fasitec;Ativo;14/03/2025;14/03/2026
+CON-343;1873049;SP;Leme;Prefeitura Municipal;Fasitec;Inativo;09/05/2023;09/05/2024
+CON-342;1873047;AL;Junqueiro;Prefeitura Municipal;Fasitec;Iniciando Renovação;19/07/2022;19/07/2025
+CON-341;1873046;PR;Lindoeste;Prefeitura Municipal;Fasitec;Ativo;11/02/2023;11/02/2026
+CON-340;1873043;AL;Monteirópolis;Prefeitura Municipal;Fasitec;Ativo;14/04/2022;10/08/2026
+CON-339;1873042;BA;Euclides da Cunha - BA;Prefeitura Municipal;Fasitec;Inativo;06/03/2023;21/12/2023
+CON-338;1873039;BA;Maetinga;Prefeitura Municipal;Fasitec;Ativo;27/05/2023;27/05/2026
+CON-337;1873037;SP;Votorantim - SP;Prefeitura Municipal;Fasitec;Inativo;04/02/2023;04/02/2025
+CON-336;1873035;BA;Presidente Dutra;Prefeitura Municipal;Fasitec;Ativo;01/01/2023;01/01/2026
+CON-335;1873034;BA;Canudos ;Prefeitura Municipal;Fasitec;Inativo;29/03/2023;29/03/2023
+CON-334;1873031;AL;Novo Lino;Prefeitura Municipal;Fasitec;Ativo;16/10/2024;16/10/2029
+CON-333;1873029;AL;Porto Real do Colégio;Prefeitura Municipal;Fasitec;Ativo;04/04/2023;04/04/2028
+CON-332;1873027;BA;Paratinga;Prefeitura Municipal;Fasitec;Inativo;31/12/2022;31/12/2024
+CON-331;1873026;AM;Eirunepé;Prefeitura Municipal;Fasitec;Inativo;03/04/2023;03/04/2024
+CON-330;1873025;AL;Poço das Trincheiras;Prefeitura Municipal;Fasitec;Ativo;17/03/2023;17/03/2028
+CON-329;1873020;AL;Anadia - AL;Prefeitura Municipal;NewVersion;Ativo;11/06/2024;11/06/2029
+CON-328;1873019;AL;Campestre;Prefeitura Municipal;Fasitec;Ativo;22/03/2023;22/03/2028
+CON-327;1873017;AL;Atalaia - Atalaiaprev ;Instituto de Previdência;Fasitec;Ativo;15/03/2023;15/03/2028
+CON-326;1873004;PR;Anahy;Prefeitura Municipal;Fasitec;Ativo;15/03/2023;15/03/2028
+CON-325;1873002;AL;Novo Lino;Instituto de Previdência;Fasitec;Inativo;22/01/2023;22/01/2025
+CON-324;1872999;AL;Satuba ;Prefeitura Municipal;Fasitec;Inativo;13/03/2023;13/03/2025
+CON-323;1872998;MA;Igarapé do Meio;Prefeitura Municipal;Fasitec;Ativo;27/01/2023;27/01/2026
+CON-322;1872996;AL;Mar Vermelho - AL;Prefeitura Municipal;Fasitec;Inativo;12/04/2022;30/08/2026
+CON-321;1872992;MA;Anajatuba - MA;Prefeitura Municipal;Fasitec;Ativo;14/02/2023;20/10/2027
+CON-320;1872991;BA;Malhada de Pedras;Prefeitura Municipal;Fasitec;Ativo;05/05/2023;05/05/2026
+CON-319;1872985;PE;São Bento do Una - PE;Prefeitura Municipal;NewVersion;Ativo;03/10/2023;03/10/2028
+CON-318;1872983;BA;Heliopolis;Prefeitura Municipal;Fasitec;Ativo;25/11/2022;25/11/2026
+CON-317;1872978;AL;Anadia;Prefeitura Municipal;Fasitec;Ativo;24/02/2023;24/02/2028
+CON-316;1872976;AL;Paulo Jacinto;Prefeitura Municipal;Fasitec;Ativo;24/03/2023;24/03/2026
+CON-315;1872972;AL;Carneiros;Prefeitura Municipal;Fasitec;Ativo;26/01/2023;26/01/2028
+CON-314;1872967;AL;São Sebastião;Prefeitura Municipal;Fasitec;Ativo;02/02/2023;02/02/2028
+CON-313;1872962;AL;Atalaia - AL;Prefeitura Municipal;Fasitec;Ativo;18/04/2024;18/04/2029
+CON-312;1872960;AL;Cajueiro - AL;Prefeitura Municipal;Fasitec;Inativo;20/07/2022;03/01/2027
+CON-310;1872951;AL;Ouro Branco;Instituto de Previdência;Fasitec;Ativo;19/04/2023;19/04/2026
+CON-309;1872949;AL;Ouro Branco;Prefeitura Municipal;Fasitec;Ativo;17/01/2023;17/01/2028
+CON-308;1872936;AL;Fundo de Aposentadoria e Pensões de São José da Laje - AL;Instituto de Previdência;Fasitec;Ativo;11/01/2023;11/01/2028
+CON-307;1872928;AL;São José da Laje - AL;Prefeitura Municipal;Fasitec;Ativo;17/01/2023;21/01/2026
+CON-306;1872925;AL;Pariconha;Prefeitura Municipal;Fasitec;Ativo;22/12/2022;22/12/2027
+CON-305;1872923;AL;Olho d' Água das Flores - AL;Prefeitura Municipal;Fasitec;Ativo;21/12/2022;21/12/2027
+CON-304;1872918;AL;Girau do Ponciano;Prefeitura Municipal;Fasitec;Ativo;07/12/2022;07/12/2027
+CON-303;1872909;BA;Jussara - BA;Prefeitura Municipal;Fasitec;Inativo;24/12/2022;24/12/2024
+CON-302;1872907;BA;Cacule;Prefeitura Municipal;Fasitec;Ativo;09/10/2022;09/10/2025
+CON-301;1872905;BA;Brumado - BA;Prefeitura Municipal;Fasitec;Ativo;12/05/2023;12/05/2028
+CON-300;1872904;BA;Abaré - BA;Prefeitura Municipal;Fasitec;Ativo;22/08/2022;16/05/2027
+CON-299;1872902;BA;Licínio de Almeida;Prefeitura Municipal;Fasitec;Ativo;18/11/2022;18/11/2025
+CON-298;1872898;BA;Rio do Antônio ;Prefeitura Municipal;Fasitec;Inativo;15/07/2022;15/07/2023
+CON-297;1872896;MA;Santa Luzia do Parua;Prefeitura Municipal;Fasitec;Ativo;26/02/2023;26/02/2026
+CON-296;1872895;PE;AUTARQUIA EDUCACIONAL DO BELO JARDIM AEB - PE;Autarquia;NewVersion;Ativo;25/08/2023;23/08/2028
+CON-295;1872894;PE;Mirandiba;Prefeitura Municipal;Fasitec;Ativo;22/02/2023;22/02/2027
+CON-294;1872889;SP;Biritiba-Mirim ;Prefeitura Municipal;ConsigLog;Inativo;07/04/2023;23/08/2024
+CON-293;1872887;SP;Santo André - Semasa;Autarquia;ConsigLog;Inativo;28/12/2022;15/03/2024
+CON-292;1872881;MG;Congonhas;Prefeitura Municipal;ConsigLog;Inativo;27/03/2023;27/03/2024
+CON-291;1872880;SP;Estância de Campos de Jordão;Prefeitura Municipal;ConsigLog;Inativo;13/12/2022;13/12/2024
+CON-290;1872878;RJ;São Gonçalo - RJ;Instituto de Previdência;ConsigLog;Inativo;30/05/2024;30/05/2025
+CON-287;1872870;BA;Salvador - BA;Prefeitura Municipal;ConsigLog;Ativo;08/05/2024;08/05/2026
+CON-286;1872869;BA;Tribunal de Justiça da Bahia - TJBA;Tribunal;ConsigLog;Ativo;08/05/2023;08/05/2028
+CON-285;1872867;BA;Conceição do Coité - BA;Prefeitura Municipal;ConsigLog;Inativo;09/03/2021;08/04/2025
+CON-284;1872865;GO;Valparaíso de Goiás - GO;Prefeitura Municipal;ConsigLog;Inativo;20/10/2021;31/12/2024
+CON-283;1872864;BA;Canavieiras ;Prefeitura Municipal;ConsigLog;Ativo;04/07/2018;03/07/2026
+CON-282;1872863;BA;Vitória da Conquista;Prefeitura Municipal;ConsigLog;Ativo;08/05/2025;08/05/1930
+CON-281;1872858;BA;Jequié;Prefeitura Municipal;ConsigLog;Ativo;05/07/2021;10/11/2025
+CON-280;1872857;PR; Companhia de Saneamento do Paraná - Sanepar;Outros;ConsigLog;Inativo;19/03/2024;18/03/2025
+CON-279;1872853;SC;Biguçu;Prefeitura Municipal;ConsigLog;Ativo;02/04/2023;02/04/2028
+CON-278;1872846;GO;Catalão;Prefeitura Municipal;ConsigLog;Ativo;25/10/2022;25/10/2027
+CON-277;1872844;SP;Cajamar - SP;Prefeitura Municipal;ConsigLog;Inativo;14/08/2023;15/02/2025
+CON-276;1872843;SP;Caieiras;Prefeitura Municipal;ConsigLog;Inativo;04/03/2024;03/03/2025
+CON-274;1872818;RJ;São Gonçalo - RJ;Prefeitura Municipal;ConsigLog;Inativo;18/03/2024;18/03/2025
+CON-273;1872816;SP;Espírito Santo do Pinhal;Prefeitura Municipal;ConsigLog;Ativo;20/05/2022;20/05/2027
+CON-272;1872812;SP;Campo Limpo Paulista;Prefeitura Municipal;ConsigLog;Ativo;25/11/2022;25/11/2027
+CON-271;1872810;GO;Anápolis - GO;Prefeitura Municipal;ConsigLog;Ativo;10/07/2024;10/07/2029
+CON-270;1872808;SP;Cotia;Prefeitura Municipal;ConsigLog;Inativo;05/04/2023;13/03/2028
+CON-269;1872807;SP;Taboão da Serra - SP;Prefeitura Municipal;ConsigLog;Inativo;13/01/2025;13/01/1930
+CON-268;1872805;PA;Belém - PA;Prefeitura Municipal;RF1 Participações;Ativo;10/12/2024;09/12/2025
+CON-267;1872801;SP;Nova Odessa ;Prefeitura Municipal;ConsigLog;Ativo;04/08/2022;04/08/2027
+CON-266;1872799;SP;Campos do Jordão ;Prefeitura Municipal;ConsigLog;Ativo;27/02/2023;27/02/2028
+CON-265;1872794;TO;Araguaína;Prefeitura Municipal;ConsigLog;Ativo;02/03/2023;02/03/2027
+CON-264;1872786;SP;Franco Rocha ;Prefeitura Municipal;ConsigLog;Ativo;04/03/2023;04/03/2028
+CON-263;1872783;PR;Estado de Paraná - TCE PR;Tribunal;ConsigLog;Ativo;30/10/2020;30/10/2025
+CON-262;1872778;SP;Birita Mirim;Prefeitura Municipal;ConsigLog;Inativo;18/02/2018;18/02/2019
+CON-261;1872777;AM;Governo do Amazonas;Governo de Estado;ConsigLog;Ativo;16/12/2022;18/12/2025
+CON-260;1872772;BA;Camaçari - BA;Prefeitura Municipal;ConsigLog;Ativo;17/09/2022;24/06/2026
+CON-259;1872769;BA;São Francisco do Conde;Instituto de Previdência;ConsigLog;Inativo;19/08/2022;19/08/2023
+CON-258;1872767;ES;Barra de São Francisco ;Prefeitura Municipal;ConsigLog;Ativo;23/05/2023;23/05/2027
+CON-257;1872764;MG;Sabará;Prefeitura Municipal;ConsigLog;Ativo;24/01/2023;24/01/2028
+CON-256;1872763;MG;Santa Luzia - MG;Prefeitura Municipal;ConsigLog;Inativo;15/12/2022;15/12/2023
+CON-255;1872762;PE;Petrolina - PE;Prefeitura Municipal;ConsigLog;Ativo;10/03/2023;27/02/2029
+CON-254;1872761;PE;Surubim - PE;Prefeitura Municipal;Consignet;Ativo;09/01/2025;09/01/1930
+CON-253;1872759;PR;Piên;Prefeitura Municipal;ConsigLog;Ativo;29/11/2022;29/11/2026
+CON-252;1872758;MA;Paço do Lumiar;Instituto de Previdência;Fácil;Inativo;19/04/2023;19/04/2025
+CON-251;1872756;MA;Imperatriz;Prefeitura Municipal;Fácil;Ativo;12/06/2023;12/06/2028
+CON-249;1872754;CE;Mombaça - CE;Prefeitura Municipal;Fácil;Ativo;30/05/2023;30/05/2028
+CON-248;1872750;RJ;Itaperuna;Prefeitura Municipal;Fácil;Ativo;03/01/2023;03/01/2027
+CON-247;1872746;PB;São José do Brejo da Cruz;Prefeitura Municipal;SP Consig;Ativo;22/06/2023;22/06/2028
+CON-245;1872739;MS;Dourados - MS;Prefeitura Municipal;Consignet;Ativo;15/04/2024;15/04/2029
+CON-244;1872734;PB;Sabugi ;Prefeitura Municipal;Fácil;Ativo;22/03/2023;22/03/2028
+CON-243;1872729;RJ;Niterói - RJ;Prefeitura Municipal;Fácil;Iniciando Renovação;28/07/2023;28/07/2025
+CON-242;1872719;PE;Fundo Municipal de Saúde Macaparana;Outros;Fácil;Ativo;04/03/2023;04/03/2026
+CON-241;1872710;PE;Unimed Caruaru;Empresa Privada;Fácil;Inativo;26/08/2022;26/08/2023
+CON-240;1872702;CE;Lavras da Mangabeira;Prefeitura Municipal;Fácil;Ativo;01/02/2023;01/02/2027
+CON-239;1872697;PE;Vicência;Instituto de Previdência;Fácil;Ativo;09/10/2024;09/10/2026
+CON-238;1872679;TO;Procuradoria Geral de Justiça de Tocantins - PGE TO;Outros;Fácil;Ativo;11/01/2023;11/01/2026
+CON-235;1872467;GO;São João d'Aliança;Prefeitura Municipal;Digital Consig;Ativo;27/06/2023;20/01/2026
+CON-234;1872461;RO;Instituto de Previdência Social dos Servidores Público do Município de Rolim de Moura;Instituto de Previdência;Consignet;Iniciando Renovação;01/08/2023;01/08/2025
+CON-233;1872402;RO;Urupá;Prefeitura Municipal;Consignet;Ativo;14/07/2023;14/07/2028
+CON-232;1872130;CE;Crato;Instituto de Previdência;Fácil;Inativo;24/03/2023;24/03/2025
+CON-231;1872122;CE;Fortim - CE;Prefeitura Municipal;Fácil;Inativo;19/07/2022;28/11/2023
+CON-230;1872116;CE;Nova Olinda - CE;Prefeitura Municipal;Consignet;Ativo;05/05/2025;05/05/1930
+CON-229;1872115;CE;Tianguá;Prefeitura Municipal;Fácil;Ativo;07/07/2022;07/07/2026
+CON-228;1872114;MA;Governo de Maranhão;Governo de Estado;Fácil;Ativo;13/02/2024;15/03/2028
+CON-227;1872113;MG;Ipatinga ;Prefeitura Municipal;ConsigLog;Ativo;17/01/2024;17/01/2026
+CON-226;1872112;PA;Alenquer - PA;Prefeitura Municipal;NeoConsig;Inativo;28/02/2024;17/09/2024
+CON-225;1872111;MA;Santa Luzia - MA;Prefeitura Municipal;Fácil;Ativo;07/10/2022;10/03/2026
+CON-224;1872110;PB;Cabedelo ;Prefeitura Municipal;Fácil;Ativo;12/01/2023;12/01/2027
+CON-223;1872105;PE;Água Preta ;Prefeitura Municipal;Fácil;Ativo;16/08/2022;16/08/2026
+CON-222;1872102;PE;Recife - PE;Prefeitura Municipal;Fácil;Ativo;08/05/2025;08/05/1930
+CON-221;1872100;PE;Governo de Pernambuco;Governo de Estado;Fácil;Iniciando Renovação;01/11/2022;04/12/2025
+CON-220;1872096;PE;Exu;Instituto de Previdência;Fácil;Ativo;21/09/2022;21/09/2027
+CON-219;1872095;PE;Exu;Prefeitura Municipal;Fácil;Ativo;17/05/2023;17/05/2027
+CON-218;1872094;RN;Ceará Mirim;Instituto de Previdência;Fácil;Ativo;16/02/2023;16/02/2028
+CON-217;1872091;RN;Tibau - RN;Prefeitura Municipal;Fácil;Iniciando Renovação;07/09/2022;07/09/2025
+CON-216;1872039;PR;Instituto de Previdência Curiuvaprev;Instituto de Previdência;Consignet;Inativo;27/05/2023;27/05/2024
+CON-215;1872037;SC;José Boiteux;Prefeitura Municipal;Consignet;Ativo;08/05/2023;08/05/2028
+CON-214;1872034;PR;Mauá da Serra - PR;Prefeitura Municipal;Consignet;Inativo;12/07/2022;28/02/2028
+CON-213;1872033;PA;Santa Izabel do Pará - PA;Prefeitura Municipal;Safe Consig;Ativo;25/10/2024;25/10/2029
+CON-212;1872032;PR;Laranjeiras do Sul;Prefeitura Municipal;Consignet;Inativo;22/08/2022;22/08/2024
+CON-211;1872031;GO;Santa Rita do Araguaia ;Prefeitura Municipal;Consignet;Ativo;02/06/2023;02/06/2028
+CON-210;1872027;MS;Paranaíba - MS;Instituto de Previdência;Consignet;Ativo;24/02/2023;24/02/2028
+CON-209;1872026;SC;Rio Negrinho ;Prefeitura Municipal;Consignet;Ativo;05/06/2023;05/06/2028
+CON-208;1872024;MG;Sapucaí Mirim ;Prefeitura Municipal;Consignet;Ativo;23/09/2022;23/09/2026
+CON-207;1872023;SP;Miguelópolis;Prefeitura Municipal;Consignet;Inativo;23/06/2022;23/06/2023
+CON-206;1872020;RO;Jaru;Prefeitura Municipal;Consignet;Ativo;16/03/2023;16/03/2028
+CON-205;1872018;SC;Empresa Tombini e Cia Ltda;Empresa Privada;Consignet;Ativo;19/11/2022;19/11/2026
+CON-204;1872017;PR;Matelândia - PREVIMAT - PR;Instituto de Previdência;Consignet;Inativo;10/10/2022;10/10/2024
+CON-203;1872015;SP; Fundação Municipal para Educação Comunitária de Campinas - FUMEC ;Empresa Privada;Consignet;Iniciando Renovação;25/06/2023;25/06/2025
+CON-202;1872009;PR;Campo Mourão - PR;Prefeitura Municipal;Consignet;Ativo;06/06/2024;06/06/2028
+CON-201;1872005;MG;Pirajuba - MG;Prefeitura Municipal;Consignet;Ativo;05/06/2023;05/06/2028
+CON-200;1871998;PR;Campo Mourão - PR;Câmara Municipal;Consignet;Iniciando Renovação;11/07/2024;11/07/2025
+CON-199;1871992;PE;São Lourenço da Mata - PE;Instituto de Previdência;Consignet;Inativo;01/11/2022;04/12/2023
+CON-198;1871990;PR;Centenário do Sul- PR;Prefeitura Municipal;Consignet;Ativo;12/06/2023;12/06/2028
+CON-197;1871978;PE;São José do Belmonte;Prefeitura Municipal;Consignet;Ativo;24/04/2023;24/04/2028
+CON-196;1871974;PE;Fundo de Previdência dos Servidores de Cedro - FUNPRESCE;Instituto de Previdência;Consignet;Inativo;24/05/2023;24/12/2024
+CON-195;1871971;PE;Cedro - PE;Prefeitura Municipal;Consignet;Ativo;14/01/2025;14/01/1930
+CON-194;1871967;PE;Belém do São Francisco - PE;Prefeitura Municipal;Consignet;Ativo;23/05/2028;23/05/2028
+CON-193;1871965;MS;Nioaque - MS;Prefeitura Municipal;Consignet;Ativo;01/06/2023;01/06/2028
+CON-192;1871963;PR;Marilena - PR;Instituto de Previdência;Consignet;Ativo;05/08/2023;05/08/2028
+CON-191;1871962;PR;Bandeirantes;Prefeitura Municipal;Consignet;Ativo;09/12/2022;09/12/2027
+CON-190;1871961;MT;Vera - MT;Instituto de Previdência;Consignet;Ativo;03/05/2023;03/05/2028
+CON-189;1871955;SP;Fundação Hemocentro de Ribeirão Preto;Outros;Consignet;Inativo;03/02/2023;03/02/2025
+CON-188;1871830;MT;Vera - MT;Prefeitura Municipal;Consignet;Ativo;18/07/2023;18/07/2028
+CON-187;1871827;RO;São Miguel do Guaporé;Prefeitura Municipal;Consignet;Ativo;30/05/2023;30/05/2028
+CON-186;1871824;RO;Monte Negro - RO;Prefeitura Municipal;Consignet;Ativo;17/12/2024;16/12/2025
+CON-185;1871822;PR;Tunas do Paraná;Prefeitura Municipal;Consignet;Ativo;27/03/2025;27/03/1930
+CON-184;1871818;RO;Castanheiras;Prefeitura Municipal;Consignet;Ativo;12/06/2023;12/06/2028
+CON-183;1871816;PR;Realeza - PR;Prefeitura Municipal;Consignet;Ativo;18/05/2023;18/05/2028
+CON-182;1871814;SP;Sertãozinho;Prefeitura Municipal;Consignet;Ativo;01/04/2023;01/04/2028
+CON-181;1871813;MG;Cachoeira Dourada;Instituto de Previdência;Consignet;Inativo;01/01/2023;01/01/2025
+CON-180;1871812;SP;Francisco Morato;Instituto de Previdência;Consignet;Inativo;08/01/2023;08/01/2024
+CON-179;1871811;PR;Nova Prata do Iguaçu;Prefeitura Municipal;Consignet;Ativo;29/05/2023;29/05/2028
+CON-178;1871803;SP;São Simão - SP;Prefeitura Municipal;Consignet;Inativo;19/03/2019;19/03/2024
+CON-177;1871800;PR;Ji-Paraná;Prefeitura Municipal;Consignet;Ativo;02/01/2023;02/01/2026
+CON-176;1871798;SP;Bom Jesus dos Perdões;Instituto de Previdência;Consignet;Inativo;03/04/2023;03/04/2025
+CON-175;1871794;PE;Itaquitinga;Prefeitura Municipal;Consignet;Ativo;10/02/2023;10/02/2026
+CON-174;1871793;RS;Estância Velha;Prefeitura Municipal;Consignet;Ativo;04/01/2022;04/01/2026
+CON-173;1871791;PR;Santo Antônio do Sudoeste;Prefeitura Municipal;Consignet;Ativo;24/05/2023;24/05/2028
+CON-172;1871789;SP;Guariba;Câmara Municipal;Consignet;Ativo;29/07/2022;29/07/2027
+CON-171;1871783;PR;Câmara Municipal do Alto Paraná;Câmara Municipal;Consignet;Ativo;28/09/2022;28/09/2027
+CON-170;1871779;PR;Arapuã;Prefeitura Municipal;Consignet;Ativo;20/01/2023;20/01/2028
+CON-168;1871772;SC;Ponte Alta do Norte;Prefeitura Municipal;Consignet;Ativo;11/04/2023;11/04/2028
+CON-167;1871766;SC;Lontras - SC;Prefeitura Municipal;Consignet;Ativo;29/03/2023;29/03/2028
+CON-166;1871761;SC;Empresa Prevemax - EPIS Impermeáveis e Descartáveis Ltda;Câmara Municipal;Consignet;Ativo;16/09/2022;16/09/2027
+CON-165;1871727;SP;Zacarias - SP;Prefeitura Municipal;Consignet;Iniciando Renovação;04/08/2022;04/08/2025
+CON-164;1871725;MA;Instituto de Previdência do Município de Timon - IPMT;Instituto de Previdência;Consignet;Ativo;19/04/2023;19/04/2028
+CON-163;1871720;SP;Adamantina;Prefeitura Municipal;Consignet;Inativo;01/04/2023;01/04/2025
+CON-162;1871718;PR;Mandirituba ;Instituto de Previdência;Consignet;Ativo;23/11/2022;23/11/2027
+CON-161;1871714;MS;Paranaíba - MS;Prefeitura Municipal;Consignet;Ativo;19/04/2023;19/04/2028
+CON-160;1871710;SP;Sertãozinho - SERTPREV - SP;Instituto de Previdência;Consignet;Inativo;21/02/2023;30/05/2024
+CON-159;1871682;RO;Mirante da Serra - RO;Prefeitura Municipal;Consignet;Ativo;19/07/2023;19/07/2028
+CON-158;1871679;RO;Rolim de Moura - RO;Prefeitura Municipal;Consignet;Ativo;17/05/2023;17/05/2028
+CON-157;1871674;PR;Honório Serpa;Prefeitura Municipal;Consignet;Ativo;21/06/2023;21/06/2028
+CON-156;1871672;PR;Cafelândia;Instituto de Previdência;Consignet;Ativo;12/05/2023;12/05/2028
+CON-155;1871669;PR;Cafelândia - PR;Prefeitura Municipal;Consignet;Ativo;03/07/2023;03/07/2028
+CON-154;1871668;PR;Mambore;Prefeitura Municipal;Consignet;Ativo;05/01/2023;05/01/2026
+CON-153;1871667;GO;Novo Gama;Prefeitura Municipal;Consignet;Ativo;17/10/2022;17/10/2027
+CON-152;1871665;RO;Nova União;Prefeitura Municipal;Consignet;Ativo;19/04/2023;19/04/2028
+CON-151;1871663;SP;Jaboticabal;Instituto de Previdência;Consignet;Inativo;20/12/2022;20/12/2023
+CON-150;1871661;PR;Carlópolis - PR;Prefeitura Municipal;Consignet;Ativo;23/03/2023;23/03/2028
+CON-149;1871658;PE;Instituto de Previdência do Munícipio de Buque;Instituto de Previdência;Consignet;Inativo;01/01/2023;01/01/2025
+CON-148;1871656;MT;Cláudia;Prefeitura Municipal;Consignet;Ativo;23/03/2023;23/03/2028
+CON-147;1871655;GO;Cachoeira Dourada;Prefeitura Municipal;Consignet;Ativo;23/05/2022;23/05/2028
+CON-146;1871648;RO;Fundação Cultural de Ji Paraná;Empresa Privada;Consignet;Ativo;17/10/2022;17/10/2027
+CON-145;1871643;PR;Altamira do Paraná - PR;Instituto de Previdência;Consignet;Inativo;21/09/2022;22/01/2025
+CON-144;1871642;SP;Santa Casa de Itaí;Empresa Privada;Consignet;Ativo;03/02/2023;03/02/2028
+CON-143;1871637;PR;Matelandia;Prefeitura Municipal;Consignet;Inativo;07/01/2023;07/01/2025
+CON-142;1871633;GO;Cidade Ocidental;Prefeitura Municipal;Consignet;Ativo;26/02/2023;26/02/2026
+CON-141;1871631;PR;Paiçandu;Prefeitura Municipal;Consignet;Ativo;11/04/2023;11/04/2028
+CON-140;1871622;PR;Mandaguari;Prefeitura Municipal;Consignet;Iniciando Renovação;04/08/2022;04/08/2025
+CON-139;1871612;PR;Araruna;Prefeitura Municipal;Consignet;Iniciando Renovação;04/08/2022;04/08/2025
+CON-138;1871594;RS;Nova Prata - IPRAM;Instituto de Previdência;Consignet;Inativo;05/05/2023;05/05/2025
+CON-137;1871592;SC;Companhia de águas de Joinville;Outros;Consignet;Ativo;28/03/2023;28/03/2028
+CON-136;1871589;RN;Bodó - RN;Prefeitura Municipal;Consignet;Ativo;01/12/2022;01/12/2027
+CON-135;1871585;PR;Iguaçu;Instituto de Previdência;Consignet;Ativo;14/03/2023;14/03/2028
+CON-134;1871580;PR;Flórida;Instituto de Previdência;Consignet;Iniciando Renovação;01/09/2022;01/09/2025
+CON-132;1871560;PR;Nova Aliança do Ivai;Câmara Municipal;Consignet;Ativo;07/11/2022;07/11/2027
+CON-131;1871476;PB;Estado da Paraíba - TCE PB;Tribunal;Consignet;Inativo;26/06/2023;17/05/2024
+CON-130;1871472;BA;Feira de Santana;Prefeitura Municipal;ConsigLog;Inativo;26/06/2023;29/04/2024
+CON-129;1871468;CE;Coreaú - CE;Prefeitura Municipal;Digital Consig;Ativo;26/06/2023;02/05/2028
+CON-128;1871460;RS;Triunfo;Prefeitura Municipal;Consignet;Inativo;26/06/2023;29/10/2024
+CON-127;1871452;CE;Fundo Municipal de Seguridade Social do Município de Aracati;Instituto de Previdência;Safe Consig;Inativo;26/06/2023;13/01/2025
+CON-126;1871267;RS;Capão da Canoa - RS;Prefeitura Municipal;Consignet;Iniciando Renovação;14/06/2024;14/06/2025
+CON-125;1871224;AL;Joaquim Gomes - AL;Prefeitura Municipal;Fasitec;Ativo;04/05/2023;04/05/2028
+CON-124;1870790;SP;Águas da Prata - SP;Prefeitura Municipal;Consignet;Ativo;18/08/2022;18/08/2026
+CON-123;1870789;MS;Nova Alvorada do Sul;Prefeitura Municipal;Consignet;Inativo;15/03/2023;15/03/2024
+CON-122;1870786;PR;Pitanga - PR;Prefeitura Municipal;Consignet;Ativo;27/04/2023;27/04/2028
+CON-121;1870785;PR;Iguaraçu;Prefeitura Municipal;Consignet;Ativo;15/06/2023;15/06/2028
+CON-120;1870782;RO;Alta Floresta Doeste;Prefeitura Municipal;Consignet;Ativo;15/05/2023;15/05/2027
+CON-119;1870780;PR;Jaguapitã ;Prefeitura Municipal;Consignet;Ativo;17/03/2023;17/03/2028
+CON-118;1870777;PR;Marilena - PR;Prefeitura Municipal;Consignet;Ativo;04/06/2023;04/06/2028
+CON-117;1870774;SC;SAMAE . Serviço Autônomo Municipal de Água e Esgoto de Jaraguá do Sul;Empresa Privada;Consignet;Ativo;13/01/2025;12/01/2026
+CON-116;1870769;PR;Porecatu - PR;Prefeitura Municipal;Consignet;Ativo;26/04/2023;26/04/2028
+CON-115;1870765;MA;Lagoa Grande do Maranhão ;Prefeitura Municipal;Consignet;Ativo;22/12/2022;22/12/2026
+CON-114;1870762;PR;Manoel Ribas ;Prefeitura Municipal;Consignet;Ativo;21/10/2022;21/10/2027
+CON-113;1870760;PR;Palotina ;Prefeitura Municipal;Consignet;Inativo;09/02/2022;02/09/2024
+CON-112;1870759;SP;Sud Mennucci;Prefeitura Municipal;Consignet;Inativo;06/05/2022;06/05/2025
+CON-111;1870757;PR;Sapopema ;Prefeitura Municipal;Consignet;Inativo;08/07/2022;08/07/2024
+CON-110;1870755;RO;Autarquia Esporte Cultura e Turismo Pimenta Bueno;Autarquia;Consignet;Ativo;15/08/2022;15/08/2027
+CON-109;1870751;PE;Taquaritinga do Norte;Prefeitura Municipal;Consignet;Ativo;22/07/2022;22/07/2027
+CON-108;1870749;MG;Bom Despacho;Instituto de Previdência;Consignet;Inativo;21/05/2022;21/05/2024
+CON-107;1870748;PR;Sarandi;Instituto de Previdência;Consignet;Inativo;09/03/2023;09/03/2024
+CON-106;1870747;SP;Lençóis Paulista;Prefeitura Municipal;Consignet;Ativo;02/03/2023;02/03/2027
+CON-105;1870745;RN;Janduis;Prefeitura Municipal;Consignet;Iniciando Renovação;18/08/2022;18/08/2025
+CON-104;1870742;SP;Catanduva;Instituto de Previdência;Consignet;Ativo;03/08/2022;03/08/2026
+CON-103;1870740;SP;Águas da Prata ;Prefeitura Municipal;Consignet;Ativo;18/08/2022;18/08/2026
+CON-102;1870739;GO;Piranhas;Instituto de Previdência;Consignet;Ativo;19/01/2023;19/01/2028
+CON-101;1870736;GO;Piranhas ;Prefeitura Municipal;Consignet;Ativo;29/03/2023;10/11/2027
+CON-100;1870735;MA;Estreito - MA;Prefeitura Municipal;Consignet;Ativo;20/08/2022;12/07/2027
+CON-99;1870732;MS;Taquarassu - MS;Prefeitura Municipal;Consignet;Ativo;15/02/2023;15/02/2028
+CON-98;1870731;MS;Guia Lopes da Laguna -MS;Prefeitura Municipal;Consignet;Ativo;11/01/2025;11/01/2029
+CON-97;1870729;PA;Tucuruí;Instituto de Previdência;Consignet;Ativo;14/01/2023;14/01/2027
+CON-96;1870723;PE;Ângulo;Prefeitura Municipal;Consignet;Inativo;03/06/2022;03/06/2025
+CON-95;1870718;PE;Buíque;Instituto de Previdência;Consignet;Inativo;29/08/2022;29/08/2023
+CON-94;1870714;PE;Buíque;Prefeitura Municipal;Consignet;Inativo;24/09/2022;24/09/2023
+CON-93;1870712;PR;Grandes Rios;Prefeitura Municipal;Consignet;Iniciando Renovação;25/08/2022;25/08/2025
+CON-92;1870711;PR;Guarapuava - PR;Prefeitura Municipal;Consignet;Ativo;02/12/2022;09/06/2026
+CON-91;1870708;PR;Guarapuava;Instituto de Previdência;Consignet;Inativo;02/12/2022;02/12/2023
+CON-90;1870688;PR;Tuneiras do Oeste - PR;Prefeitura Municipal;Fasitec;Inativo;21/10/2022;21/10/2024
+CON-89;1870686;PR;Leópolis ;Prefeitura Municipal;Consignet;Inativo;08/08/2022;08/08/2024
+CON-88;1870684;PR;Itaúna do Sul ;Prefeitura Municipal;Consignet;Inativo;13/02/2023;13/02/2024
+CON-87;1870683;PR;Castro ;Prefeitura Municipal;Consignet;Inativo;20/01/2023;20/01/2024
+CON-86;1870682;PR;Piraquara - PR;Prefeitura Municipal;Fácil;Ativo;24/02/2023;24/02/2026
+CON-85;1870677;PR;Turvo;Instituto de Previdência;Consignet;Ativo;07/10/2022;07/10/2027
+CON-84;1870676;PR;Maringá - PR;Instituto de Previdência;Consignet;Ativo;25/03/2023;25/11/2027
+CON-83;1870674;PR;Cianorte ;Prefeitura Municipal;Consignet;Inativo;29/04/2022;29/04/2023
+CON-82;1870673;RO;Porto Velho - RO;Prefeitura Municipal;Fácil;Iniciando Renovação;29/07/2022;19/08/2025
+CON-81;1870671;RO;Porto Velho;Instituto de Previdência;Fácil;Ativo;18/11/2022;18/11/2027
+CON-80;1870670;RS;Pelotas - RS;Prefeitura Municipal;NeoConsig;Inativo;23/07/2022;23/07/2025
+CON-79;1870668;PR;Siqueira Campos;Prefeitura Municipal;Consignet;Inativo;12/05/2022;12/05/2024
+CON-78;1870663;PR;Empresa Previsa de Astorga ;Empresa Privada;Consignet;Ativo;18/01/2023;18/01/2028
+CON-77;1870658;PR;Astorga;Prefeitura Municipal;Consignet;Inativo;03/06/2022;03/06/2025
+CON-76;1870652;PR;California;Prefeitura Municipal;Consignet;Iniciando Renovação;27/07/2022;27/07/2025
+CON-75;1870650;PR;Astorga;Câmara Municipal;Consignet;Ativo;19/10/2022;19/10/2027
+CON-74;1870649;PR;Itambé - PR;Prefeitura Municipal;Consignet;Ativo;13/02/2025;13/02/1930
+CON-73;1870647;RN;Boa Saúde;Instituto de Previdência;Consignet;Ativo;17/02/2023;17/02/2028
+CON-72;1870643;RN;Tenente Laurentino Cruz;Prefeitura Municipal;Consignet;Ativo;17/02/2023;17/02/2028
+CON-71;1870637;RN;Espirito Santo - RN;Prefeitura Municipal;Consignet;Ativo;13/01/2023;13/01/2028
+CON-70;1870634;RN;Boa Saúde;Prefeitura Municipal;Consignet;Ativo;16/01/2023;16/01/2026
+CON-69;1870633;RN;Boa Saúde;Instituto de Previdência;Consignet;Ativo;10/12/2022;10/12/2026
+CON-68;1870628;RO;Candeias do Jamari;Prefeitura Municipal;Consignet;Ativo;17/10/2022;17/10/2027
+CON-67;1870625;RO;Cujubim;Instituto de Previdência;Consignet;Ativo;19/04/2023;19/04/2027
+CON-66;1870624;RO;Presidente Médici;Prefeitura Municipal;Consignet;Ativo;24/03/2023;24/03/2027
+CON-65;1870600;RO;Ouro Preto do Oeste;Prefeitura Municipal;Consignet;Ativo;28/11/2024;27/11/2029
+CON-64;1870599;RO;Assembleia Legislativa de Rondônia;Assembléia;Consignet;Ativo;22/02/2023;22/02/2027
+CON-63;1870596;RO;Espigão do Oeste;Prefeitura Municipal;Consignet;Ativo;15/12/2022;15/12/2027
+CON-62;1870562;RS;Xangri-lá - RS;Prefeitura Municipal;Consignet;Ativo;28/05/2023;28/05/2027
+CON-61;1870558;RS;Terra de Areia - RS;Prefeitura Municipal;Consignet;Ativo;18/11/2024;18/11/2025
+CON-60;1870554;SC;Campo Alegre;Prefeitura Municipal;Consignet;Ativo;17/11/2022;17/11/2025
+CON-59;1870550;SC;Brusque;Instituto de Previdência;Consignet;Ativo;02/06/2023;02/06/2026
+CON-58;1870541;SC;Brusque;Prefeitura Municipal;Consignet;Ativo;07/02/2023;07/02/2026
+CON-57;1870538;SC;Governador Celso Ramos;Prefeitura Municipal;Consignet;Ativo;17/06/2022;17/06/2026
+CON-56;1870534;SC;Mondaí;Prefeitura Municipal;Consignet;Ativo;16/06/2022;16/06/2026
+CON-55;1870518;SC;Porto União;Prefeitura Municipal;Consignet;Ativo;27/07/2022;27/07/2026
+CON-54;1870510;SC;Itaiópolis - SC;Prefeitura Municipal;Consignet;Ativo;27/08/2022;27/08/2026
+CON-53;1870508;SC;Balneário Barra do Sul;Prefeitura Municipal;Consignet;Inativo;01/08/2022;01/08/2024
+CON-52;1870506;SC;Guaramirim;Prefeitura Municipal;Consignet;Ativo;13/01/2023;13/01/2027
+CON-51;1870504;SC;Dionísio Cerqueira;Prefeitura Municipal;Consignet;Ativo;17/07/2022;17/07/2027
+CON-50;1870500;SC;Penha - SC;Prefeitura Municipal;Consignet;Inativo;25/10/2019;25/10/2024
+CON-49;1870497;SC;Braço do Trombudo;Prefeitura Municipal;Consignet;Ativo;10/10/2022;10/10/2027
+CON-48;1870493;SC;Trombudo Central - SC;Prefeitura Municipal;Consignet;Ativo;21/10/2022;21/10/2027
+CON-47;1870490;SC;Pouso Redondo;Prefeitura Municipal;Consignet;Ativo;24/10/2022;24/10/2027
+CON-46;1870488;SC;Presidente Getúlio;Prefeitura Municipal;Consignet;Ativo;21/11/2022;21/11/2027
+CON-45;1870482;SC;Campo Erê;Prefeitura Municipal;Consignet;Ativo;02/02/2023;02/02/2028
+CON-44;1870479;SC;São Bento do Sul;Prefeitura Municipal;Consignet;Ativo;04/01/2023;04/01/2027
+CON-43;1870473;SC;São Bento do Sul - SC;Instituto de Previdência;Consignet;Inativo;09/02/2023;12/02/2025
+CON-42;1870472;SC;Agronômica - SC;Prefeitura Municipal;Consignet;Ativo;09/02/2023;09/02/2028
+CON-41;1870470;SC;Balneário Camboriú - SC;Prefeitura Municipal;Consignet;Inativo;01/08/2022;01/08/2024
+CON-40;1870469;SC;São Francisco do Sul - SC;Prefeitura Municipal;Consignet;Inativo;22/07/2019;22/07/2024
+CON-39;1870465;SC;São João do Itaperiú;Prefeitura Municipal;Consignet;Ativo;09/09/2022;09/09/2027
+CON-38;1870463;SP;Viradouro;Prefeitura Municipal;Consignet;Iniciando Renovação;18/06/2022;18/06/2025
+CON-37;1870461;SP;Fundação FEAPA ;Empresa Privada;Consignet;Inativo;25/11/2022;25/11/2023
+CON-36;1870451;SP;Guaraci;Prefeitura Municipal;Consignet;Ativo;19/04/2022;02/10/2027
+CON-35;1870450;SP;Jacareí - SP;Prefeitura Municipal;Consignet;Inativo;24/11/2022;02/02/2025
+CON-34;1870447;SP;Santa Casa de Cerqueira Cesar;Empresa Privada;Consignet;Ativo;20/09/2022;20/09/2027
+CON-33;1870443;SP;Capão Bonito;Prefeitura Municipal;Consignet;Iniciando Renovação;01/07/2022;01/07/2025
+CON-32;1870442;SP;Riversul;Prefeitura Municipal;Consignet;Iniciando Renovação;22/06/2022;22/06/2025
+CON-31;1870439;SP;Porto Ferreira - SP;Prefeitura Municipal;Consignet;Inativo;12/11/2022;12/11/2024
+CON-30;1870433;RS;Fundo de Pensão e Aposentadoria do Servidor - Bagé ;Instituto de Previdência;ASBAN;Ativo;18/12/2022;18/12/2025
+CON-29;1870428;RS;Cachoeirinha - RS;Instituto de Previdência;ASBAN;Inativo;26/06/2022;30/10/2024
+CON-28;1870423;SC;Mafra - SC;Prefeitura Municipal;Safe Consig;Ativo;16/01/2025;15/01/2026
+CON-27;1870418;SC;Blumenau;Instituto de Previdência;Quantum;Inativo;04/09/2022;04/09/2023
+CON-25;1870364;SC;Tribunal Regional do Trabalho da 12ª Região - TRT 12;Tribunal;Unitedtech;Ativo;07/07/2024;06/03/2026
+CON-24;1870329;SC;Bom Jardim da Serra;Prefeitura Municipal;ConsigLog;Ativo;08/10/2022;08/10/2025
+CON-23;1870324;SC;São João Batista;Prefeitura Municipal;ConsigLog;Inativo;18/05/2022;17/07/2023
+CON-22;1870321;RN;Areia Branca;Prefeitura Municipal;Fácil;Inativo;28/10/2022;28/10/2024
+CON-21;1870316;SE;Boquim;Prefeitura Municipal;Green Consig;Inativo;05/10/2022;03/10/2024
+CON-20;1870276;SP;Instituto de Previdência Santos;Instituto de Previdência;ConsigLog;Ativo;11/04/2023;11/04/2027
+CON-19;1870244;SP;Agudos;Prefeitura Municipal;VilleFort;Inativo;26/12/2022;26/12/2023
+CON-18;1870240;SP;Francisco Morato;Prefeitura Municipal;ConsigLog;Ativo;09/01/2023;09/01/2028
+CON-17;1870238;SP;Ribeirão Pires - SP;Prefeitura Municipal;SP Consig;Inativo;02/09/2022;02/09/2023
+CON-16;1870237;SP;Araras - SP;Prefeitura Municipal;Fasitec;Inativo;19/04/2024;19/05/2025
+CON-15;1870234;SP;Vera Cruz - SP;Prefeitura Municipal;ConsigLog;Inativo;06/01/2023;06/01/2024
+CON-14;1870149;SP;EMDURB - Empresa Municipal de Desenvolvimento Urbano e Rural de Bauru;Autarquia;Montreal;Inativo;23/06/2023;06/02/2025
+CON-13;1870144;PE;Cabo de Santo Agostinho ;Prefeitura Municipal;DB1;Inativo;23/06/2023;31/03/2024
+CON-12;1870014;BA;Eunápolis;Prefeitura Municipal;Consignet;Inativo;27/06/2023;08/08/2024
+CON-11;1869992;GO;Instituto Municipal de Previdência Social dos Servidores Mineiros;Instituto de Previdência;Digital Consig;Inativo;23/06/2023;24/05/2025
+CON-10;1869938;SP;Caixa de Assistência ao Servidor Público Municipal de Santos - CAPEP-SAÚDE ;Outros;ConsigLog;Ativo;20/06/2023;20/06/2027
+CON-9;1869931;SP;Ribeirão Preto - SP;Prefeitura Municipal;Quantum;Ativo;18/07/2025;17/01/2026
+CON-8;1869916;AL;Instituto de Previdência Social do Município de Olho D'Água das Flores;Instituto de Previdência;Fasitec;Ativo;22/06/2023;22/06/2028
+CON-7;1869909;AL;Jundiá;Prefeitura Municipal;Fasitec;Ativo;19/06/2023;19/06/2028
+CON-5;1869773;SP;Louveira - SP;Prefeitura Municipal;RF1 Participações;Ativo;09/12/2022;26/11/2025
+CON-4;1869771;SP;Bauru;Instituição Financeira;DB1;Inativo;16/08/2022;16/08/2023
+CON-3;1869765;SP;Instituto de Previdência Sumaré;Instituto de Previdência;ConsigLog;Ativo;14/11/2024;14/11/2025
+CON-2;1869763;SP;Araçatuba - SP;Prefeitura Municipal;Unitedtech;Ativo;23/05/2024;19/07/2026
+CON-1;1869737;SP;Estância Turística de Itu ;Prefeitura Municipal;ConsigLog;Ativo;23/11/2024;22/11/2025
