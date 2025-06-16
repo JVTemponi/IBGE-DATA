@@ -27,18 +27,14 @@ FAIXAS_ETARIAS_MAP = {
 GEOJSON_URL = "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson"
 
 COLORS = {
-    'background': "#262626",
-    'background_light': "#EAEAEA",
-    'text': '#EAEAEA',
-    'text_light': '#262626',
-    'plot_background': "#262626"
+    'background': "#AAD3DF",
+    'text': "#FFFFFF",
+    'plot_background': "#AAD3DF",
+    'bg-bar': "#272727",
 }
 
-def carregar_dados():
-    """
-    Carrega os arquivos CSV necessários.
-    Retorna uma tupla de DataFrames. Em caso de erro, retorna DataFrames vazios.
-    """
+# --- Funções de Preparação de Dados ---
+def carregar_dados_csv():
     try:
         df_municipios = pd.read_csv('municipios.csv')
         df_empresas = pd.read_csv('empresas.csv', sep=';')
@@ -48,6 +44,20 @@ def carregar_dados():
     except FileNotFoundError as e:
         print(f"ERRO: Arquivo não encontrado. {e}")
         return pd.DataFrame(), pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
+
+# def carregar_dados_db():
+#     try:
+#         con = 'BD'
+#         df_municipios = pd.read_sql('SELECT * FROM municipios', con)
+#         df_empresas = pd.read_sql('SELECT * FROM empresas', con)
+#         df_estados = pd.read_sql('SELECT * FROM estados', con)
+#         df_pop_raw = pd.read_sql('SELECT * FROM populacao_ibge', con)
+#         con.close()
+        
+#         return df_municipios, df_empresas, df_estados, df_pop_raw
+#     except Exception as e:
+#         print(f"ERRO: Falha ao conectar ou ler o banco de dados. {e}")
+#         return pd.DataFrame(), pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
 
 def normalizar_texto(texto):
     """
@@ -66,18 +76,18 @@ def preparar_dados(df_municipios, df_empresas, df_estados, df_pop_raw):
     if any(df.empty for df in [df_municipios, df_empresas, df_estados, df_pop_raw]):
         return pd.DataFrame(), pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
 
-    # Normalizar textos
+    # Normalizar textos e mapear UFs
     df_municipios['uf'] = df_municipios['codigo_uf'].map(MAPA_CODIGO_UF)
     df_empresas['municipio_normalizado'] = df_empresas['municipio'].apply(normalizar_texto)
     df_municipios['nome_normalizado'] = df_municipios['nome'].apply(normalizar_texto)
 
-    # População por ESTADO
+    # Preparar dados de população por ESTADO
     df_pop_estado = df_pop_raw.groupby('uf').sum(numeric_only=True)
     df_pop_final_estado = df_pop_estado[list(FAIXAS_ETARIAS_MAP.keys())].reset_index()
     df_pop_plot_estado = df_pop_final_estado.melt(id_vars='uf', var_name='faixa_etaria', value_name='populacao')
     df_pop_plot_estado['faixa_etaria'] = df_pop_plot_estado['faixa_etaria'].replace(FAIXAS_ETARIAS_MAP)
 
-    # População por MUNICÍPIO
+    # Preparar dados de população por MUNICÍPIO
     df_pop_municipio = df_pop_raw.copy()
     df_pop_municipio['municipio_normalizado'] = df_pop_municipio['municipio'].apply(normalizar_texto)
     df_pop_municipio = pd.merge(
@@ -93,7 +103,7 @@ def preparar_dados(df_municipios, df_empresas, df_estados, df_pop_raw):
     )
     df_pop_plot_municipio['faixa_etaria'] = df_pop_plot_municipio['faixa_etaria'].replace(FAIXAS_ETARIAS_MAP)
 
-    # Criar DataFrame principal de mapa
+    # Criar DataFrame principal para o mapa
     df_mapa = pd.merge(
         df_empresas,
         df_municipios,
@@ -105,19 +115,30 @@ def preparar_dados(df_municipios, df_empresas, df_estados, df_pop_raw):
 
     return df_mapa, df_pop_plot_estado, df_pop_plot_municipio, df_estados
 
-df_municipios_raw, df_empresas_raw, df_estados_raw, df_pop_raw = carregar_dados()
+# --- Carregamento e Preparação Inicial ---
+df_municipios_raw, df_empresas_raw, df_estados_raw, df_pop_raw = carregar_dados_csv()
+# df_municipios_raw, df_empresas_raw, df_estados_raw, df_pop_raw = carregar_dados_db() # Exemplo
+
 df_mapa, df_pop_plot_estado, df_pop_plot_municipio, df_estados = preparar_dados(
     df_municipios_raw, df_empresas_raw, df_estados_raw, df_pop_raw
 )
 
+# --- Inicialização do App Dash ---
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server # Expor o servidor para a publicação (deploy)
 app.title = 'Distribuição de Concorrentes'
 
 
+# --- Funções de Criação de Layout ---
 def criar_layout_principal():
     """Cria o layout da página principal com o mapa e os filtros."""
-    return html.Div(style={'backgroundColor': COLORS['background'], 'fontFamily': 'Arial, sans-serif'}, children=[
-        html.H1('Distribuição de Concorrentes', style={'textAlign': 'center', 'color': COLORS['text']}),
+    return html.Div(style={'backgroundColor': COLORS['background'], 'fontFamily': 'Arial, sans-serif', 'margin':'0px auto'}, children=[
+        html.H1('Distribuição de Concorrentes', style={'textAlign': 'center', 'color': COLORS['text'], 'margin':'0px auto'}),
+        html.Div([
+            html.Button("Baixar Dados (CSV)", id="btn_download_csv", style={'marginRight': '15px'}),
+            dcc.Download(id="download-dataframe-csv"),
+        ], style={'textAlign': 'center', 'padding': '10px'}),
+
         html.Div([
             dcc.Dropdown(id='filtro-estado', options=[{'label': nome, 'value': uf} for uf, nome in df_estados.sort_values('nome').set_index('uf')['nome'].items()] if not df_estados.empty else [], placeholder='Filtrar por Estado (UF)', multi=True),
             dcc.Dropdown(id='filtro-tipo', options=[{'label': tipo, 'value': tipo} for tipo in sorted(df_mapa['tipo_estabelecimento'].dropna().unique())] if not df_mapa.empty else [], placeholder='Filtrar por Tipo', multi=True),
@@ -169,14 +190,14 @@ def criar_layout_detalhes_estado(estado_selecionado):
         uniformtext_minsize=8, 
         uniformtext_mode='hide',
         yaxis=dict(showgrid=False),
-        plot_bgcolor=COLORS['plot_background'],
-        paper_bgcolor=COLORS['background']
+        plot_bgcolor=COLORS['bg-bar'],
+        paper_bgcolor=COLORS['bg-bar']
     )
     
     max_pop = df_filtrado['populacao'].max()
     fig.update_yaxes(range=[0, max_pop * 1.15])
     
-    return html.Div(style={'backgroundColor': COLORS['background'], 'padding': '20px', 'minHeight': '100vh'}, children=[
+    return html.Div(style={'backgroundColor': COLORS['bg-bar'], 'padding': '20px','margin': '0px' ,'minHeight': '100vh'}, children=[
         html.H1(f'Detalhes Demográficos: {nome_estado}', style={'textAlign': 'center', 'color': COLORS['text']}),
         dcc.Graph(figure=fig),
         dcc.Link('<< Voltar ao Mapa', href='/', style={'textAlign': 'center', 'display': 'block', 'fontSize': '20px', 'color': '#7FDBFF'})
@@ -224,21 +245,19 @@ def criar_layout_detalhes_cidade(nome_mun):
         uniformtext_minsize=8, 
         uniformtext_mode='hide',
         yaxis=dict(showgrid=False),
-        plot_bgcolor=COLORS['plot_background'],
-        paper_bgcolor=COLORS['background'],
+        plot_bgcolor=COLORS['bg-bar'],
+        paper_bgcolor=COLORS['bg-bar'],
         title_font_size=20
     )
     
     max_pop = df_filtrado['populacao'].max()
     fig.update_yaxes(range=[0, max_pop * 1.15])
 
-    return html.Div(style={'backgroundColor': COLORS['background'], 'padding': '10px', 'minHeight': '150vh'}, children=[
+    return html.Div(style={'backgroundColor': COLORS['bg-bar'], 'padding': '10px', 'minHeight': '150vh'}, children=[
         html.H1(f'{nome_mun}', style={'textAlign': 'center', 'color': COLORS['text']}),
         dcc.Graph(figure=fig),
         dcc.Link('<< Voltar ao Mapa', href='/', style={'textAlign': 'center', 'display': 'block', 'fontSize': '15px', 'color': "#18BEFF"})
     ])
-
-
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -246,27 +265,22 @@ app.layout = html.Div([
 ])
 
 
+# --- Callbacks ---
 @app.callback(
     Output('page-content', 'children'),
     Input('url', 'pathname')
 )
 def display_page(pathname):
-    """Renderiza a página correta com base na URL."""
     if pathname and pathname.startswith('/detalhes-estado/'):
-        estado = pathname.split('/')[-1]
-        return criar_layout_detalhes_estado(estado)
+        return criar_layout_detalhes_estado(pathname.split('/')[-1])
     if pathname and pathname.startswith('/detalhes-cidade/'):
-        cidade = pathname.split('/')[-1]
-        return criar_layout_detalhes_cidade(cidade)
-    
+        return criar_layout_detalhes_cidade(pathname.split('/')[-1])
     return criar_layout_principal()
 
 @app.callback(
     Output('mapa-clientes', 'figure'),
-    [Input('filtro-estado', 'value'),
-     Input('filtro-tipo', 'value'),
-     Input('filtro-concorrente', 'value'),
-     Input('filtro-status', 'value'),
+    [Input('filtro-estado', 'value'), Input('filtro-tipo', 'value'),
+     Input('filtro-concorrente', 'value'), Input('filtro-status', 'value'),
      Input('seletor-mapa', 'value')]
 )
 def update_map_figure(estados, tipos, concorrentes, status, tipo_mapa):
@@ -282,49 +296,56 @@ def update_map_figure(estados, tipos, concorrentes, status, tipo_mapa):
 
     if tipo_mapa == 'scatter':
         df_scatter = df_filtrado.copy()
-        jitter_amount = 0.008
+        jitter_amount = 0.040
         is_duplicated = df_scatter.duplicated(subset=['latitude', 'longitude'], keep=False)
         num_duplicates = is_duplicated.sum()
         if num_duplicates > 0:
             df_scatter.loc[is_duplicated, 'latitude'] += np.random.uniform(-jitter_amount, jitter_amount, size=num_duplicates)
             df_scatter.loc[is_duplicated, 'longitude'] += np.random.uniform(-jitter_amount, jitter_amount, size=num_duplicates)
         
-
         fig = px.scatter_mapbox(
             df_scatter,
             lat="latitude", lon="longitude", color="concorrente",
-            size_max=15, zoom=4, center={"lat": -14.2350, "lon": -51.9253},
+            zoom=3.8, center={"lat": -14.2350, "lon": -51.9253},
             mapbox_style="open-street-map",
             hover_name="municipio", custom_data=['municipio']
         )
+        fig.update_traces(
+            marker=dict(
+                size=7.5,
+                opacity=1.0
+            )
+        )
         fig.update_layout(
-            margin={"r":0, "t":40, "l":0, "b":0},
+            margin={"r":0, "t":0, "l":0, "b":0},
             legend=dict(
                 title_text='Concorrentes',
                 bgcolor="rgba(255, 255, 255, 0.8)", 
-                bordercolor="#CCCCCC",
                 borderwidth=1,
                 y=1, yanchor="top",
                 x=1, xanchor="right"
             )
         )
+
     else: 
         df_agregado = df_filtrado.groupby('uf').size().reset_index(name='contagem')
         fig = px.choropleth_mapbox(
             df_agregado, geojson=GEOJSON_URL, locations='uf', featureidkey="properties.sigla",
             color='contagem', color_continuous_scale="YlOrRd",
-            mapbox_style="carto-darkmatter", zoom=3.5,
-            center={"lat": -14.2350, "lon": -51.9253}, opacity=0.7
+            #mapbox_style="carto-positron", 
+            mapbox_style="open-street-map",
+            zoom=3.5,
+            center={"lat": -14.2350, "lon": -51.9253}, opacity=0.9
         )
-        # Layout para o mapa escuro
         fig.update_layout(
-            margin={"r":0, "t":40, "l":0, "b":0},
+            margin={"r":0, "t":0, "l":0, "b":0},
             paper_bgcolor=COLORS['plot_background'],
             plot_bgcolor=COLORS['plot_background'],
             font_color=COLORS['text'],
-            coloraxis_colorbar_title_text='Nº de Clientes'
+            coloraxis_colorbar_title_text='Nº de Licitações',
         )
     return fig
+
 
 @app.callback(
     Output('url', 'pathname'),
@@ -333,19 +354,20 @@ def update_map_figure(estados, tipos, concorrentes, status, tipo_mapa):
     prevent_initial_call=True
 )
 def navigate_on_click(clickData, tipo_mapa):
-    """Navega para a página de detalhes ao clicar em uma área do mapa."""
-    if not clickData:
-        return dash.no_update
-
-    if tipo_mapa == 'choropleth':
-        estado_clicado = clickData['points'][0]['location']
-        return f'/detalhes-estado/{estado_clicado}'
-    
-    if tipo_mapa == 'scatter':
-        nome_mun_clicado = clickData['points'][0]['customdata'][0]
-        return f'/detalhes-cidade/{nome_mun_clicado}'
-        
+    if not clickData: return dash.no_update
+    if tipo_mapa == 'choropleth': return f'/detalhes-estado/{clickData["points"][0]["location"]}'
+    if tipo_mapa == 'scatter': return f'/detalhes-cidade/{clickData["points"][0]["customdata"][0]}'
     return dash.no_update
+
+@app.callback(
+    Output("download-dataframe-csv", "data"),
+    Input("btn_download_csv", "n_clicks"),
+    prevent_initial_call=True,
+)
+def download_csv(n_clicks):
+    return dict(content=df_empresas_raw.to_csv(sep=';', index=False, encoding='utf-8'), filename="dados_empresas.csv")
+
+
 
 if __name__ == '__main__':
     app.run(debug=True)
